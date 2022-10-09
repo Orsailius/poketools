@@ -21,16 +21,14 @@ table.on("tableBuilt", function()
 {
     $.getJSON("pokemonTest.json", function( data ) 
     {
-        alert("got data");
-        console.debug(data);
         table.setData(data)
         .then(function()
         {
-            alert("Success!");
+            //alert("Success!");
         })
         .catch(function(error)
         {
-           alert(error);
+           //alert(error);
         });
     });
 });
