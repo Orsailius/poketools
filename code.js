@@ -18,7 +18,18 @@ table.on("rowClick", function(e, row){
    alert("Row " + row.getData().id + " Clicked!!!!");
 });
 
-$.getJSON( "pokemon.json", function( data ) 
+table.on("tableBuilt", function()
 {
-    table.setData(".json", data);
+    $.getJSON( "pokemon.json", function( data ) 
+    {
+        table.setData(data)
+        .then(function()
+        {
+            alert("Success!");
+        })
+        .catch(function(error)
+        {
+           alert(error);
+        });
+    });
 });
