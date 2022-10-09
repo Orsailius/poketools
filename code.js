@@ -20,8 +20,10 @@ table.on("rowClick", function(e, row){
 
 table.on("tableBuilt", function()
 {
-    $.getJSON( "pokemon.json", function( data ) 
+    alert("Table built");
+    $.getJSON("pokemon.json", function( data ) 
     {
+        alert("got data");
         table.setData(data)
         .then(function()
         {
