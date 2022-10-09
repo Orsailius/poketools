@@ -11,7 +11,7 @@ var table = new Tabulator("#example-table", {
  	columns:[ //Define Table Columns
 	 	{title:"Name", field:"name", width:150, frozen:true},
 	 	{title:"Types", field:"Types", hozAlign:"left"},
-         {title:"Speed", field:"Speed", hozAlign:"left",
+         {title:"Speed", field:"Speed", formatter:"progress",
          min:0,
          max:255,
          color:["green", "orange", "red"],},
