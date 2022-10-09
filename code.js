@@ -1,6 +1,6 @@
 //define some sample data
 var tabledata = [
-    {id:1, name:"Bulbasaur", types:"Grass,Poison"},
+    {id:1, name:"Bulbasaur", Types:"Grass,Poison", Speed:"45"},
 ];
 
 //create Tabulator on DOM element with id "example-table"
@@ -9,8 +9,12 @@ var table = new Tabulator("#example-table", {
     data: tabledata,
     layout:"fitColumns", //fit columns to width of table (optional)
  	columns:[ //Define Table Columns
-	 	{title:"Name", field:"name", width:150},
-	 	{title:"Types", field:"types", hozAlign:"left"}
+	 	{title:"Name", field:"name", width:150, frozen:true},
+	 	{title:"Types", field:"Types", hozAlign:"left"},
+         {title:"Speed", field:"Speed", hozAlign:"left",
+         min:0,
+         max:255,
+         color:["green", "orange", "red"],},
  	]
 });
 
