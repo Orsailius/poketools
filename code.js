@@ -13,9 +13,12 @@ var table = new Tabulator("#example-table", {
     importFormat:"json",
 });
 
-table.setData(data);
-
 //trigger an alert message when the row is clicked
 table.on("rowClick", function(e, row){ 
    alert("Row " + row.getData().id + " Clicked!!!!");
+});
+
+$.getJSON( "pokemon.json", function( data ) 
+{
+    table.setData(".json", data);
 });
