@@ -27,7 +27,7 @@ table.on("rowClick", function(e, row){
 
 table.on("tableBuilt", function()
 {
-    $.getJSON("pokemonTest.json", function( data ) 
+    /*$.getJSON("pokemonTest.json", function( data ) 
     {
         console.debug(data);
         table.setData(data)
@@ -42,5 +42,5 @@ table.on("tableBuilt", function()
             console.debug(error);
            //alert(error);
         });
-    });
+    });*/
 });
