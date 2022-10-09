@@ -21,13 +21,17 @@ table.on("tableBuilt", function()
 {
     $.getJSON("pokemonTest.json", function( data ) 
     {
+        console.debug(data);
         table.setData(data)
         .then(function()
         {
+            console.debug("Successfully Set Data");
             //alert("Success!");
         })
         .catch(function(error)
         {
+            console.debug("error");
+            console.debug(error);
            //alert(error);
         });
     });
