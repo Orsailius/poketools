@@ -22,11 +22,24 @@
   <link href="https://unpkg.com/tabulator-tables@5.4.1/dist/css/tabulator_simple.min.css" rel="stylesheet">
   <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.4.1/dist/js/tabulator.min.js"></script>
   <script type="text/javascript" src="pokemon.json"></script>
+  <link href="main.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-3.6.1.min.js" 
   integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 </head>
 
 <body>
+  <div id="filters">
+    <select id="filter-field">
+      <option value="Resists">Resists</option>
+      <option value="Immune To">Immune To</option>
+      <option value="Weak To">Weak To</option>
+    </select> 
+  
+    <select id="filter-pokemon-type">
+
+    </select>  
+    <button id="filter-clear">Clear Filter</button>
+  </div>
   <div id="example-table"></div>
   <!--   -->
   <script src="code.js"></script>

@@ -301,7 +301,7 @@
    },
    {
       "Name":"Weedle",
-      "Description":"Often found in forests, eating leaves.It has a sharp venomous stinger on its head.",
+      "Description":"Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
       "Sprites":"13.png (https://dl.airtable.com/.attachments/1883732699268cadd59813c02a27a7fc/6b9f039f/13.png),13.png (https://dl.airtable.com/.attachments/96bfd370acc893be1aa09890ad458c85/0c85636e/13.png),13.png (https://dl.airtable.com/.attachments/c2856cfaf70c28b982786ff47e11a986/cfa6e26a/13.png),13.png (https://dl.airtable.com/.attachments/cc93a3e2b78d91fdf45b2b6951e9716b/09f1ce73/13.png)",
       "Height":0.3,
       "Weight":3.2,
@@ -326,7 +326,7 @@
    },
    {
       "Name":"Kakuna",
-      "Description":"Almost incapable of moving, this POK�MON can onlyharden its shell to protect itself from predators.",
+      "Description":"Almost incapable of moving, this POK�MON can only harden its shell to protect itself from predators.",
       "Sprites":"14.png (https://dl.airtable.com/.attachments/925fa0d03392e6cc5004d79ee442fa83/4cd49a30/14.png),14.png (https://dl.airtable.com/.attachments/eca9d4d8499d006844bbb9683df0deca/ff64b51b/14.png),14.png (https://dl.airtable.com/.attachments/431fdb1b0a932a9ab2ab1e43b0274d4d/4c54c3bb/14.png),14.png (https://dl.airtable.com/.attachments/4c696206ec79622024e68a18c7fb1fc4/19ea224a/14.png)",
       "Height":0.6,
       "Weight":10,
@@ -351,7 +351,7 @@
    },
    {
       "Name":"Beedrill",
-      "Description":"Flies at high speed and attacks using its largevenomous stingers on its forelegs and tail.",
+      "Description":"Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
       "Sprites":"15.png (https://dl.airtable.com/.attachments/fbc381b389e44a227617881ed6a56c95/9d80b17b/15.png),15.png (https://dl.airtable.com/.attachments/26db271f2752632b8ece17836b0bec01/5a586811/15.png),15.png (https://dl.airtable.com/.attachments/1dab49dbef95bf7613fd0f281cf0a3dc/10ca3bb1/15.png),15.png (https://dl.airtable.com/.attachments/381fb16743b0f66aef6fb570a427cd97/9a816efd/15.png)",
       "Height":1,
       "Weight":29.5,
@@ -751,7 +751,7 @@
    },
    {
       "Name":"Nidoqueen",
-      "Description":"Its hard scales provide strong protection. Ituses its hefty bulk to execute powerful moves.",
+      "Description":"Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
       "Sprites":"31.png (https://dl.airtable.com/.attachments/d67303cad23f64bc44be5624299e963d/0d623f81/31.png),31.png (https://dl.airtable.com/.attachments/1fe340fe918b4a2c163d41a71798c547/2aed30b0/31.png),31.png (https://dl.airtable.com/.attachments/dd082d4f68bb46507e4dcf03171986cc/1439c662/31.png),31.png (https://dl.airtable.com/.attachments/cb44d7d3ed71a76388b72ba8a278ee2e/703f4137/31.png)",
       "Height":1.3,
       "Weight":60,
@@ -776,7 +776,7 @@
    },
    {
       "Name":"Nidoran-m",
-      "Description":"Stiffens its ears to sense danger. The larger itshorns, the more powerful its secreted venom.",
+      "Description":"Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
       "Sprites":"32.png (https://dl.airtable.com/.attachments/c1a9d12eac6b8782d03b4aed17ad6712/4db27546/32.png),32.png (https://dl.airtable.com/.attachments/641a0851ea7128d0c483d5346833e351/3b8dafe8/32.png),32.png (https://dl.airtable.com/.attachments/6bb5ef5d82e41b6cc5692940b6de4ff1/3423137d/32.png),32.png (https://dl.airtable.com/.attachments/78213511a3040a335accb5733d2e58d5/8379a841/32.png)",
       "Height":0.5,
       "Weight":9,
@@ -801,7 +801,7 @@
    },
    {
       "Name":"Nidorino",
-      "Description":"An aggressive POK�MON that is quick to attack.The horn on its head secretes a powerful venom.",
+      "Description":"An aggressive POK�MON that is quick to attack. The horn on its head secretes a powerful venom.",
       "Sprites":"33.png (https://dl.airtable.com/.attachments/26323cd2e37b3024e3e72a4000dd7ea0/78ca8cbd/33.png),33.png (https://dl.airtable.com/.attachments/2159f917e0c2089ef7321ccf462535ef/244a6b61/33.png),33.png (https://dl.airtable.com/.attachments/cb03932d8c17448925c5a1fd23dc44a8/a7dd2295/33.png),33.png (https://dl.airtable.com/.attachments/f0b59b6c670b0356f484bed0c0578db5/d47162dc/33.png)",
       "Height":0.9,
       "Weight":19.5,
@@ -951,7 +951,7 @@
    },
    {
       "Name":"Jigglypuff",
-      "Description":"When its huge eyes light up, it sings a mysteriouslysoothing melody that lulls its enemies to sleep.",
+      "Description":"When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
       "Sprites":"39.png (https://dl.airtable.com/.attachments/ff4615661911799e069fec168ac5eab6/6e2cd1ef/39.png),39.png (https://dl.airtable.com/.attachments/61bccc962115067dcca64425f33fb8c8/ea8348da/39.png),39.png (https://dl.airtable.com/.attachments/2b5f219393bf4b13070cca33108f2211/3767cd24/39.png),39.png (https://dl.airtable.com/.attachments/a1554eeb2e4a85a3804115bccb9e101a/77d3edcf/39.png)",
       "Height":0.5,
       "Weight":5.5,
@@ -976,7 +976,7 @@
    },
    {
       "Name":"Wigglytuff",
-      "Description":"The body is soft and rubbery. When angered, it willsuck in air and inflate itself to an enormous size.",
+      "Description":"The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
       "Sprites":"40.png (https://dl.airtable.com/.attachments/7d3d16a9d5488b284ad406a2ead379b8/212ddeba/40.png),40.png (https://dl.airtable.com/.attachments/6890e95719774a9464de185792f7e113/b8020e15/40.png),40.png (https://dl.airtable.com/.attachments/c36eb9a5b72b140ebae9a48ccb52593d/ecc5f881/40.png),40.png (https://dl.airtable.com/.attachments/5e4b49a81b5d7c1639c88a49835b2eba/5b4582b0/40.png)",
       "Height":1,
       "Weight":12,
@@ -1001,7 +1001,7 @@
    },
    {
       "Name":"Zubat",
-      "Description":"Forms colonies in perpetually dark places. Usesultrasonic waves to identify and approach targets.",
+      "Description":"Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
       "Sprites":"41.png (https://dl.airtable.com/.attachments/320fa7de2975d793ef12972e924f5134/7ab66988/41.png),41.png (https://dl.airtable.com/.attachments/6454a1f7207b1a87f3577393d37a89d0/3d3dac0a/41.png),41.png (https://dl.airtable.com/.attachments/7d40b487c92922efc2d73b2bd036a12d/ea547222/41.png),41.png (https://dl.airtable.com/.attachments/44035b0101e0c5d481817a35bb21c47f/b2608654/41.png),41.png (https://dl.airtable.com/.attachments/ddcbb674b007d0297d19a217a1ef3bd3/005d43b4/41.png),41.png (https://dl.airtable.com/.attachments/550debfafb38b4bce7927c652bceb81b/646a3c20/41.png),41.png (https://dl.airtable.com/.attachments/e0174c19ba2893ced43d3f0fe73b8346/b8f8d041/41.png),41.png (https://dl.airtable.com/.attachments/02bbc6e4e37ff40e51baaf1a3d30da31/065458b5/41.png)",
       "Height":0.8,
       "Weight":7.5,
@@ -1026,7 +1026,7 @@
    },
    {
       "Name":"Golbat",
-      "Description":"Once it strikes, it will not stop draining energyfrom the victim even if it gets too heavy to fly.",
+      "Description":"Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
       "Sprites":"42.png (https://dl.airtable.com/.attachments/813d9e467aa350c17ca4359e27e53def/e700adcf/42.png),42.png (https://dl.airtable.com/.attachments/ff87edc59a4db9c101b3a876e4d55e7e/8cbc6876/42.png),42.png (https://dl.airtable.com/.attachments/785b0407e209c9879950043a94606ef1/35b2b166/42.png),42.png (https://dl.airtable.com/.attachments/d4a6b1e7090a4f0c2f98778d1e4c4b9b/ad111346/42.png),42.png (https://dl.airtable.com/.attachments/613fbf9adcb4ecf5ec46bce82b8113a0/7013213d/42.png),42.png (https://dl.airtable.com/.attachments/86a0571a10d7060634922b1b426757cf/eb5bd196/42.png)",
       "Height":1.6,
       "Weight":55,
@@ -1126,7 +1126,7 @@
    },
    {
       "Name":"Paras",
-      "Description":"Burrows to suck tree roots. The mushrooms on itsback grow by draw� ing nutrients from the bug host.",
+      "Description":"Burrows to suck tree roots. The mushrooms on its back grow by draw� ing nutrients from the bug host.",
       "Sprites":"46.png (https://dl.airtable.com/.attachments/45fb5d791be46141bdae980b5bbd7fa9/9ab49625/46.png),46.png (https://dl.airtable.com/.attachments/8db4ce081d9655b2401c7dedec9d01cc/934532bb/46.png),46.png (https://dl.airtable.com/.attachments/0259931d569da50d37b09cf3a3dad924/953e6ec7/46.png),46.png (https://dl.airtable.com/.attachments/eab62eb55e9e34a76a08e045fcfa0dd0/5dba035a/46.png)",
       "Height":0.3,
       "Weight":5.4,
@@ -1151,7 +1151,7 @@
    },
    {
       "Name":"Parasect",
-      "Description":"A host-parasite pair in which the parasite mushroomhas taken over the host bug. Prefers damp places.",
+      "Description":"A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
       "Sprites":"47.png (https://dl.airtable.com/.attachments/cea164490e0f6b21f752962f502bc9ec/2d53d184/47.png),47.png (https://dl.airtable.com/.attachments/c230d8ebf0ea6bfc36abaeec913d0321/f3ecac67/47.png),47.png (https://dl.airtable.com/.attachments/2370058932b0a6323967a5a63aa0ec6a/ca27bcac/47.png),47.png (https://dl.airtable.com/.attachments/c08d2bbab751d1d91b5369ddf286b187/ae079b42/47.png)",
       "Height":1,
       "Weight":29.5,
@@ -1201,7 +1201,7 @@
    },
    {
       "Name":"Venomoth",
-      "Description":"The dust-like scales covering its wings arecolor coded to indicate the kinds of poison it has.",
+      "Description":"The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
       "Sprites":"49.png (https://dl.airtable.com/.attachments/26d768688f2b7c396a151e930b01674a/7ebeebf1/49.png),49.png (https://dl.airtable.com/.attachments/57c823b08f7b47ae0c464800c67360a2/bc9a2d63/49.png),49.png (https://dl.airtable.com/.attachments/79825b8f39530bdede97ad798d072c20/f5912c15/49.png),49.png (https://dl.airtable.com/.attachments/60244244bbde11e3fc13ec768e298f15/92c28fcb/49.png)",
       "Height":1.5,
       "Weight":12.5,
@@ -1326,7 +1326,7 @@
    },
    {
       "Name":"Psyduck",
-      "Description":"While lulling its enemies with its vacant look, thiswily POK�MON will use psychokinetic powers.",
+      "Description":"While lulling its enemies with its vacant look, this wily POK�MON will use psychokinetic powers.",
       "Sprites":"54.png (https://dl.airtable.com/.attachments/b8951d8055282c59c2f3342abbb45ae0/d6991919/54.png),54.png (https://dl.airtable.com/.attachments/c54eba81874ba074e7d2b3920fc42da0/45db22e3/54.png),54.png (https://dl.airtable.com/.attachments/710e5b153cca16f5f723976f4d809d8d/13ea0156/54.png),54.png (https://dl.airtable.com/.attachments/d6180abc9c54d90ab2da29dc65d08345/5337ee8b/54.png)",
       "Height":0.8,
       "Weight":19.6,
@@ -1351,7 +1351,7 @@
    },
    {
       "Name":"Golduck",
-      "Description":"Often seen swim� ming elegantly by lake shores. Itis often mistaken for the Japanese monster, Kappa.",
+      "Description":"Often seen swim� ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
       "Sprites":"55.png (https://dl.airtable.com/.attachments/a5d752a6c23a53e5a9ae4b37efdaf20b/ea7ef478/55.png),55.png (https://dl.airtable.com/.attachments/f2d011e7245919e3bdf8c99a5a6fb39b/7b23d493/55.png),55.png (https://dl.airtable.com/.attachments/764913ae3f069290411355e9c97fdb61/a359de67/55.png),55.png (https://dl.airtable.com/.attachments/5559848e3984ffb5e6b5c39a541e95f1/d5afdc83/55.png)",
       "Height":1.7,
       "Weight":76.6,
@@ -1401,7 +1401,7 @@
    },
    {
       "Name":"Primeape",
-      "Description":"Always furious and tenacious to boot. It will notabandon chasing its quarry until it is caught.",
+      "Description":"Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
       "Sprites":"57.png (https://dl.airtable.com/.attachments/ef92b06329bb72d61b5e2e90a07cdadd/c3da76b9/57.png),57.png (https://dl.airtable.com/.attachments/fbba62d258bfca037f371e277f2132ef/a141d7a0/57.png),57.png (https://dl.airtable.com/.attachments/c8fbe063570711be75c02b1b1de3a6a5/d9805a67/57.png),57.png (https://dl.airtable.com/.attachments/868addf0cd922cab02f47259f65d9557/8dbc014d/57.png)",
       "Height":1,
       "Weight":32,
@@ -1476,7 +1476,7 @@
    },
    {
       "Name":"Poliwag",
-      "Description":"Its newly grown legs prevent it from running. Itappears to prefer swimming than trying to stand.",
+      "Description":"Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
       "Sprites":"60.png (https://dl.airtable.com/.attachments/7e7da60f61911ffba7e47ec319f05a01/ecdce3d4/60.png),60.png (https://dl.airtable.com/.attachments/2858ff51b16569f220607bfdc6af5327/eb325a67/60.png),60.png (https://dl.airtable.com/.attachments/59c935001263bb1d7d5ac3605f76c9ad/85063c42/60.png),60.png (https://dl.airtable.com/.attachments/c1045dee748ffc3d62628dbaf6b58cbc/540a0167/60.png)",
       "Height":0.6,
       "Weight":12.4,
@@ -1501,7 +1501,7 @@
    },
    {
       "Name":"Poliwhirl",
-      "Description":"The skin on most of its body is moist. However,the skin on its belly spiral feels smooth.",
+      "Description":"The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
       "Sprites":"61.png (https://dl.airtable.com/.attachments/f87c3eb09f875739bb3005f97fd4d6a5/6ce39361/61.png),61.png (https://dl.airtable.com/.attachments/60a1336adae0589b80c89e4563641858/fc3816a7/61.png),61.png (https://dl.airtable.com/.attachments/92545e64c1af03632612db2f2ce70640/05158da2/61.png),61.png (https://dl.airtable.com/.attachments/7f2057e994d6b961efa539420df948ca/30aa1b38/61.png)",
       "Height":1,
       "Weight":20,
@@ -1526,7 +1526,7 @@
    },
    {
       "Name":"Poliwrath",
-      "Description":"An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+      "Description":"An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
       "Sprites":"62.png (https://dl.airtable.com/.attachments/db1541b439516f9166b2a42c97313069/144845d2/62.png),62.png (https://dl.airtable.com/.attachments/8483067d7682b66f5e93c4ca45ea15b5/18e27510/62.png),62.png (https://dl.airtable.com/.attachments/ae724b099f3a45fa3280b7f68808449d/5a4cfbcc/62.png),62.png (https://dl.airtable.com/.attachments/d0144947896dacc34ae2ed5fe3bf0ac3/7ef338d0/62.png)",
       "Height":1.3,
       "Weight":54,
@@ -1551,7 +1551,7 @@
    },
    {
       "Name":"Abra",
-      "Description":"Using its ability to read minds, it will identifyimpending danger and TELEPORT to safety.",
+      "Description":"Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
       "Sprites":"63.png (https://dl.airtable.com/.attachments/2893ed91c112458d93f0649887b1c7aa/5075d5d8/63.png),63.png (https://dl.airtable.com/.attachments/c280fad0e885f7004e62c526bbf1a398/ebc05bc8/63.png),63.png (https://dl.airtable.com/.attachments/df10ae8f62c0d73fd29ecbac13508d18/9d6563ce/63.png),63.png (https://dl.airtable.com/.attachments/0b7def1f4c14fb790752002789b38a58/5a96c0f2/63.png)",
       "Height":0.9,
       "Weight":19.5,
@@ -1576,7 +1576,7 @@
    },
    {
       "Name":"Kadabra",
-      "Description":"It emits special alpha waves from its body thatinduce headaches just by being close by.",
+      "Description":"It emits special alpha waves from its body that induce headaches just by being close by.",
       "Sprites":"64.png (https://dl.airtable.com/.attachments/87e9f6fb0dff591ed48072e97ffec670/39a42117/64.png),64.png (https://dl.airtable.com/.attachments/2934c83b73fda57d366baebfbe0499bc/d645e5fa/64.png),64.png (https://dl.airtable.com/.attachments/98b65cab915056d5cc6e3a4f83c06be2/4e52cad2/64.png),64.png (https://dl.airtable.com/.attachments/9d10d8b1af96cd05ee4ada31b1c298b8/e0b99a93/64.png),64.png (https://dl.airtable.com/.attachments/2167624c0849b3d2262477ba4fc53f8b/37490042/64.png),64.png (https://dl.airtable.com/.attachments/8b60429a6a356cb33e57cf78afb392ad/fc390c66/64.png),64.png (https://dl.airtable.com/.attachments/38941abf9930f8daafb4dbf8c9c3d6ae/ffd2ab83/64.png),64.png (https://dl.airtable.com/.attachments/ca3874d75c157272e2b52d5d5ce28460/b1ce9393/64.png)",
       "Height":1.3,
       "Weight":56.5,
@@ -1601,7 +1601,7 @@
    },
    {
       "Name":"Alakazam",
-      "Description":"Its brain can out� perform a super� computer.Its intelligence quotient is said to be 5,000.",
+      "Description":"Its brain can out� perform a super� computer. Its intelligence quotient is said to be 5,000.",
       "Sprites":"65.png (https://dl.airtable.com/.attachments/a1b23375e3ae37a76eba1b217b07746e/dacde465/65.png),65.png (https://dl.airtable.com/.attachments/6bd99a3df149a1aeb1b6fe36e0ccf27d/0aa74cf9/65.png),65.png (https://dl.airtable.com/.attachments/7bb9c6cf9ae39ed0932ba33a514fc8da/75a7d2c7/65.png),65.png (https://dl.airtable.com/.attachments/0d702c3549f25bd5d08f9d2d47cac876/7a225c7c/65.png),65.png (https://dl.airtable.com/.attachments/8be76e6f424a856deee0805a844ce9cc/bd6b19dd/65.png),65.png (https://dl.airtable.com/.attachments/7683446f28979a91ef10168ea57f5605/4e39046c/65.png),65.png (https://dl.airtable.com/.attachments/d25f5e00165479ffc246e22aec1b45f6/b03dc855/65.png),65.png (https://dl.airtable.com/.attachments/d0b9519d7ad705f01ae81baf34a73dd3/31663354/65.png)",
       "Height":1.5,
       "Weight":48,
@@ -1701,7 +1701,7 @@
    },
    {
       "Name":"Bellsprout",
-      "Description":"A carnivorous POK�MON that traps and eats bugs.It uses its root feet to soak up needed moisture.",
+      "Description":"A carnivorous POK�MON that traps and eats bugs. It uses its root feet to soak up needed moisture.",
       "Sprites":"69.png (https://dl.airtable.com/.attachments/372d9de1986330ece27c0234f5e6b20b/e3272db1/69.png),69.png (https://dl.airtable.com/.attachments/b4f31533775c8ea0380d878c2db3fd62/38c7fe2b/69.png),69.png (https://dl.airtable.com/.attachments/0b7a11c06a154d7a133efdb8b8a36bf6/80fdc020/69.png),69.png (https://dl.airtable.com/.attachments/62b70a2c91b2443d50953c56e9ecf510/3159e285/69.png)",
       "Height":0.7,
       "Weight":4,
@@ -1726,7 +1726,7 @@
    },
    {
       "Name":"Weepinbell",
-      "Description":"It spits out POISONPOWDER to immobilize theenemy and then finishes it with a spray of ACID.",
+      "Description":"It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
       "Sprites":"70.png (https://dl.airtable.com/.attachments/da731e70e421af646b24b431fabdb990/eae6a84c/70.png),70.png (https://dl.airtable.com/.attachments/46b94c07f5630098a7e8c38f4bb3139b/b7167881/70.png),70.png (https://dl.airtable.com/.attachments/09c1bf87707585811b4511b7087f6938/c57e33dd/70.png),70.png (https://dl.airtable.com/.attachments/3007c1a9d7b97de05233a5d140c557f1/aabfce26/70.png)",
       "Height":1,
       "Weight":6.4,
@@ -1751,7 +1751,7 @@
    },
    {
       "Name":"Victreebel",
-      "Description":"Said to live in huge colonies deep in jungles,although no one has ever returned from there.",
+      "Description":"Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
       "Sprites":"71.png (https://dl.airtable.com/.attachments/bcd3f25a80ee7d5c6ea1d752dbb9bf8f/3ee99d73/71.png),71.png (https://dl.airtable.com/.attachments/33243ce00c784b322de9d4896a13088d/77401546/71.png),71.png (https://dl.airtable.com/.attachments/34c122f937c4f4c5007fa4b3b205676a/c4cd1fe9/71.png),71.png (https://dl.airtable.com/.attachments/b3a170481fa6b9fa0fce5c917482b7e9/f884dc54/71.png)",
       "Height":1.7,
       "Weight":15.5,
@@ -1776,7 +1776,7 @@
    },
    {
       "Name":"Tentacool",
-      "Description":"Drifts in shallow seas. Anglers who hook them byaccident are often punished by its stinging acid.",
+      "Description":"Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
       "Sprites":"72.png (https://dl.airtable.com/.attachments/8573ad32d8e321bb26914f26ff972743/d0645664/72.png),72.png (https://dl.airtable.com/.attachments/300666393916b314051951fdeedf826b/5dcfbe23/72.png),72.png (https://dl.airtable.com/.attachments/c769da942bce52cdecedeb19b31da971/552795dd/72.png),72.png (https://dl.airtable.com/.attachments/2eef8c5b6f139d36ebd725d550439eee/ea3cc492/72.png)",
       "Height":0.9,
       "Weight":45.5,
@@ -1801,7 +1801,7 @@
    },
    {
       "Name":"Tentacruel",
-      "Description":"The tentacles are normally kept short. On hunts,they are extended to ensnare and immobilize prey.",
+      "Description":"The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
       "Sprites":"73.png (https://dl.airtable.com/.attachments/ef4e7fa3a6f844d8d80a11df4211497e/42210ab3/73.png),73.png (https://dl.airtable.com/.attachments/adb50c78502ba3cfa45a46dc24599ef2/1812c9b6/73.png),73.png (https://dl.airtable.com/.attachments/1d1396599f0da7438c930b1805647452/7418db66/73.png),73.png (https://dl.airtable.com/.attachments/68d5c32206dcf06ee763cb3bc08ec8ad/755a0e84/73.png)",
       "Height":1.6,
       "Weight":55,
@@ -1851,7 +1851,7 @@
    },
    {
       "Name":"Graveler",
-      "Description":"Rolls down slopes to move. It rolls over any obstaclewithout slowing or changing its direction.",
+      "Description":"Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
       "Sprites":"75.png (https://dl.airtable.com/.attachments/2be0650b676f9b2fec7484f19e732919/1289a90c/75.png),75.png (https://dl.airtable.com/.attachments/1088bf8484f28f224b9a3e63f16f7a59/dbe98493/75.png),75.png (https://dl.airtable.com/.attachments/416aa7671ebc58f38950f1bbe166b9ff/7dcf0694/75.png),75.png (https://dl.airtable.com/.attachments/205009c7baab0d1198ba179d7988de9f/36e4d02a/75.png)",
       "Height":1,
       "Weight":105,
@@ -1876,7 +1876,7 @@
    },
    {
       "Name":"Golem",
-      "Description":"Its boulder-like body is extremely hard. It caneasily withstand dynamite blasts without damage.",
+      "Description":"Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
       "Sprites":"76.png (https://dl.airtable.com/.attachments/859c8dc669fde0fb60dff9823dfe2a68/aa165436/76.png),76.png (https://dl.airtable.com/.attachments/d5432d1c43c5385bc4c14ab1a021c173/820e8e02/76.png),76.png (https://dl.airtable.com/.attachments/6681d2c8b3fe6bbc2a6a91261008fd69/219a9be6/76.png),76.png (https://dl.airtable.com/.attachments/6edd165e7f7ef18dd77939013f9bf43c/b40eb7c1/76.png)",
       "Height":1.4,
       "Weight":300,
@@ -1951,7 +1951,7 @@
    },
    {
       "Name":"Slowpoke",
-      "Description":"Incredibly slow and dopey. It takes 5 secondsfor it to feel pain when under attack.",
+      "Description":"Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
       "Sprites":"79.png (https://dl.airtable.com/.attachments/ab1b0899611447c53150d0ccf63b0041/1aab46dc/79.png),79.png (https://dl.airtable.com/.attachments/afb428a5893a5b84842d7c4b7494880e/8f52a057/79.png),79.png (https://dl.airtable.com/.attachments/821547da8fe462cced3b00b5ee37cac4/7f227fdd/79.png),79.png (https://dl.airtable.com/.attachments/6271d824b84f3e6d4a717b529194f35b/667d05a0/79.png)",
       "Height":1.2,
       "Weight":36,
@@ -1976,7 +1976,7 @@
    },
    {
       "Name":"Slowbro",
-      "Description":"The SHELLDER that is latched onto SLOWPOKE's tailis said to feed on the host's left over scraps.",
+      "Description":"The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps.",
       "Sprites":"80.png (https://dl.airtable.com/.attachments/79fa10ae6d2499ae96846526eb108ed0/cdb94a97/80.png),80.png (https://dl.airtable.com/.attachments/76f2c8697487ca3a2c2aaa98c82ed6cf/85b3b671/80.png),80.png (https://dl.airtable.com/.attachments/bd427bfed5abbc7ba67cd19841ab7d9e/a2e54144/80.png),80.png (https://dl.airtable.com/.attachments/2478d354bfbb3b0c02b82cdbf38b1812/12d116d8/80.png)",
       "Height":1.6,
       "Weight":78.5,
@@ -2001,7 +2001,7 @@
    },
    {
       "Name":"Magnemite",
-      "Description":"Uses anti-gravity to stay suspended. Appears withoutwarning and uses THUNDER WAVE and similar moves.",
+      "Description":"Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
       "Sprites":"81.png (https://dl.airtable.com/.attachments/17bc55cc5c84eeba14f22bc6c0f74f3d/5792f5e1/81.png),81.png (https://dl.airtable.com/.attachments/5d00934e85fcfd5ab970acf7f46c8658/26ba69de/81.png),81.png (https://dl.airtable.com/.attachments/d42cde32b0a2e332181b6123eb475d11/6e37ef91/81.png),81.png (https://dl.airtable.com/.attachments/91c5aa866e25a1fa9106bcdb489f3ed4/26c6d1ae/81.png)",
       "Height":0.3,
       "Weight":6,
@@ -2026,7 +2026,7 @@
    },
    {
       "Name":"Magneton",
-      "Description":"Formed by several MAGNEMITEs linked together. Theyfrequently appear when sunspots flare up.",
+      "Description":"Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
       "Sprites":"82.png (https://dl.airtable.com/.attachments/52747d9fa64a1761a9d2706addc8c2c9/76bc743f/82.png),82.png (https://dl.airtable.com/.attachments/89d68eedb976c903d9102af2049e7d5d/69388483/82.png),82.png (https://dl.airtable.com/.attachments/ee02e7ef86912378405851003120a110/c2247d1b/82.png),82.png (https://dl.airtable.com/.attachments/0f31f5a63ad3754b4dc9216ee4fee984/2d01aa1f/82.png)",
       "Height":1,
       "Weight":60,
@@ -2051,7 +2051,7 @@
    },
    {
       "Name":"Farfetch�d",
-      "Description":"The sprig of green onions it holds is itsweapon. It is used much like a metal sword.",
+      "Description":"The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
       "Sprites":"83.png (https://dl.airtable.com/.attachments/0c8a53b450eed9f5b27352a02d0eadb3/6657b280/83.png),83.png (https://dl.airtable.com/.attachments/149e9b7920b34577f457107d06796be0/3b01d448/83.png),83.png (https://dl.airtable.com/.attachments/f4f65fbb0bcc553575609034e0c16bc7/5d1eda17/83.png),83.png (https://dl.airtable.com/.attachments/14ee4d2f36c619b688b9b7faacf99209/b9072407/83.png)",
       "Height":0.8,
       "Weight":15,
@@ -2076,7 +2076,7 @@
    },
    {
       "Name":"Doduo",
-      "Description":"A bird that makes up for its poor flying with itsfast foot speed. Leaves giant footprints.",
+      "Description":"A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
       "Sprites":"84.png (https://dl.airtable.com/.attachments/db071e1e7ac89a26d30970e27def8d5c/4745ef5e/84.png),84.png (https://dl.airtable.com/.attachments/8fbb966546393f657329cba12a11e8e9/2e4ba746/84.png),84.png (https://dl.airtable.com/.attachments/e090c2367d82d5c6fb4d5b87d06ffd36/17e53aab/84.png),84.png (https://dl.airtable.com/.attachments/44e5aa5f02a8cb0b317321c23207f9a9/6192301f/84.png),84.png (https://dl.airtable.com/.attachments/163abeab4c1024afc2b679ff61ed34a9/b77fd400/84.png),84.png (https://dl.airtable.com/.attachments/09b95e39f039e05a4103503cf02b20e5/0dcec4e4/84.png),84.png (https://dl.airtable.com/.attachments/396d5e60c43c9069b7b80cc76b2d36bc/688c6632/84.png),84.png (https://dl.airtable.com/.attachments/f1569c692ebe954f094fe5be31ef6715/9e05bb5d/84.png)",
       "Height":1.4,
       "Weight":39.2,
@@ -2101,7 +2101,7 @@
    },
    {
       "Name":"Dodrio",
-      "Description":"Uses its three brains to execute complex plans.While two heads sleep, one head stays awake.",
+      "Description":"Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
       "Sprites":"85.png (https://dl.airtable.com/.attachments/d05ee3f4debfe31f96481097b208059d/6246e774/85.png),85.png (https://dl.airtable.com/.attachments/a51a23805a61c7a557da70cb3197841f/f90d0e6a/85.png),85.png (https://dl.airtable.com/.attachments/cada4e1c9fd355d1457e6798f5eacfcf/4432dcde/85.png),85.png (https://dl.airtable.com/.attachments/ec58c77cce432b7005ed24bd2e994128/b7ffe2da/85.png),85.png (https://dl.airtable.com/.attachments/70a586222b23f7a6e63e22f6baed0ca7/daa443b7/85.png),85.png (https://dl.airtable.com/.attachments/6fd7fb8a3cfe30e6c1a1bc934ed42658/a4839396/85.png),85.png (https://dl.airtable.com/.attachments/6a3f59d159612511353b79c4442824f9/76049778/85.png),85.png (https://dl.airtable.com/.attachments/a2c81dc0ae312a1ecadc54d9ddba1082/9f9d1433/85.png)",
       "Height":1.8,
       "Weight":85.2,
@@ -2126,7 +2126,7 @@
    },
    {
       "Name":"Seel",
-      "Description":"The protruding horn on its head is very hard.It is used for bashing through thick ice.",
+      "Description":"The protruding horn on its head is very hard. It is used for bashing through thick ice.",
       "Sprites":"86.png (https://dl.airtable.com/.attachments/36318602b78e2cc03440e8fb53cbf10e/4f597d59/86.png),86.png (https://dl.airtable.com/.attachments/b078885755219b5ca2481972c0fdefad/0cde0663/86.png),86.png (https://dl.airtable.com/.attachments/a4468dfff90f2fd325177d6aa65ecc34/30d7f553/86.png),86.png (https://dl.airtable.com/.attachments/c0eb6c90746837395e98e8290efa7b6c/ec95ecc1/86.png)",
       "Height":1.1,
       "Weight":90,
@@ -2151,7 +2151,7 @@
    },
    {
       "Name":"Dewgong",
-      "Description":"Stores thermal energy in its body. Swims at asteady 8 knots even in intensely cold waters.",
+      "Description":"Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
       "Sprites":"87.png (https://dl.airtable.com/.attachments/b039e59c4f2b9972f51fb336717cb5c9/7cd80672/87.png),87.png (https://dl.airtable.com/.attachments/37aad30250b32cf889c19efe6de6756a/7212e866/87.png),87.png (https://dl.airtable.com/.attachments/74daece9d3f6193a9224b6a6818fcd04/3346a9bf/87.png),87.png (https://dl.airtable.com/.attachments/0376637f138544060015c7851e6c861b/83b5c297/87.png)",
       "Height":1.7,
       "Weight":120,
@@ -2176,7 +2176,7 @@
    },
    {
       "Name":"Grimer",
-      "Description":"Appears in filthy areas. Thrives by sucking uppolluted sludge that is pumped out of factories.",
+      "Description":"Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
       "Sprites":"88.png (https://dl.airtable.com/.attachments/f4f7329ab9f93a32a6ffdc0e29782bff/0d96db8e/88.png),88.png (https://dl.airtable.com/.attachments/f513b5b3e9188603fb750c45f31230a5/5be290d1/88.png),88.png (https://dl.airtable.com/.attachments/34c85b6b47eb0597f6be6168d7db9446/a171f15f/88.png),88.png (https://dl.airtable.com/.attachments/81261cb9ebea4f10fec774bf7cbbd069/39d32f7d/88.png)",
       "Height":0.9,
       "Weight":30,
@@ -2201,7 +2201,7 @@
    },
    {
       "Name":"Muk",
-      "Description":"Thickly covered with a filthy, vile sludge. Itis so toxic, even its footprints contain poison.",
+      "Description":"Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
       "Sprites":"89.png (https://dl.airtable.com/.attachments/8354162e410b43c099e4e1e13ad65ded/965c3c1b/89.png),89.png (https://dl.airtable.com/.attachments/50c391728ea461486fa0ca6d55b4dd33/3e8232ea/89.png),89.png (https://dl.airtable.com/.attachments/ce9b70d8c19795a8781d84617afc62e6/d7cdc0e7/89.png),89.png (https://dl.airtable.com/.attachments/013408196efcfe11355a0b4b586d4c13/538851ab/89.png)",
       "Height":1.2,
       "Weight":30,
@@ -2376,7 +2376,7 @@
    },
    {
       "Name":"Drowzee",
-      "Description":"Puts enemies to sleep then eats their dreams.Occasionally gets sick from eating bad dreams.",
+      "Description":"Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
       "Sprites":"96.png (https://dl.airtable.com/.attachments/183850c62979f686d3720ba314ef7a8b/7fd8fe0b/96.png),96.png (https://dl.airtable.com/.attachments/eb55d355ff6e6c9f015d0d38bab72158/6e062754/96.png),96.png (https://dl.airtable.com/.attachments/e6075529524226e127750bcf7696cd36/52b3d425/96.png),96.png (https://dl.airtable.com/.attachments/fa7bc016662ffe221d229668acdbc3e5/1de07173/96.png)",
       "Height":1,
       "Weight":32.4,
@@ -2401,7 +2401,7 @@
    },
    {
       "Name":"Hypno",
-      "Description":"When it locks eyes with an enemy, it will use a mix ofPSI moves such as HYPNOSIS and CONFUSION.",
+      "Description":"When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
       "Sprites":"97.png (https://dl.airtable.com/.attachments/b80e89f92bf40c95958abc77d5a828b5/60e8d7c0/97.png),97.png (https://dl.airtable.com/.attachments/ff0c9fb4ba33efe07db00280c7f911e1/628d08a8/97.png),97.png (https://dl.airtable.com/.attachments/b0fd6ab1135642ebd85a81cbad31ca8f/fdbec5d5/97.png),97.png (https://dl.airtable.com/.attachments/b1648daa6d855096a3f0e7976978375e/e78db1e1/97.png),97.png (https://dl.airtable.com/.attachments/0cc413ff04d2405354f3b3873c2b0c20/451a4fb3/97.png),97.png (https://dl.airtable.com/.attachments/5958de5418b3f1112136148da19c89b8/71dea67a/97.png),97.png (https://dl.airtable.com/.attachments/2d9b8fc419da9b37944bf4ea7230d5e5/f65e3643/97.png),97.png (https://dl.airtable.com/.attachments/f5ff528542d7f95d2e64a75bb9a168bd/6d877efe/97.png)",
       "Height":1.6,
       "Weight":75.6,
@@ -2476,7 +2476,7 @@
    },
    {
       "Name":"Voltorb",
-      "Description":"Usually found in power plants. Easily mistakenfor a POK� BALL, they have zapped many people.",
+      "Description":"Usually found in power plants. Easily mistaken for a POK� BALL, they have zapped many people.",
       "Sprites":"100.png (https://dl.airtable.com/.attachments/c0aa33d043436ae9ebca818ef00827a8/d014fdc1/100.png),100.png (https://dl.airtable.com/.attachments/ec011a745610e4bd0da80fd5c3ea7600/d242d2db/100.png),100.png (https://dl.airtable.com/.attachments/050b9c7f0bf594e38ae33ed2e9f13911/6b7d91a5/100.png),100.png (https://dl.airtable.com/.attachments/a38c3ac7fc3596559a133b252ac0e26e/65e48350/100.png)",
       "Height":0.5,
       "Weight":10.4,
@@ -2501,7 +2501,7 @@
    },
    {
       "Name":"Electrode",
-      "Description":"It stores electric energy under very high pressure.It often explodes with little or no provocation.",
+      "Description":"It stores electric energy under very high pressure. It often explodes with little or no provocation.",
       "Sprites":"101.png (https://dl.airtable.com/.attachments/dad1a8146b8a08b36e759d0407c0af78/83a26b9b/101.png),101.png (https://dl.airtable.com/.attachments/0f5f96ccefda8688a90a1ec0649293a6/5b38d72a/101.png),101.png (https://dl.airtable.com/.attachments/de01c474ee5af63317352cbe5e25b626/e6572296/101.png),101.png (https://dl.airtable.com/.attachments/7177d290bb1204fd6c0cc65cf54d0d58/c7f9079b/101.png)",
       "Height":1.2,
       "Weight":66.6,
@@ -2551,7 +2551,7 @@
    },
    {
       "Name":"Exeggutor",
-      "Description":"Legend has it that on rare occasions, one of its headswill drop off and continue on as an EXEGGCUTE.",
+      "Description":"Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.",
       "Sprites":"103.png (https://dl.airtable.com/.attachments/f9063187afbd53cfe5052e3d4d0f137a/32a2feac/103.png),103.png (https://dl.airtable.com/.attachments/ddb32e88400b262b28d9d145fbf377b4/1f7062cb/103.png),103.png (https://dl.airtable.com/.attachments/b2a2cec9543dcee86eba1d309e6ecbb3/79edc10d/103.png),103.png (https://dl.airtable.com/.attachments/168e391e41e2209fb9f738c08ae2a0c8/80b3899d/103.png)",
       "Height":2,
       "Weight":120,
@@ -2576,7 +2576,7 @@
    },
    {
       "Name":"Cubone",
-      "Description":"Because it never removes its skull helmet, no onehas ever seen this POK�MON's real face.",
+      "Description":"Because it never removes its skull helmet, no one has ever seen this POK�MON's real face.",
       "Sprites":"104.png (https://dl.airtable.com/.attachments/58021c6d39d21018fb4b5ed7f78d2b18/491fc5f1/104.png),104.png (https://dl.airtable.com/.attachments/85a1a0dd562d780375bf9dc2a63dc3c9/bf935105/104.png),104.png (https://dl.airtable.com/.attachments/53e150d2ecdf206aa456136b53edf696/6f527804/104.png),104.png (https://dl.airtable.com/.attachments/17448fc80463e370a1649fb0ef267c14/bcf6c248/104.png)",
       "Height":0.4,
       "Weight":6.5,
@@ -2601,7 +2601,7 @@
    },
    {
       "Name":"Marowak",
-      "Description":"The bone it holds is its key weapon. It throws thebone skillfully like a boomerang to KO targets.",
+      "Description":"The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
       "Sprites":"105.png (https://dl.airtable.com/.attachments/094c2f54260cfaecc2e031fbfbef2501/3168e0f2/105.png),105.png (https://dl.airtable.com/.attachments/472b45c4e0d7f29c6128178762ac2eea/0d43d5da/105.png),105.png (https://dl.airtable.com/.attachments/9aaa64fced2afa987b0ad3456b05c69b/fa875f14/105.png),105.png (https://dl.airtable.com/.attachments/38f41b42c8f05afed4b6260773f5da73/5e695593/105.png)",
       "Height":1,
       "Weight":45,
@@ -2676,7 +2676,7 @@
    },
    {
       "Name":"Lickitung",
-      "Description":"Its tongue can be extended like a chameleon's. Itleaves a tingling sensation when it licks enemies.",
+      "Description":"Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
       "Sprites":"108.png (https://dl.airtable.com/.attachments/be028d2dd5871dd053d33328a61dad26/9dc122e5/108.png),108.png (https://dl.airtable.com/.attachments/736f921a73491974f738de465f03fe34/34a5f80b/108.png),108.png (https://dl.airtable.com/.attachments/9e0698496bb2a643733618ac33f5e6ca/670e2ae5/108.png),108.png (https://dl.airtable.com/.attachments/dd149fd0ecaa9ed86be711c420897c62/a36ad32f/108.png)",
       "Height":1.2,
       "Weight":65.5,
@@ -2801,7 +2801,7 @@
    },
    {
       "Name":"Chansey",
-      "Description":"A rare and elusive POK�MON that is said to bringhappiness to those who manage to get it.",
+      "Description":"A rare and elusive POK�MON that is said to bring happiness to those who manage to get it.",
       "Sprites":"113.png (https://dl.airtable.com/.attachments/c2ed9f5348319105f1990b22b954c873/e8be1853/113.png),113.png (https://dl.airtable.com/.attachments/82cb4b043ab7a1fd2557fb7818aeea10/266fff91/113.png),113.png (https://dl.airtable.com/.attachments/c2c9ca67e54eac38c8eb6e142bd7b008/c11e7197/113.png),113.png (https://dl.airtable.com/.attachments/8348a5f9dd4e006018a63053d15af714/8ea97d35/113.png)",
       "Height":1.1,
       "Weight":34.6,
@@ -2826,7 +2826,7 @@
    },
    {
       "Name":"Tangela",
-      "Description":"The whole body is swathed with wide vines that aresimilar to sea� weed. Its vines shake as it walks.",
+      "Description":"The whole body is swathed with wide vines that are similar to sea� weed. Its vines shake as it walks.",
       "Sprites":"114.png (https://dl.airtable.com/.attachments/15844c8a1696c04340b79ea9a27b0f55/915ad07a/114.png),114.png (https://dl.airtable.com/.attachments/ef5e3dc611308a493302f4737c1ac21f/10bce9d0/114.png),114.png (https://dl.airtable.com/.attachments/d15c6167ffb421e5f35cfab8eb3d4d7a/1311c6cb/114.png),114.png (https://dl.airtable.com/.attachments/1971991270f2ba4f047fb89ccf834516/d04af221/114.png)",
       "Height":1,
       "Weight":35,
@@ -2851,7 +2851,7 @@
    },
    {
       "Name":"Kangaskhan",
-      "Description":"The infant rarely ventures out of its mother'sprotective pouch until it is 3 years old.",
+      "Description":"The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
       "Sprites":"115.png (https://dl.airtable.com/.attachments/703a5c32a4ef5922196195c1cc365d3e/4bcadb5c/115.png),115.png (https://dl.airtable.com/.attachments/8cc328b37bb4af95be2f8c1b8749aedf/4a68c611/115.png),115.png (https://dl.airtable.com/.attachments/31f317d53c5f03ce0dab78c06be30103/da0d2737/115.png),115.png (https://dl.airtable.com/.attachments/e756ab7243ffb10c95a0806a723212a4/dd0c5d30/115.png)",
       "Height":2.2,
       "Weight":80,
@@ -2876,7 +2876,7 @@
    },
    {
       "Name":"Horsea",
-      "Description":"Known to shoot down flying bugs with precisionblasts of ink from the surface of the water.",
+      "Description":"Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
       "Sprites":"116.png (https://dl.airtable.com/.attachments/ef3437531e2005f4f155488daa847f5a/8d7cd085/116.png),116.png (https://dl.airtable.com/.attachments/20d842638d729edffeef458b937204b0/7f682d0e/116.png),116.png (https://dl.airtable.com/.attachments/600766001211b35731ec3105b5294440/b1df2195/116.png),116.png (https://dl.airtable.com/.attachments/a455e7d92e3d1157e315d23b38c15c30/49655bb3/116.png)",
       "Height":0.4,
       "Weight":8,
@@ -2976,7 +2976,7 @@
    },
    {
       "Name":"Staryu",
-      "Description":"An enigmatic POK�MON that can effortlesslyregenerate any appendage it loses in battle.",
+      "Description":"An enigmatic POK�MON that can effortlessly regenerate any appendage it loses in battle.",
       "Sprites":"120.png (https://dl.airtable.com/.attachments/480fa61674115deafeb21c8df86cff3c/f5e03554/120.png),120.png (https://dl.airtable.com/.attachments/5e97f3f106f4ce5831f6752b2c07e9ad/a7992e7c/120.png),120.png (https://dl.airtable.com/.attachments/644ffff60866bf68c97d217b3cb2fc2e/94a4e325/120.png),120.png (https://dl.airtable.com/.attachments/b75cdfaa58f76a71cf6295db1b79eba5/7dc144f7/120.png)",
       "Height":0.8,
       "Weight":34.5,
@@ -3001,7 +3001,7 @@
    },
    {
       "Name":"Starmie",
-      "Description":"Its central core glows with the seven colors ofthe rainbow. Some people value the core as a gem.",
+      "Description":"Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
       "Sprites":"121.png (https://dl.airtable.com/.attachments/22708d12dac7f42b77cc66636397dbf2/d9eaab08/121.png),121.png (https://dl.airtable.com/.attachments/35e28f2f5733192ab06505ea5de8f00a/f6075c46/121.png),121.png (https://dl.airtable.com/.attachments/898aefc5c61f521dd94e3c762e880db2/d4819064/121.png),121.png (https://dl.airtable.com/.attachments/fb012f81c0aacf46f9f4205e7166b1be/fc966738/121.png)",
       "Height":1.1,
       "Weight":80,
@@ -3026,7 +3026,7 @@
    },
    {
       "Name":"Mr. Mime",
-      "Description":"If interrupted while it is miming, it willslap around the offender with its broad hands.",
+      "Description":"If interrupted while it is miming, it will slap around the offender with its broad hands.",
       "Sprites":"122.png (https://dl.airtable.com/.attachments/05aa3c956d90b551d624f84b47eed4ec/2b61c060/122.png),122.png (https://dl.airtable.com/.attachments/065c217dec206f1c5e239e51f89f3230/bd02b95e/122.png),122.png (https://dl.airtable.com/.attachments/5ea4d0b6c645d840cfc079a6cc4b4389/a049afc7/122.png),122.png (https://dl.airtable.com/.attachments/9b597b33d472a5cffc94fde38009d64e/9f35e9d5/122.png)",
       "Height":1.3,
       "Weight":54.5,
@@ -3051,7 +3051,7 @@
    },
    {
       "Name":"Scyther",
-      "Description":"With ninja-like agility and speed, it can create theillusion that there is more than one.",
+      "Description":"With ninja-like agility and speed, it can create the illusion that there is more than one.",
       "Sprites":"123.png (https://dl.airtable.com/.attachments/9287f7a3d2f9ac8f313a2908f985d830/f6c77080/123.png),123.png (https://dl.airtable.com/.attachments/dd59d0ef4863e588cfadb348c6a27720/ed86026a/123.png),123.png (https://dl.airtable.com/.attachments/60a3b5ac23dddd8a39ad1feb6df42bfb/bb0861c3/123.png),123.png (https://dl.airtable.com/.attachments/8d8938eb3c5d89900e6c28d9561873f8/13eaa3c2/123.png),123.png (https://dl.airtable.com/.attachments/1d2d0119a918cb386c13a8b16b8a8560/b6fea04e/123.png),123.png (https://dl.airtable.com/.attachments/c0c3fe73d60e54471f3fe1543fbbe1de/c7bf5c64/123.png),123.png (https://dl.airtable.com/.attachments/951bdf7a84ba0f9c3e75ba21a4d9c5d7/e3488783/123.png),123.png (https://dl.airtable.com/.attachments/b7adc3824c9165d30a89da3062b617ce/40c44f0c/123.png)",
       "Height":1.5,
       "Weight":56,
@@ -3076,7 +3076,7 @@
    },
    {
       "Name":"Jynx",
-      "Description":"It seductively wiggles its hips as it walks. Itcan cause people to dance in unison with it.",
+      "Description":"It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
       "Sprites":"124.png (https://dl.airtable.com/.attachments/b9c92870247c59e27cdc302659a5b347/9b7ae33f/124.png),124.png (https://dl.airtable.com/.attachments/3a85b29dd32a9e86d72bf3f7013cacfc/531548dd/124.png),124.png (https://dl.airtable.com/.attachments/8f89a963e612220daf87580457b8aa0c/361a72dd/124.png),124.png (https://dl.airtable.com/.attachments/b919030ed39acd33fa276cf4e9b069ac/e89cbfc5/124.png)",
       "Height":1.4,
       "Weight":40.6,
@@ -3101,7 +3101,7 @@
    },
    {
       "Name":"Electabuzz",
-      "Description":"Normally found near power plants, they can wanderaway and cause major blackouts in cities.",
+      "Description":"Normally found near power plants, they can wander away and cause major blackouts in cities.",
       "Sprites":"125.png (https://dl.airtable.com/.attachments/88817ee9fa99da076fb0b9571a9b06af/16c399ab/125.png),125.png (https://dl.airtable.com/.attachments/a75283a999516f27891383cbcd04e901/602ffb6c/125.png),125.png (https://dl.airtable.com/.attachments/854e83fd5fa910d8724677a1b9c94501/f66900a7/125.png),125.png (https://dl.airtable.com/.attachments/d005342c213fc656544bab34bac13e38/c3ad5926/125.png)",
       "Height":1.1,
       "Weight":30,
@@ -3126,7 +3126,7 @@
    },
    {
       "Name":"Magmar",
-      "Description":"Its body always burns with an orange glow thatenables it to hide perfectly among flames.",
+      "Description":"Its body always burns with an orange glow that enables it to hide perfectly among flames.",
       "Sprites":"126.png (https://dl.airtable.com/.attachments/61ce3f12e717ca8027f6229b8c5137de/9221589a/126.png),126.png (https://dl.airtable.com/.attachments/b19e159a53e53ca7585b969d883fa7a4/67f103cd/126.png),126.png (https://dl.airtable.com/.attachments/43672c18c75392deac682c37080a4770/6dbeba27/126.png),126.png (https://dl.airtable.com/.attachments/93abec24e7a71f6164fa3237d96617f5/6d88dd0d/126.png)",
       "Height":1.3,
       "Weight":44.5,
@@ -3151,7 +3151,7 @@
    },
    {
       "Name":"Pinsir",
-      "Description":"If it fails to crush the victim in its pincers,it will swing it around and toss it hard.",
+      "Description":"If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
       "Sprites":"127.png (https://dl.airtable.com/.attachments/6b68c80c2d5f75a716457bdd59a748b2/8aa44bb5/127.png),127.png (https://dl.airtable.com/.attachments/c6bf37fa48d9026a17a8db02298c81e7/99f34789/127.png),127.png (https://dl.airtable.com/.attachments/dadcd144b61904ad289f0108e374e824/17524ce9/127.png),127.png (https://dl.airtable.com/.attachments/9d7a3a9579490b89f4f9078fa0d4b412/468d74ed/127.png)",
       "Height":1.5,
       "Weight":55,
@@ -3176,7 +3176,7 @@
    },
    {
       "Name":"Tauros",
-      "Description":"When it targets an enemy, it charges furiouslywhile whipping its body with its long tails.",
+      "Description":"When it targets an enemy, it charges furiously while whipping its body with its long tails.",
       "Sprites":"128.png (https://dl.airtable.com/.attachments/b69ff754f4c271d6f8d0354345bd5f5d/66a4d82c/128.png),128.png (https://dl.airtable.com/.attachments/73b985abadadb113309aa3477388b345/53d15156/128.png),128.png (https://dl.airtable.com/.attachments/54cfd4db678d0b18d402a27246894caa/6f443ece/128.png),128.png (https://dl.airtable.com/.attachments/4afe5ff01fcb7c515c50fce2314fc3f6/ccedc35e/128.png)",
       "Height":1.4,
       "Weight":88.4,
@@ -3401,7 +3401,7 @@
    },
    {
       "Name":"Porygon",
-      "Description":"A POK�MON that consists entirely of programmingcode. Capable of moving freely in cyberspace.",
+      "Description":"A POK�MON that consists entirely of programming code. Capable of moving freely in cyberspace.",
       "Sprites":"137.png (https://dl.airtable.com/.attachments/fba8d0c5d51e35dc37e1b714ba25ad2b/2fd11cfa/137.png),137.png (https://dl.airtable.com/.attachments/3057531e156cf83013c839c05eb336e3/87f599f2/137.png),137.png (https://dl.airtable.com/.attachments/ff8ebc4bc5996d5f0f3145878427638a/565b4b46/137.png),137.png (https://dl.airtable.com/.attachments/cc2c685da8517b5b12a6202211ccd8b1/f6a2d555/137.png)",
       "Height":0.8,
       "Weight":36.5,
@@ -3426,7 +3426,7 @@
    },
    {
       "Name":"Omanyte",
-      "Description":"Although long extinct, in rare cases, it can begenetically resurrected from fossils.",
+      "Description":"Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
       "Sprites":"138.png (https://dl.airtable.com/.attachments/f5169307ea71d39691c30869f8038d02/48e097a3/138.png),138.png (https://dl.airtable.com/.attachments/a32fb541792065f0a4f3a0cb4d8cec9f/931ef1c4/138.png),138.png (https://dl.airtable.com/.attachments/85d7ef4b49c8517caed58e2a2cfe575f/fb74f2bd/138.png),138.png (https://dl.airtable.com/.attachments/2d58f8abc19ec22dd096ceb5f61b19ee/890ed43e/138.png)",
       "Height":0.4,
       "Weight":7.5,
@@ -3476,7 +3476,7 @@
    },
    {
       "Name":"Kabuto",
-      "Description":"A POK�MON that was resurrected from a fossilfound in what was once the ocean floor eons ago.",
+      "Description":"A POK�MON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
       "Sprites":"140.png (https://dl.airtable.com/.attachments/3ec4501c8782fee880e751652f9b3da4/1beeb6f1/140.png),140.png (https://dl.airtable.com/.attachments/2e95700739b7f39bf23ab90dff14e12d/8438f0d3/140.png),140.png (https://dl.airtable.com/.attachments/babc7e78c59e78445333b91e8e0d0c5d/9d528d49/140.png),140.png (https://dl.airtable.com/.attachments/58a644ce82f181a534ce5c41d9dc8dab/3215260b/140.png)",
       "Height":0.5,
       "Weight":11.5,
@@ -3501,7 +3501,7 @@
    },
    {
       "Name":"Kabutops",
-      "Description":"Its sleek shape is perfect for swim� ming. It slashesprey with its claws and drains the body fluids.",
+      "Description":"Its sleek shape is perfect for swim� ming. It slashes prey with its claws and drains the body fluids.",
       "Sprites":"141.png (https://dl.airtable.com/.attachments/4257dcad9dd44f72b7416e8ef53b54a8/6f0afc8f/141.png),141.png (https://dl.airtable.com/.attachments/82891f25b1b0a5c1d63e675003ff18d2/5ba870c3/141.png),141.png (https://dl.airtable.com/.attachments/32e7d5191eeaabd3c23615e5b28be230/014514d3/141.png),141.png (https://dl.airtable.com/.attachments/5a1548f621e29abec88ca0921d1fcb22/efb18bb8/141.png)",
       "Height":1.3,
       "Weight":40.5,
@@ -3576,7 +3576,7 @@
    },
    {
       "Name":"Articuno",
-      "Description":"A legendary bird POK�MON that is said to appear todoomed people who are lost in icy mountains.",
+      "Description":"A legendary bird POK�MON that is said to appear to doomed people who are lost in icy mountains.",
       "Sprites":"144.png (https://dl.airtable.com/.attachments/7eb821a64540535f63b10fc78fe73267/e67b841b/144.png),144.png (https://dl.airtable.com/.attachments/cbfdcdf54ddd494a836d09d7657b8e8f/31c1c880/144.png),144.png (https://dl.airtable.com/.attachments/9622944a8707a7f118d2e0bba108ac91/dd43961e/144.png),144.png (https://dl.airtable.com/.attachments/b46b6c58b6f3b73c50cc7c174a706c1b/d99d1d79/144.png)",
       "Height":1.7,
       "Weight":55.4,
@@ -3601,7 +3601,7 @@
    },
    {
       "Name":"Zapdos",
-      "Description":"A legendary bird POK�MON that is said to appearfrom clouds while dropping enormous lightning bolts.",
+      "Description":"A legendary bird POK�MON that is said to appear from clouds while dropping enormous lightning bolts.",
       "Sprites":"145.png (https://dl.airtable.com/.attachments/acd65625a7dceb595c49864d670f48cd/3c1547a6/145.png),145.png (https://dl.airtable.com/.attachments/ea88af5d085501652aec12264db9a737/e9e3d5af/145.png),145.png (https://dl.airtable.com/.attachments/b6e9b1a060ee28503426ec896d2a57bf/19a44b1b/145.png),145.png (https://dl.airtable.com/.attachments/00ffa417c0a6e8df618bce729d26adec/31c10252/145.png)",
       "Height":1.6,
       "Weight":52.6,
@@ -3651,7 +3651,7 @@
    },
    {
       "Name":"Dratini",
-      "Description":"Long considered a mythical POK�MON until recentlywhen a small colony was found living underwater.",
+      "Description":"Long considered a mythical POK�MON until recently when a small colony was found living underwater.",
       "Sprites":"147.png (https://dl.airtable.com/.attachments/6fc5ca7e71da0de48fa1b2c0cdac7ed4/90a9596e/147.png),147.png (https://dl.airtable.com/.attachments/1ea564f41b493ab816723063c468cde8/11325d42/147.png),147.png (https://dl.airtable.com/.attachments/d736a687c59c40e8511bd931a6ba8a69/24f1a125/147.png),147.png (https://dl.airtable.com/.attachments/305fce94a453c36e5ac9e69a3fb60fdf/f944c420/147.png)",
       "Height":1.8,
       "Weight":3.3,
@@ -3676,7 +3676,7 @@
    },
    {
       "Name":"Dragonair",
-      "Description":"A mystical POK�MON that exudes a gentle aura.Has the ability to change climate conditions.",
+      "Description":"A mystical POK�MON that exudes a gentle aura. Has the ability to change climate conditions.",
       "Sprites":"148.png (https://dl.airtable.com/.attachments/cdd574c7f7f6d4093082ebb085326679/69f996f2/148.png),148.png (https://dl.airtable.com/.attachments/99b3455d5759994ab418880b5ade1cd1/3210a059/148.png),148.png (https://dl.airtable.com/.attachments/f7b41604660a2202f133a74c0140e77b/c7f2aa00/148.png),148.png (https://dl.airtable.com/.attachments/d037d7767179dbcc3c0c4c133e013c96/712ec1f9/148.png)",
       "Height":4,
       "Weight":16.5,
@@ -3701,7 +3701,7 @@
    },
    {
       "Name":"Dragonite",
-      "Description":"An extremely rarely seen marine POK�MON.Its intelligence is said to match that of humans.",
+      "Description":"An extremely rarely seen marine POK�MON. Its intelligence is said to match that of humans.",
       "Sprites":"149.png (https://dl.airtable.com/.attachments/4a4f9d46f5de7d1b46be6f39e29fb6ce/d42b2dff/149.png),149.png (https://dl.airtable.com/.attachments/b2949c437623f306ae956162ede558a1/fe21d4bf/149.png),149.png (https://dl.airtable.com/.attachments/243abf02deb89baa80e60f86f51be778/8270c86a/149.png),149.png (https://dl.airtable.com/.attachments/d0ded2bd85d4fbe86ae5cba27e51f4b0/08165f22/149.png)",
       "Height":2.2,
       "Weight":210,
@@ -3776,7 +3776,7 @@
    },
    {
       "Name":"Chikorita",
-      "Description":"A sweet aroma gently wafts from the leaf on itshead. It is docile and loves to soak up the sun's rays.",
+      "Description":"A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
       "Sprites":"152.png (https://dl.airtable.com/.attachments/69a82496c4c498f4537c10986e0a9551/34c69ca5/152.png),152.png (https://dl.airtable.com/.attachments/2eb372da0944a3ac233e36f71d8b4d1a/9334bfd5/152.png),152.png (https://dl.airtable.com/.attachments/a989cbf5e3b33d813f1f5ec3aa1a6efb/1d8356e9/152.png),152.png (https://dl.airtable.com/.attachments/001f68b198d48d40382d39c0ebd029e0/50880639/152.png)",
       "Height":0.9,
       "Weight":6.4,
@@ -3826,7 +3826,7 @@
    },
    {
       "Name":"Meganium",
-      "Description":"The aroma that rises from its petals contains asubstance that calms aggressive feelings.",
+      "Description":"The aroma that rises from its petals contains a substance that calms aggressive feelings.",
       "Sprites":"154.png (https://dl.airtable.com/.attachments/739b1404c40ed5092d539bf615457d18/0dd52340/154.png),154.png (https://dl.airtable.com/.attachments/bf034d4dbad60c8d79b431d94abd257b/baa18da8/154.png),154.png (https://dl.airtable.com/.attachments/6843d9e0ac0bc02bea1ff4a808b8a9ef/74bd9815/154.png),154.png (https://dl.airtable.com/.attachments/6c8a34ea953bd9ceeb73610015d09241/90447c93/154.png),154.png (https://dl.airtable.com/.attachments/afd987078cd8cc63273b71fceb1bd107/8f198105/154.png),154.png (https://dl.airtable.com/.attachments/a19401c89dddc032bf7b74c9e018caf1/a252d5f6/154.png),154.png (https://dl.airtable.com/.attachments/bbded1c0fb02bafb1f351f3d04a2b19c/ba2cce83/154.png),154.png (https://dl.airtable.com/.attachments/ba2172ee3997c1b9746308e30564bcc3/b59502dd/154.png)",
       "Height":1.8,
       "Weight":100.5,
@@ -3851,7 +3851,7 @@
    },
    {
       "Name":"Cyndaquil",
-      "Description":"It is timid, and always curls it� self up in a ball.If attacked, it flares up its back for protection.",
+      "Description":"It is timid, and always curls it� self up in a ball. If attacked, it flares up its back for protection.",
       "Sprites":"155.png (https://dl.airtable.com/.attachments/4f1640c0b84cba7bb2cf201dc5268cdc/0b3fa483/155.png),155.png (https://dl.airtable.com/.attachments/ea2cd11e9153bc7c532fe789f1d2e21b/c8c4a6fd/155.png),155.png (https://dl.airtable.com/.attachments/d57f5e0fc838dab307dda22f8cc42d34/99b158ba/155.png),155.png (https://dl.airtable.com/.attachments/201ae935c18e476b179f11ea69b314ec/b2ec3355/155.png)",
       "Height":0.5,
       "Weight":7.9,
@@ -3876,7 +3876,7 @@
    },
    {
       "Name":"Quilava",
-      "Description":"Be careful if it turns its back during battle. Itmeans that it will attack with the fire on its back.",
+      "Description":"Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
       "Sprites":"156.png (https://dl.airtable.com/.attachments/59ed8e8061f941b96943054f3cfd181b/02b93043/156.png),156.png (https://dl.airtable.com/.attachments/5fffd5fda97a23b54f35c7f2e074fd03/baee5722/156.png),156.png (https://dl.airtable.com/.attachments/baa0cdbba4818d2851be9ac12a573001/13689867/156.png),156.png (https://dl.airtable.com/.attachments/f4e04c55bd84d79c2d961ffafdb7ce81/6d43818e/156.png)",
       "Height":0.9,
       "Weight":19,
@@ -3901,7 +3901,7 @@
    },
    {
       "Name":"Typhlosion",
-      "Description":"If its rage peaks, it becomes so hot that anything thattouches it will instantly go up in flames.",
+      "Description":"If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
       "Sprites":"157.png (https://dl.airtable.com/.attachments/d1ffaaa56aed7ed5d4678e5fa0e868f3/1e3816fa/157.png),157.png (https://dl.airtable.com/.attachments/00d2e9c88604b18c449de83c552e886a/e2b01a90/157.png),157.png (https://dl.airtable.com/.attachments/168a609749c19bd5b36d427f9a317bb0/359418d5/157.png),157.png (https://dl.airtable.com/.attachments/9d4cd8b48c61613e3a2bbf2f5adf4738/1625473b/157.png)",
       "Height":1.7,
       "Weight":79.5,
@@ -3926,7 +3926,7 @@
    },
    {
       "Name":"Totodile",
-      "Description":"Its well-developed jaws are powerful and capable ofcrushing anything. Even its trainer must be careful.",
+      "Description":"Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
       "Sprites":"158.png (https://dl.airtable.com/.attachments/bfa124356a3198938d7aad0f9b17d688/0b323a7d/158.png),158.png (https://dl.airtable.com/.attachments/5612f3587d62b63a25638b065c5b66b6/a52654bd/158.png),158.png (https://dl.airtable.com/.attachments/bff35b445f1d882abe90c3dca50dac1a/1dc3ae5b/158.png),158.png (https://dl.airtable.com/.attachments/4853072da1a6244cff85933bfe9d8b72/ac2e8e2d/158.png)",
       "Height":0.6,
       "Weight":9.5,
@@ -3951,7 +3951,7 @@
    },
    {
       "Name":"Croconaw",
-      "Description":"If it loses a fang, a new one grows back in itsplace. There are always 48 fangs lining its mouth.",
+      "Description":"If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
       "Sprites":"159.png (https://dl.airtable.com/.attachments/0af725fdeadfe842009519c75a3d9baf/83d1a5a4/159.png),159.png (https://dl.airtable.com/.attachments/16f15cce966d4ed2ee49c0f6f14c814e/fb4b86ad/159.png),159.png (https://dl.airtable.com/.attachments/58037038f7417ea6d1eeaa612830a7b9/8b599aff/159.png),159.png (https://dl.airtable.com/.attachments/73b30aac4aa7ec27c3842538f1e74d76/a5763853/159.png)",
       "Height":1.1,
       "Weight":25,
@@ -3976,7 +3976,7 @@
    },
    {
       "Name":"Feraligatr",
-      "Description":"When it bites with its massive and powerful jaws, itshakes its head and savagely tears its victim up.",
+      "Description":"When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
       "Sprites":"160.png (https://dl.airtable.com/.attachments/bb78756474e58abd7b98cbce55afd628/b979baac/160.png),160.png (https://dl.airtable.com/.attachments/d6b915a3f5eaf08039c5d4f3108af92f/017d542b/160.png),160.png (https://dl.airtable.com/.attachments/aedeb102a1cc92b5b1ea451476b04d00/cc418a64/160.png),160.png (https://dl.airtable.com/.attachments/7d40dddc081f315ca90a02e6e5aaf4b9/91b92263/160.png)",
       "Height":2.3,
       "Weight":88.8,
@@ -4001,7 +4001,7 @@
    },
    {
       "Name":"Sentret",
-      "Description":"A very cautious POK�MON, it raises itself up usingits tail to get a better view of its surroundings.",
+      "Description":"A very cautious POK�MON, it raises itself up using its tail to get a better view of its surroundings.",
       "Sprites":"161.png (https://dl.airtable.com/.attachments/2253efd9929a6312d7c2145b26299de4/7f9be581/161.png),161.png (https://dl.airtable.com/.attachments/87310dcb3db5836ca32f9138a31462d4/40c43311/161.png),161.png (https://dl.airtable.com/.attachments/b6c3e9adaf15c188b1af41f3aa6cc137/65b1e82d/161.png),161.png (https://dl.airtable.com/.attachments/8f8e938a022e5915a9ae5604573b548c/0f2e2557/161.png)",
       "Height":0.8,
       "Weight":6,
@@ -4026,7 +4026,7 @@
    },
    {
       "Name":"Furret",
-      "Description":"It makes a nest to suit its long and skinny body. Thenest is impossible for other POK�MON to enter.",
+      "Description":"It makes a nest to suit its long and skinny body. The nest is impossible for other POK�MON to enter.",
       "Sprites":"162.png (https://dl.airtable.com/.attachments/8cc0512c58daafdcc7cda67a388ed5e9/d9ce6464/162.png),162.png (https://dl.airtable.com/.attachments/ed35ffdec58f666590436e69bbabfdc3/27ddb8d1/162.png),162.png (https://dl.airtable.com/.attachments/3e673d110fc40785f4783fc451595ff2/23b934c8/162.png),162.png (https://dl.airtable.com/.attachments/23cdb7012056e2f6e32c32b1afd1a697/73d2d609/162.png)",
       "Height":1.8,
       "Weight":32.5,
@@ -4101,7 +4101,7 @@
    },
    {
       "Name":"Ledyba",
-      "Description":"It is very timid. It will be afraid to move if it isalone. But it will be active if it is in a group.",
+      "Description":"It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
       "Sprites":"165.png (https://dl.airtable.com/.attachments/dd7f3c94cdb5974319dcf51febd8d076/d22432dc/165.png),165.png (https://dl.airtable.com/.attachments/5e6a330ebc75403b4af980a64d59631d/2bdb19f8/165.png),165.png (https://dl.airtable.com/.attachments/2a8f0838c4b258ea1af502b47c9a82fa/e76c7772/165.png),165.png (https://dl.airtable.com/.attachments/73ac6799a15e4e21f82c330dc7ba2b53/8d3974f6/165.png),165.png (https://dl.airtable.com/.attachments/832a156e021743bafc80695cf1204d31/0def67ee/165.png),165.png (https://dl.airtable.com/.attachments/cb9bc6bc09f3c2cc994063761e702822/b4398c33/165.png),165.png (https://dl.airtable.com/.attachments/2a7e5af70db887df63e6872b6b2d0aaa/46b35c7c/165.png),165.png (https://dl.airtable.com/.attachments/45fb31c809573a70e3b026bbdadccf66/df6a8f6b/165.png)",
       "Height":1,
       "Weight":10.8,
@@ -4126,7 +4126,7 @@
    },
    {
       "Name":"Ledian",
-      "Description":"When the stars flicker in the night sky, itflutters about, scattering a glowing powder.",
+      "Description":"When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
       "Sprites":"166.png (https://dl.airtable.com/.attachments/5e3c271d7086d390b40e39a73227194d/16b002e7/166.png),166.png (https://dl.airtable.com/.attachments/a0cf102ca5a19185c3954f62fd69dfa5/b42646d2/166.png),166.png (https://dl.airtable.com/.attachments/7eadfb70b6654737777b5e091d069bf3/b7b50d5a/166.png),166.png (https://dl.airtable.com/.attachments/00824e83f07ff68df5d2e2ec1a0249fb/97ea3c20/166.png),166.png (https://dl.airtable.com/.attachments/75af606631d4935906a008b360e474ca/9a21e09f/166.png),166.png (https://dl.airtable.com/.attachments/39c5226778a6d34548d7c320090eb18f/6a28ffa5/166.png),166.png (https://dl.airtable.com/.attachments/dc59743766d30554f73c77cac11c4ed6/94848399/166.png),166.png (https://dl.airtable.com/.attachments/ba507640b29d997b09a24509f744da80/31391961/166.png)",
       "Height":1.4,
       "Weight":35.6,
@@ -4151,7 +4151,7 @@
    },
    {
       "Name":"Spinarak",
-      "Description":"It lies still in the same pose for days in its web,waiting for its unsuspecting prey to wander close.",
+      "Description":"It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
       "Sprites":"167.png (https://dl.airtable.com/.attachments/b64fd900eae3b7a2d42c7d4221394ecd/c725fcc1/167.png),167.png (https://dl.airtable.com/.attachments/0c8fc42e5de68c55af136b47b60dcdb2/9ea74add/167.png),167.png (https://dl.airtable.com/.attachments/49578531134326fac2ce6cbbc1bffa25/670165c1/167.png),167.png (https://dl.airtable.com/.attachments/df45085ca26b343495f33582cb7f8b56/6a0c9c36/167.png)",
       "Height":0.5,
       "Weight":8.5,
@@ -4176,7 +4176,7 @@
    },
    {
       "Name":"Ariados",
-      "Description":"It spins string not only from its rear but also fromits mouth. It is hard to tell which end is which.",
+      "Description":"It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
       "Sprites":"168.png (https://dl.airtable.com/.attachments/a79f8a171ba2f8c6ecc88f84c94f3e3b/14d1258c/168.png),168.png (https://dl.airtable.com/.attachments/6eff4f2cb8e5c9bab815fed8c908fdcc/119b3805/168.png),168.png (https://dl.airtable.com/.attachments/9c527f05fcdaa0a2cab63270c7b563ca/f1d55e88/168.png),168.png (https://dl.airtable.com/.attachments/45b8c8178b7ee57e6a19a7134a6fefe9/549217ee/168.png)",
       "Height":1.1,
       "Weight":33.5,
@@ -4201,7 +4201,7 @@
    },
    {
       "Name":"Crobat",
-      "Description":"It flies so si� lently through the dark on its fourwings that it may not be noticed even when nearby.",
+      "Description":"It flies so si� lently through the dark on its four wings that it may not be noticed even when nearby.",
       "Sprites":"169.png (https://dl.airtable.com/.attachments/6d6863290924553e91966403bbe8e24f/f2e2a1ac/169.png),169.png (https://dl.airtable.com/.attachments/70262284558bb6d80fc64cd68e5ef441/22574970/169.png),169.png (https://dl.airtable.com/.attachments/fc0d3d7668063918e56a57dc41786089/73f133ea/169.png),169.png (https://dl.airtable.com/.attachments/7ebe296f7bdfd335d4272d321d1b5d1f/fdcac58a/169.png)",
       "Height":1.8,
       "Weight":75,
@@ -4326,7 +4326,7 @@
    },
    {
       "Name":"Igglybuff",
-      "Description":"It has a very soft body. If it starts to roll, it willbounce all over and be impossible to stop.",
+      "Description":"It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
       "Sprites":"174.png (https://dl.airtable.com/.attachments/0bc5560b99975f15e0ae8e6918a566b0/78dc657a/174.png),174.png (https://dl.airtable.com/.attachments/f1dff0fd8918fbf295a38cd86435155d/4c04bd00/174.png),174.png (https://dl.airtable.com/.attachments/a98a94197d0a265c6a2f3d45979cd1a7/6926b298/174.png),174.png (https://dl.airtable.com/.attachments/d582503049b840db265af6994e7c065a/193c508e/174.png)",
       "Height":0.3,
       "Weight":1,
@@ -4451,7 +4451,7 @@
    },
    {
       "Name":"Mareep",
-      "Description":"If static elec� tricity builds in its body, itsfleece doubles in volume. Touching it will shock you.",
+      "Description":"If static elec� tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
       "Sprites":"179.png (https://dl.airtable.com/.attachments/cb48f93fafa29d086f2a6d1f394f7ad6/c2d3d1ad/179.png),179.png (https://dl.airtable.com/.attachments/8462b59897a07304ce198da6be28e6dc/91995c8f/179.png),179.png (https://dl.airtable.com/.attachments/df3faee87e75b8c6ea240310cba491f6/8187cf29/179.png),179.png (https://dl.airtable.com/.attachments/600882d6b31fa7710a9564810bc1ed97/77b4432d/179.png)",
       "Height":0.6,
       "Weight":7.8,
@@ -4476,7 +4476,7 @@
    },
    {
       "Name":"Flaaffy",
-      "Description":"As a result of storing too much electricity, itdeveloped patches where even downy wool won't grow.",
+      "Description":"As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
       "Sprites":"180.png (https://dl.airtable.com/.attachments/0c0a32681d7243219481c4e354dec71b/8cf786e3/180.png),180.png (https://dl.airtable.com/.attachments/a15f8081701793373cc06b8277a1589d/410fcf51/180.png),180.png (https://dl.airtable.com/.attachments/b5a6830f811f32fd0f0623829be7816d/527753eb/180.png),180.png (https://dl.airtable.com/.attachments/f795b818a93306093d94ccfafd25bcea/a69c4dd4/180.png)",
       "Height":0.8,
       "Weight":13.3,
@@ -4501,7 +4501,7 @@
    },
    {
       "Name":"Ampharos",
-      "Description":"The tail's tip shines brightly and can be seenfrom far away. It acts as a beacon for lost people.",
+      "Description":"The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
       "Sprites":"181.png (https://dl.airtable.com/.attachments/3076133d3fe0602cdf3d738f8fe8ddf5/b80429db/181.png),181.png (https://dl.airtable.com/.attachments/3b68d38ae9c0c22fed714229c2143b2c/f35f893d/181.png),181.png (https://dl.airtable.com/.attachments/47607abf6454d39b48c41a8d132cf52c/21a704d6/181.png),181.png (https://dl.airtable.com/.attachments/42580e40ea079f0054f69d8cec004f76/541f4bb0/181.png)",
       "Height":1.4,
       "Weight":61.5,
@@ -4551,7 +4551,7 @@
    },
    {
       "Name":"Marill",
-      "Description":"The tip of its tail, which con� tains oil that islighter than wa� ter, lets it swim without drowning.",
+      "Description":"The tip of its tail, which con� tains oil that is lighter than wa� ter, lets it swim without drowning.",
       "Sprites":"183.png (https://dl.airtable.com/.attachments/2afc1a195c1cd427e7719252351bfae3/6cf88899/183.png),183.png (https://dl.airtable.com/.attachments/3aacae78cc00ecdc374d7765c3c60bde/97c4c707/183.png),183.png (https://dl.airtable.com/.attachments/45abac6507a838867cbde32461214c1f/9485174b/183.png),183.png (https://dl.airtable.com/.attachments/50da7e459071f1e5b48fb5bf0f1d181d/f41cb580/183.png)",
       "Height":0.4,
       "Weight":8.5,
@@ -4576,7 +4576,7 @@
    },
    {
       "Name":"Azumarill",
-      "Description":"By keeping still and listening in� tently, it cantell what is in even wild, fast- moving rivers.",
+      "Description":"By keeping still and listening in� tently, it can tell what is in even wild, fast- moving rivers.",
       "Sprites":"184.png (https://dl.airtable.com/.attachments/de492aa1a84b01cc6d8ddc97b04a04a8/d1c6fc29/184.png),184.png (https://dl.airtable.com/.attachments/5796fec15ed9b3514bfaa74f16766db0/2b7bf0f2/184.png),184.png (https://dl.airtable.com/.attachments/c23a0dd2982cce6d1e9d30add28cc556/d36cdfa9/184.png),184.png (https://dl.airtable.com/.attachments/4c3cceb4bfb80c276b36ebe72f82d0fa/d9320b3b/184.png)",
       "Height":0.8,
       "Weight":28.5,
@@ -4626,7 +4626,7 @@
    },
    {
       "Name":"Politoed",
-      "Description":"If POLIWAG and POLIWHIRL hear its echoing cry, theyrespond by gather� ing from far and wide.",
+      "Description":"If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather� ing from far and wide.",
       "Sprites":"186.png (https://dl.airtable.com/.attachments/047fb02466f35fb62a8c60b1699f81df/252b7313/186.png),186.png (https://dl.airtable.com/.attachments/8bf1ac7152e856cc7297dffee26a1d8f/e8f0d207/186.png),186.png (https://dl.airtable.com/.attachments/22186866f704ea608125b4a1097acea2/602fdaba/186.png),186.png (https://dl.airtable.com/.attachments/41d197f403a89cc2b43198bedf9cd27a/be5bdedc/186.png),186.png (https://dl.airtable.com/.attachments/7858dd25497870736c8721914236b1c1/2e79c3a7/186.png),186.png (https://dl.airtable.com/.attachments/94ba7ad7d20c087f7e04e3d337ae1cd5/1a4e3d24/186.png),186.png (https://dl.airtable.com/.attachments/ae3d3efe9e7c1a1d8798aa98276a5f5c/a080abf5/186.png),186.png (https://dl.airtable.com/.attachments/c67716e915c7cd8236c369fc24677e28/10a3e1ed/186.png)",
       "Height":1.1,
       "Weight":33.9,
@@ -4651,7 +4651,7 @@
    },
    {
       "Name":"Hoppip",
-      "Description":"To keep from being blown away by the wind, they gatherin clusters. They do enjoy gentle breezes, though.",
+      "Description":"To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
       "Sprites":"187.png (https://dl.airtable.com/.attachments/23bc90126dd6615f36d34b49f9d74701/f60473c7/187.png),187.png (https://dl.airtable.com/.attachments/499ccfd157f1713ffca9d92102c3e422/5824b1f2/187.png),187.png (https://dl.airtable.com/.attachments/599594fa65e1798c9060affb58c54d08/d453a739/187.png),187.png (https://dl.airtable.com/.attachments/b7d33b4d081d75181ac0aeec313f23ed/296f569f/187.png)",
       "Height":0.4,
       "Weight":0.5,
@@ -4676,7 +4676,7 @@
    },
    {
       "Name":"Skiploom",
-      "Description":"The bloom on top of its head opens and closes as thetemperature fluc� tuates up and down.",
+      "Description":"The bloom on top of its head opens and closes as the temperature fluc� tuates up and down.",
       "Sprites":"188.png (https://dl.airtable.com/.attachments/a7e73dd90dfbc7392bbaa6bb53afd159/1e193923/188.png),188.png (https://dl.airtable.com/.attachments/1f1ce5a8ced931391d126f678d595380/651565e7/188.png),188.png (https://dl.airtable.com/.attachments/76c6c75e4d5c32ba4c9a67716c409ba3/3cbfdb31/188.png),188.png (https://dl.airtable.com/.attachments/c6760bd964eb8682b5da8e6802e117ae/93cf8580/188.png)",
       "Height":0.6,
       "Weight":1,
@@ -4701,7 +4701,7 @@
    },
    {
       "Name":"Jumpluff",
-      "Description":"Once it catches the wind, it deft� ly controls itscotton-puff spores to float, even around the world.",
+      "Description":"Once it catches the wind, it deft� ly controls its cotton-puff spores to float, even around the world.",
       "Sprites":"189.png (https://dl.airtable.com/.attachments/29e0794ddb4f7ef55b7f4ffcffd2fdc5/21f9d936/189.png),189.png (https://dl.airtable.com/.attachments/6d37e3f1c4d6bfa0c33f98d6efb2a8d5/ed29ea66/189.png),189.png (https://dl.airtable.com/.attachments/58e6ec5da4a9cec72e9ac1aaa2803697/7bd05dde/189.png),189.png (https://dl.airtable.com/.attachments/b35c5a6f110d4600a406dba662749dd8/fbf44125/189.png)",
       "Height":0.8,
       "Weight":3,
@@ -4726,7 +4726,7 @@
    },
    {
       "Name":"Aipom",
-      "Description":"Its tail is so powerful that it can use it to graba tree branch and hold itself up in the air.",
+      "Description":"Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
       "Sprites":"190.png (https://dl.airtable.com/.attachments/f1058b216c70fc99f88be9b88b58c039/275fcd70/190.png),190.png (https://dl.airtable.com/.attachments/cccecf7a41781cedadc7490a556909e1/b7897651/190.png),190.png (https://dl.airtable.com/.attachments/e2dc72004cb9ca856de47aedb3e3ab5b/e407a965/190.png),190.png (https://dl.airtable.com/.attachments/9fdb402923e7a1bc31f22b2ec042ed67/23a8e701/190.png),190.png (https://dl.airtable.com/.attachments/a5ca413d65770c6e0c948702772cd7de/3424a0be/190.png),190.png (https://dl.airtable.com/.attachments/e4586e43e5979e974ba8e188d5bb1169/3a95a17c/190.png),190.png (https://dl.airtable.com/.attachments/927f5f1c1c4f34853c2ef121b905b59d/602ca4a0/190.png),190.png (https://dl.airtable.com/.attachments/4320a5b33691f1b4a8e586e8fb13fd33/0a955a16/190.png)",
       "Height":0.8,
       "Weight":11.5,
@@ -4751,7 +4751,7 @@
    },
    {
       "Name":"Sunkern",
-      "Description":"It may drop out of the sky suddenly. If attacked by aSPEAROW, it will violently shake its leaves.",
+      "Description":"It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
       "Sprites":"191.png (https://dl.airtable.com/.attachments/44a070bcd64fdeecbe70bc7b085a666b/3db74ffd/191.png),191.png (https://dl.airtable.com/.attachments/bdb26525c925cc69f2663b7b4678438d/7e801e41/191.png),191.png (https://dl.airtable.com/.attachments/ce50d709027c3a318d010fa45919150e/6c091321/191.png),191.png (https://dl.airtable.com/.attachments/0314d625a70c317f186ee7ad8fbe58e2/e9b60423/191.png)",
       "Height":0.3,
       "Weight":1.8,
@@ -4776,7 +4776,7 @@
    },
    {
       "Name":"Sunflora",
-      "Description":"It converts sun� light into energy. In the darknessafter sunset, it closes its petals and becomes still.",
+      "Description":"It converts sun� light into energy. In the darkness after sunset, it closes its petals and becomes still.",
       "Sprites":"192.png (https://dl.airtable.com/.attachments/6b02ebdf92f3e7a1b2e4d6d74a08039c/524b171e/192.png),192.png (https://dl.airtable.com/.attachments/caf39bee75cf3b51cf4a8730a27186dd/dfd53939/192.png),192.png (https://dl.airtable.com/.attachments/248977f0608691797831305b6d5a5512/64770350/192.png),192.png (https://dl.airtable.com/.attachments/154c3f5ba7add141d7b75fec8377feb1/d5f2081f/192.png)",
       "Height":0.8,
       "Weight":8.5,
@@ -4801,7 +4801,7 @@
    },
    {
       "Name":"Yanma",
-      "Description":"If it flaps its wings really fast, it can generateshock waves that will shatter win� dows in the area.",
+      "Description":"If it flaps its wings really fast, it can generate shock waves that will shatter win� dows in the area.",
       "Sprites":"193.png (https://dl.airtable.com/.attachments/61c3faa730eedcb2f90200e93c8a5e36/8c5d9990/193.png),193.png (https://dl.airtable.com/.attachments/980252e68595dedc7fc7947a8a78186a/33c896bc/193.png),193.png (https://dl.airtable.com/.attachments/727c1dadbacea3598d615147d3e32823/bc8908f1/193.png),193.png (https://dl.airtable.com/.attachments/fdd79a47afda7dae4a3a5be3b94036ef/2229e00a/193.png)",
       "Height":1.2,
       "Weight":38,
@@ -4926,7 +4926,7 @@
    },
    {
       "Name":"Murkrow",
-      "Description":"Feared and loathed by many, it is believed to bringmisfortune to all those who see it at night.",
+      "Description":"Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
       "Sprites":"198.png (https://dl.airtable.com/.attachments/f2f12d9cb673cb46a445bf356cc0177e/a1fb6167/198.png),198.png (https://dl.airtable.com/.attachments/3aef41b01650ddd928ba4f82911198a5/a0b8cb02/198.png),198.png (https://dl.airtable.com/.attachments/8ae19ef96f0d017302c55e2e88172cc6/6b00d005/198.png),198.png (https://dl.airtable.com/.attachments/1d4bbb092b509714c6564f66e28ab894/4fefe4da/198.png),198.png (https://dl.airtable.com/.attachments/88fbe77002c53c9168526cca0da21fc1/4466d01d/198.png),198.png (https://dl.airtable.com/.attachments/1f85772d06188b36de091ea8db5d70fe/ed6f2cd6/198.png),198.png (https://dl.airtable.com/.attachments/84937672482b69cd13501288cd442fdf/525155ef/198.png),198.png (https://dl.airtable.com/.attachments/0049ea4b3e8dffad2a052e4e13ca87ac/460da747/198.png)",
       "Height":0.5,
       "Weight":2.1,
@@ -4951,7 +4951,7 @@
    },
    {
       "Name":"Slowking",
-      "Description":"It has incredible intellect and in� tuition. Whateverthe situation, it remains calm and collected.",
+      "Description":"It has incredible intellect and in� tuition. Whatever the situation, it remains calm and collected.",
       "Sprites":"199.png (https://dl.airtable.com/.attachments/f0d0574950fcced98908b3714576dbdc/39d4d9e4/199.png),199.png (https://dl.airtable.com/.attachments/1cdba1ea8a384b2045d06c90efa3fbbb/9314b9cb/199.png),199.png (https://dl.airtable.com/.attachments/5dd369a802f3d51dc48d2af7dd5396cc/05c31005/199.png),199.png (https://dl.airtable.com/.attachments/85d183a7f6febae0fe7e03dc45a2025b/eecd8f68/199.png)",
       "Height":2,
       "Weight":79.5,
@@ -4976,7 +4976,7 @@
    },
    {
       "Name":"Misdreavus",
-      "Description":"It likes playing mischievous tricks such as screamingand wailing to startle people at night.",
+      "Description":"It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
       "Sprites":"200.png (https://dl.airtable.com/.attachments/1135eb911442d6200763a3eed85f5df2/35335f3e/200.png),200.png (https://dl.airtable.com/.attachments/f044ff487048f0e4ea5ad2d9b8f17e4c/d8b68b0d/200.png),200.png (https://dl.airtable.com/.attachments/d3294f26d51152ce8e96c30d82935f0a/b15e8003/200.png),200.png (https://dl.airtable.com/.attachments/fb5972e3c4dddc4ec82c345fe2e137a9/616b242b/200.png)",
       "Height":0.7,
       "Weight":1,
@@ -5001,7 +5001,7 @@
    },
    {
       "Name":"Unown",
-      "Description":"Their shapes look like hieroglyphs on ancient tab�lets. It is said that the two are somehow related.",
+      "Description":"Their shapes look like hieroglyphs on ancient tab� lets. It is said that the two are somehow related.",
       "Sprites":"201.png (https://dl.airtable.com/.attachments/b6a641eb1bf288240b157492aa74c046/6df8b432/201.png),201.png (https://dl.airtable.com/.attachments/679c3a4bfe0617555f3decdf8fc9a12e/3057a921/201.png),201.png (https://dl.airtable.com/.attachments/aaffa5359a081613af09c1537ed47f29/029ec827/201.png),201.png (https://dl.airtable.com/.attachments/76215d951500cb4e62d64e87c85df8f9/419cc3d0/201.png)",
       "Height":0.5,
       "Weight":5,
@@ -5051,7 +5051,7 @@
    },
    {
       "Name":"Girafarig",
-      "Description":"Its tail has a small brain of its own. Beware! Ifyou get close, it may react to your scent and bite.",
+      "Description":"Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
       "Sprites":"203.png (https://dl.airtable.com/.attachments/9acee936d48e2b52a37b2963f68263c9/ca46a0e1/203.png),203.png (https://dl.airtable.com/.attachments/c621107714c5f33518473670d7fc5243/210e3fc7/203.png),203.png (https://dl.airtable.com/.attachments/7dc61ab124ad831aa4e2a9855bb23b24/8526f2c4/203.png),203.png (https://dl.airtable.com/.attachments/794a4c4cbd4cf5a1f799208106a2f34c/691dd60b/203.png),203.png (https://dl.airtable.com/.attachments/64491180f523b30bb13f85bc45c4a31e/a48df2e5/203.png),203.png (https://dl.airtable.com/.attachments/7c42786d1221a6d876cb6bc1c0549241/bb1bb332/203.png),203.png (https://dl.airtable.com/.attachments/e027e0523c4cc0ea8559d8e70b80f0bb/17c2b8a1/203.png),203.png (https://dl.airtable.com/.attachments/06b341cbac8027b1baf057e403417dee/01f8dfa4/203.png)",
       "Height":1.5,
       "Weight":41.5,
@@ -5076,7 +5076,7 @@
    },
    {
       "Name":"Pineco",
-      "Description":"It likes to make its shell thicker by adding layersof tree bark. The additional weight doesn't bother it.",
+      "Description":"It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
       "Sprites":"204.png (https://dl.airtable.com/.attachments/d7fb2e6218dccd2bcf5d29ec6f563c12/53093d48/204.png),204.png (https://dl.airtable.com/.attachments/516bfe51b71dc5911a6fb872fe287c41/66917cd2/204.png),204.png (https://dl.airtable.com/.attachments/f2c7695d35b6766803b9c2be1e873eec/79d4603c/204.png),204.png (https://dl.airtable.com/.attachments/d3811e14fd0c24d915fbfd5f24b371ce/2f906352/204.png)",
       "Height":0.6,
       "Weight":7.2,
@@ -5126,7 +5126,7 @@
    },
    {
       "Name":"Dunsparce",
-      "Description":"When spotted, this POK�MON escapes backward by furi�ously boring into the ground with its tail.",
+      "Description":"When spotted, this POK�MON escapes backward by furi� ously boring into the ground with its tail.",
       "Sprites":"206.png (https://dl.airtable.com/.attachments/e9d6f6f1dc55328d3d2b1ae183e7ec2b/b79ad6a9/206.png),206.png (https://dl.airtable.com/.attachments/b3ce1e8bd66abfc28bf2ef965c9a255a/f780b0d9/206.png),206.png (https://dl.airtable.com/.attachments/eb8eceacfed52037b3389c65c8c2a7ed/3fe6144f/206.png),206.png (https://dl.airtable.com/.attachments/0d74cb3299a332c0d2e813fced2f95aa/90c8c903/206.png)",
       "Height":1.5,
       "Weight":14,
@@ -5151,7 +5151,7 @@
    },
    {
       "Name":"Gligar",
-      "Description":"It flies straight at its target's face then clampsdown on the star� tled victim to inject poison.",
+      "Description":"It flies straight at its target's face then clamps down on the star� tled victim to inject poison.",
       "Sprites":"207.png (https://dl.airtable.com/.attachments/89a2f8f8b9279497fac8733d02a77800/51cd529e/207.png),207.png (https://dl.airtable.com/.attachments/9293184bd968d3374887d0d06b4b5746/8d495222/207.png),207.png (https://dl.airtable.com/.attachments/600ae92c69dcb79e8e99106a69cc2d8f/c2b9be04/207.png),207.png (https://dl.airtable.com/.attachments/51924b705292f5d8da7b03d672dbcd84/c766327d/207.png),207.png (https://dl.airtable.com/.attachments/8c90415deca72ce446dfe04b526f6922/46941224/207.png),207.png (https://dl.airtable.com/.attachments/f80b328b5c5f89105defa0349ba52210/ec23399a/207.png),207.png (https://dl.airtable.com/.attachments/7a9251f6110f59bff766e70115f177a6/d8846078/207.png),207.png (https://dl.airtable.com/.attachments/fe2b456e5d0b42d0a07707d33f3bee2b/665f5707/207.png)",
       "Height":1.1,
       "Weight":64.8,
@@ -5201,7 +5201,7 @@
    },
    {
       "Name":"Snubbull",
-      "Description":"Although it looks frightening, it is actually kind andaffectionate. It is very popular among women.",
+      "Description":"Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
       "Sprites":"209.png (https://dl.airtable.com/.attachments/213872394cb6d2899be20e3490e37ec5/be0ff24a/209.png),209.png (https://dl.airtable.com/.attachments/4948449a1fb6a95f461e544eb95d19d7/d0689c74/209.png),209.png (https://dl.airtable.com/.attachments/257eeee40f3f7392048468d37af59d65/7562183c/209.png),209.png (https://dl.airtable.com/.attachments/3b4caf4c03ab8d8afa780f1f79ccecd1/7e0574e2/209.png)",
       "Height":0.6,
       "Weight":7.8,
@@ -5226,7 +5226,7 @@
    },
    {
       "Name":"Granbull",
-      "Description":"It is actually timid and easily spooked. If at�tacked, it flails about to fend off its attacker.",
+      "Description":"It is actually timid and easily spooked. If at� tacked, it flails about to fend off its attacker.",
       "Sprites":"210.png (https://dl.airtable.com/.attachments/775cde284f45421fbb6262e19a07092a/d38f96ed/210.png),210.png (https://dl.airtable.com/.attachments/2c00682542ef8cc672399e3a39193295/e929fa5e/210.png),210.png (https://dl.airtable.com/.attachments/e2840206c2a2d0872d40f378e349a918/3bdc6d2f/210.png),210.png (https://dl.airtable.com/.attachments/3f6f366db26191e4b0f39e4b4db57d18/160b32af/210.png)",
       "Height":1.4,
       "Weight":48.7,
@@ -5276,7 +5276,7 @@
    },
    {
       "Name":"Scizor",
-      "Description":"It swings its eye- patterned pincers up to scare itsfoes. This makes it look like it has three heads.",
+      "Description":"It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads.",
       "Sprites":"212.png (https://dl.airtable.com/.attachments/08df430935a8690ce4485ee21f4ba0c2/0ed7883f/212.png),212.png (https://dl.airtable.com/.attachments/ded191a2968ece0155c5c4b41eb08a5b/4adb2400/212.png),212.png (https://dl.airtable.com/.attachments/ce3c9d453e8a4e7423af036fcb6e3839/b0742ada/212.png),212.png (https://dl.airtable.com/.attachments/eb227535a6241ffd98a673635e5cd11c/e2fb3f93/212.png),212.png (https://dl.airtable.com/.attachments/6e46e578ac6b536dc43e6273fd9ab01a/b65bb396/212.png),212.png (https://dl.airtable.com/.attachments/4c9c325c64bbb51e2cde8cac1ba4d045/a57fa927/212.png),212.png (https://dl.airtable.com/.attachments/382f8a64d3caac4dfbf86aab0b97f6c2/f28a0a19/212.png),212.png (https://dl.airtable.com/.attachments/1f46652eff282d75d63a05f624976453/a0ddcb6a/212.png)",
       "Height":1.8,
       "Weight":118,
@@ -5326,7 +5326,7 @@
    },
    {
       "Name":"Heracross",
-      "Description":"This powerful POK�MON thrusts its prized hornunder its enemies� bellies then lifts and throws them.",
+      "Description":"This powerful POK�MON thrusts its prized horn under its enemies� bellies then lifts and throws them.",
       "Sprites":"214.png (https://dl.airtable.com/.attachments/daa24ce6a3746e910aaf9dd6975defdd/24c927b1/214.png),214.png (https://dl.airtable.com/.attachments/f47f449bd48cd7eb183a6ca76e179484/2bd361e8/214.png),214.png (https://dl.airtable.com/.attachments/ca0bb57f5f487ae9e60325c4f65af526/9e91c9d1/214.png),214.png (https://dl.airtable.com/.attachments/c34513aaff9a9cdf550e52f9be3e6960/e7945d1c/214.png),214.png (https://dl.airtable.com/.attachments/b84b061dd0c51ee9e5ccd7d8db4c9265/21ef904c/214.png),214.png (https://dl.airtable.com/.attachments/2a89717abd8cf105dd240f4b48d450df/61aae520/214.png),214.png (https://dl.airtable.com/.attachments/dcb5efac6aa55da90292b099c66b13e1/d028508d/214.png),214.png (https://dl.airtable.com/.attachments/6fefaec20b4dd4cbb0ac3ceb81edbc97/b230b752/214.png)",
       "Height":1.5,
       "Weight":54,
@@ -5376,7 +5376,7 @@
    },
    {
       "Name":"Teddiursa",
-      "Description":"If it finds honey, its crescent mark glows. It alwayslicks its paws because they are soaked with honey.",
+      "Description":"If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
       "Sprites":"216.png (https://dl.airtable.com/.attachments/ec71ee09e45935856860b2d8bc839e20/31b46a56/216.png),216.png (https://dl.airtable.com/.attachments/0535934a390a7c5ed748796f96886e01/5a077ed0/216.png),216.png (https://dl.airtable.com/.attachments/11dc971bf093878811ff3c167393e51e/31f36723/216.png),216.png (https://dl.airtable.com/.attachments/909a86cb4b48eb5869aecc2166fc0fe2/682cc0dc/216.png)",
       "Height":0.6,
       "Weight":8.8,
@@ -5401,7 +5401,7 @@
    },
    {
       "Name":"Ursaring",
-      "Description":"Although it is a good climber, it prefers to snaptrees with its forelegs and eat fallen BERRIES.",
+      "Description":"Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",
       "Sprites":"217.png (https://dl.airtable.com/.attachments/62f6238fa3faa794190d0fb055526938/84fccac4/217.png),217.png (https://dl.airtable.com/.attachments/df40d2a405133a5c570058499b04b09c/8c3946a2/217.png),217.png (https://dl.airtable.com/.attachments/dd7f5ae138735dcd132f433c2e2ee83a/2239566c/217.png),217.png (https://dl.airtable.com/.attachments/24a3294a0543717df56d3d49ce9bfe64/bf146879/217.png),217.png (https://dl.airtable.com/.attachments/a35b3578ab5bd21b047e6c61f34df452/d9d6c520/217.png),217.png (https://dl.airtable.com/.attachments/d7bb227fc8a92f0d721d44b13223d65e/19362e66/217.png),217.png (https://dl.airtable.com/.attachments/d5c6f80d31d272a2dd22d432b0cb75ff/5b82fa07/217.png),217.png (https://dl.airtable.com/.attachments/8679ff0fde2ad00ca161e502c8836aa1/f2c2f085/217.png)",
       "Height":1.8,
       "Weight":125.8,
@@ -5426,7 +5426,7 @@
    },
    {
       "Name":"Slugma",
-      "Description":"It never sleeps. It has to keep moving because ifit stopped, its magma body would cool and harden.",
+      "Description":"It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
       "Sprites":"218.png (https://dl.airtable.com/.attachments/cddcff0d11b0311ac5fc19aa31c81ff9/e46ffb1f/218.png),218.png (https://dl.airtable.com/.attachments/131cb8fd490ec423b917fbe3a847e7df/aa47e9d7/218.png),218.png (https://dl.airtable.com/.attachments/e69ddbf0aab4051c50238b6abd6a745e/c82c8d23/218.png),218.png (https://dl.airtable.com/.attachments/63020bc2c7072d53c5851e5695fe0345/46192f97/218.png)",
       "Height":0.7,
       "Weight":35,
@@ -5451,7 +5451,7 @@
    },
    {
       "Name":"Magcargo",
-      "Description":"The shell on its back is just skin that has cooledand hardened. It breaks easily with a slight touch.",
+      "Description":"The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
       "Sprites":"219.png (https://dl.airtable.com/.attachments/50cef7927dc9f77a2f74f1fc56b2280a/06f56a63/219.png),219.png (https://dl.airtable.com/.attachments/9b52b06601696cbe3d6d69c697208ecf/fca15c6d/219.png),219.png (https://dl.airtable.com/.attachments/e3019df30f48609df6436c33af5fe5a6/29100a9e/219.png),219.png (https://dl.airtable.com/.attachments/ba87705f59f8d035627719bc19c7133c/f3b96df2/219.png)",
       "Height":0.8,
       "Weight":55,
@@ -5651,7 +5651,7 @@
    },
    {
       "Name":"Skarmory",
-      "Description":"Its sturdy wings look heavy, but they are actuallyhollow and light, allowing it to fly freely in the sky.",
+      "Description":"Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
       "Sprites":"227.png (https://dl.airtable.com/.attachments/1e67538cbcda407a478f77bd80ab9ec1/c00176db/227.png),227.png (https://dl.airtable.com/.attachments/78b68d409d3fa7220f907615c9beca50/47b1186c/227.png),227.png (https://dl.airtable.com/.attachments/8a2ecf3cfaad47e113d72e624e2f3877/3d931575/227.png),227.png (https://dl.airtable.com/.attachments/ad331977a1f7dd55213b9d6aa09573bc/a7c95455/227.png)",
       "Height":1.7,
       "Weight":50.5,
@@ -5676,7 +5676,7 @@
    },
    {
       "Name":"Houndour",
-      "Description":"It uses different kinds of cries for communicating withothers of its kind and for pursuing its prey.",
+      "Description":"It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
       "Sprites":"228.png (https://dl.airtable.com/.attachments/96d02250b8e7a56f4dfe3b6732fe97c4/670491ce/228.png),228.png (https://dl.airtable.com/.attachments/905a141b011ea9db390ac1801ffe4762/21749f92/228.png),228.png (https://dl.airtable.com/.attachments/6d7747f70d3dc6ed7ca6ec1b56e2fddf/566b914a/228.png),228.png (https://dl.airtable.com/.attachments/b14d96b927f2e9ec59b4b7292b9260a7/b67c2baa/228.png)",
       "Height":0.6,
       "Weight":10.8,
@@ -5701,7 +5701,7 @@
    },
    {
       "Name":"Houndoom",
-      "Description":"If you are burned by the flames it shoots from itsmouth, the pain will never go away.",
+      "Description":"If you are burned by the flames it shoots from its mouth, the pain will never go away.",
       "Sprites":"229.png (https://dl.airtable.com/.attachments/f62854b39be174f885dd47c46eb30f94/113d16ed/229.png),229.png (https://dl.airtable.com/.attachments/2e719de8bbc80ab0b51236d1c31815f9/ff876247/229.png),229.png (https://dl.airtable.com/.attachments/63ca6b3e6b1dfe1b98f30d2d6cdb64ab/130477cc/229.png),229.png (https://dl.airtable.com/.attachments/961c7713d5c1b6cb84075f0973b5a3dd/c0525740/229.png),229.png (https://dl.airtable.com/.attachments/2b3f37d84616c185e97be13b8fa1b806/fee35568/229.png),229.png (https://dl.airtable.com/.attachments/52b15d01818096c6b3ef30cf1b6b1f4f/bb98fb6e/229.png),229.png (https://dl.airtable.com/.attachments/945f107ba3db8984db32df9854f4af47/9f0e9027/229.png),229.png (https://dl.airtable.com/.attachments/15c3a2c9b80abce5684a18fcb06c4d31/0c7e9a40/229.png)",
       "Height":1.4,
       "Weight":35,
@@ -5726,7 +5726,7 @@
    },
    {
       "Name":"Kingdra",
-      "Description":"It is said that it usually hides in underwater caves.It can create whirlpools by yawning.",
+      "Description":"It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
       "Sprites":"230.png (https://dl.airtable.com/.attachments/9e33d72b4c52e6f4b00b3b57dec770a2/8ada11b6/230.png),230.png (https://dl.airtable.com/.attachments/f712607fe83679c67bfe3a9171a85ac4/36274aac/230.png),230.png (https://dl.airtable.com/.attachments/dccae1c84704289d1f86a8497ab8f0ea/e96d6c4a/230.png),230.png (https://dl.airtable.com/.attachments/2ff8ea47a328c3e089c3e01ef7a12bcc/77c508a8/230.png)",
       "Height":1.8,
       "Weight":152,
@@ -5751,7 +5751,7 @@
    },
    {
       "Name":"Phanpy",
-      "Description":"It swings its long snout around play� fully, but becauseit is so strong, that can be dan� gerous.",
+      "Description":"It swings its long snout around play� fully, but because it is so strong, that can be dan� gerous.",
       "Sprites":"231.png (https://dl.airtable.com/.attachments/81397b939839d4aee7765f4313a8ab73/12b78124/231.png),231.png (https://dl.airtable.com/.attachments/a1f120affe3e61105791f18bb14d029b/944d7e2b/231.png),231.png (https://dl.airtable.com/.attachments/1a8a38a4aee3f4f3adcfa527b8c5518e/37ef6627/231.png),231.png (https://dl.airtable.com/.attachments/40b6d1fed9e48f71d7327f9c3fac4bf5/9db49212/231.png)",
       "Height":0.5,
       "Weight":33.5,
@@ -5776,7 +5776,7 @@
    },
    {
       "Name":"Donphan",
-      "Description":"It has sharp, hard tusks and a rugged hide. Its TACKLEis strong enough to knock down a house.",
+      "Description":"It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",
       "Sprites":"232.png (https://dl.airtable.com/.attachments/4ff7aa45bc38189aae6dfad1f67d2d2f/d7a497b7/232.png),232.png (https://dl.airtable.com/.attachments/e6967ffe0eac57984a86324c8bafcbc7/dc69dd29/232.png),232.png (https://dl.airtable.com/.attachments/6fae6f91b9538e24fbfdcaae24c7a171/deb80963/232.png),232.png (https://dl.airtable.com/.attachments/7c47b3aceb634d59c5b04e1bde363993/621cbee7/232.png),232.png (https://dl.airtable.com/.attachments/af2e7feb49b905075b4e23dab14ecffd/1913eca9/232.png),232.png (https://dl.airtable.com/.attachments/a73dde009c9d45616aaa3ff909d5ca05/43135fec/232.png),232.png (https://dl.airtable.com/.attachments/9147738c6cf9db5f7903d2d95edcd9b2/673efd31/232.png),232.png (https://dl.airtable.com/.attachments/ce793e79a69cdcbeb861694b21fdb932/39a71faa/232.png)",
       "Height":1.1,
       "Weight":120,
@@ -5801,7 +5801,7 @@
    },
    {
       "Name":"Porygon2",
-      "Description":"This upgraded version of PORYGON is designed forspace exploration. It can't fly, though.",
+      "Description":"This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
       "Sprites":"233.png (https://dl.airtable.com/.attachments/f82b7f1d59950147436e0d4bb3190d6a/f184004c/233.png),233.png (https://dl.airtable.com/.attachments/db4b268c61645e3ef99bda1da00ebfca/548a0cfb/233.png),233.png (https://dl.airtable.com/.attachments/4b1ab7d59d4eb3b536c499c25b25961a/dc0f15dc/233.png),233.png (https://dl.airtable.com/.attachments/ec66296e7db2c92ce808dea632de4dc1/aa2f3b2d/233.png)",
       "Height":0.6,
       "Weight":32.5,
@@ -5851,7 +5851,7 @@
    },
    {
       "Name":"Smeargle",
-      "Description":"A special fluid oozes from the tip of its tail. Itpaints the fluid everywhere to mark its territory.",
+      "Description":"A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
       "Sprites":"235.png (https://dl.airtable.com/.attachments/4cc91074ae0acf2cf3557cda576932b0/72c546cb/235.png),235.png (https://dl.airtable.com/.attachments/7f1fa0724415b37cc25f73b053309486/153032f7/235.png),235.png (https://dl.airtable.com/.attachments/8b57874fa632c9d77dadd6db53757125/c3fd42a4/235.png),235.png (https://dl.airtable.com/.attachments/f35f9c12478fe6d46c910ee299ace73b/2c38ab8e/235.png)",
       "Height":1.2,
       "Weight":58,
@@ -5926,7 +5926,7 @@
    },
    {
       "Name":"Smoochum",
-      "Description":"Its lips are the most sensitive parts on its body.It always uses its lips first to examine things.",
+      "Description":"Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
       "Sprites":"238.png (https://dl.airtable.com/.attachments/6fc4e37d163c0df01848087e2ab77669/f1e3a0c2/238.png),238.png (https://dl.airtable.com/.attachments/e7d4cc73a5bf91f3f12f0dc35836743b/3046fb5f/238.png),238.png (https://dl.airtable.com/.attachments/fd03fdc15cd6aca0859ca63652b59dc4/87f1f8be/238.png),238.png (https://dl.airtable.com/.attachments/0189898a02c3f572d87387b522f0b2be/239f0c26/238.png)",
       "Height":0.4,
       "Weight":6,
@@ -5951,7 +5951,7 @@
    },
    {
       "Name":"Elekid",
-      "Description":"It rotates its arms to generate electricity, butit tires easily, so it charges up only a little bit.",
+      "Description":"It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit.",
       "Sprites":"239.png (https://dl.airtable.com/.attachments/31ce343f31c42ad7cf3cc6b2c23f71eb/dddef4ff/239.png),239.png (https://dl.airtable.com/.attachments/5add015515620f6bdae6d1de6e7451c9/341f6130/239.png),239.png (https://dl.airtable.com/.attachments/a7d6c26fdddb9f712ce84c0ec5911e82/b0f9c8cb/239.png),239.png (https://dl.airtable.com/.attachments/f25fbe03dd0083673c022ce39073519e/407d8388/239.png)",
       "Height":0.6,
       "Weight":23.5,
@@ -6001,7 +6001,7 @@
    },
    {
       "Name":"Miltank",
-      "Description":"Its milk is packed with nutrition, making it theultimate beverage for the sick or weary.",
+      "Description":"Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
       "Sprites":"241.png (https://dl.airtable.com/.attachments/74eac541f12e6460891d02971ca989d4/0d4a72e5/241.png),241.png (https://dl.airtable.com/.attachments/cbef3d91cef94e5344a0073eb864507e/8193d579/241.png),241.png (https://dl.airtable.com/.attachments/89407a8ad9d8e5d988267be5c164cf5c/26d0c991/241.png),241.png (https://dl.airtable.com/.attachments/7d83db7dab015fb21365158ca2d1897e/b71578bd/241.png)",
       "Height":1.2,
       "Weight":75.5,
@@ -6026,7 +6026,7 @@
    },
    {
       "Name":"Blissey",
-      "Description":"Anyone who takes even one bite of BLISSEY's egg be�comes unfailingly caring and pleas� ant to everyone.",
+      "Description":"Anyone who takes even one bite of BLISSEY's egg be� comes unfailingly caring and pleas� ant to everyone.",
       "Sprites":"242.png (https://dl.airtable.com/.attachments/7833962f5e52d764cb65d0de657ae2ab/d9a6df58/242.png),242.png (https://dl.airtable.com/.attachments/599ce89c8dd41a12fa9b42a21fa6c308/edded6cd/242.png),242.png (https://dl.airtable.com/.attachments/3aea5a7c7149609e3e7d985348068aa1/e0e5c264/242.png),242.png (https://dl.airtable.com/.attachments/1d70e6372d84b89d7ca6d817df295ab8/486eddfa/242.png)",
       "Height":1.5,
       "Weight":46.8,
@@ -6051,7 +6051,7 @@
    },
    {
       "Name":"Raikou",
-      "Description":"The rain clouds it carries let it fire thunderboltsat will. They say that it descended with lightning.",
+      "Description":"The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
       "Sprites":"243.png (https://dl.airtable.com/.attachments/413f224244c7be95de298d77332108e0/0cd40b23/243.png),243.png (https://dl.airtable.com/.attachments/53480c6910bb8e8f936a3ccb7ccb0f7c/3202274d/243.png),243.png (https://dl.airtable.com/.attachments/9e76193c93cf787a1b84d4a5a85b4a41/68bcd073/243.png),243.png (https://dl.airtable.com/.attachments/233a7ee8075373c78bc786dcac88c3db/bb5f68a6/243.png)",
       "Height":1.9,
       "Weight":178,
@@ -6076,7 +6076,7 @@
    },
    {
       "Name":"Entei",
-      "Description":"Volcanoes erupt when it barks. Un� able to restrainits extreme power, it races headlong around the land.",
+      "Description":"Volcanoes erupt when it barks. Un� able to restrain its extreme power, it races headlong around the land.",
       "Sprites":"244.png (https://dl.airtable.com/.attachments/397a6b29c43878ebabf5dc348e4210a2/328803b5/244.png),244.png (https://dl.airtable.com/.attachments/1785a6c7c8c78192ec77fb7720cc6f81/70c12914/244.png),244.png (https://dl.airtable.com/.attachments/d75a49c6d841507628f7e8fe69864783/1b64917f/244.png),244.png (https://dl.airtable.com/.attachments/f139760b448f72e9eb34f8ffb4a75c9c/d4e175a3/244.png)",
       "Height":2.1,
       "Weight":198,
@@ -6201,7 +6201,7 @@
    },
    {
       "Name":"Lugia",
-      "Description":"It is said that it quietly spends its time deep at thebottom of the sea because its powers are too strong.",
+      "Description":"It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
       "Sprites":"249.png (https://dl.airtable.com/.attachments/c643c683f4158cae06ce5e0ac8e8c8b0/a787b7ae/249.png),249.png (https://dl.airtable.com/.attachments/42d1456734e1b7e6bb92149552c16dc7/e28a8939/249.png),249.png (https://dl.airtable.com/.attachments/d44a49d12a027b59d090a19a0a6f2353/63d55ddf/249.png),249.png (https://dl.airtable.com/.attachments/dcd3dbc9593033daa62e759208b78179/0ad90337/249.png)",
       "Height":5.2,
       "Weight":216,
@@ -6226,7 +6226,7 @@
    },
    {
       "Name":"Ho-oh",
-      "Description":"Legends claim this POK�MON flies the world's skies con�tinuously on its magnificent seven- colored wings.",
+      "Description":"Legends claim this POK�MON flies the world's skies con� tinuously on its magnificent seven- colored wings.",
       "Sprites":"250.png (https://dl.airtable.com/.attachments/08fb9e79b8f37893a7cf4a96113e52b4/dcaac0ba/250.png),250.png (https://dl.airtable.com/.attachments/d89110d29ae452d4bced53dbc31cb62e/d185b0b9/250.png),250.png (https://dl.airtable.com/.attachments/43d56c65b9d6d0869253148eed96d47b/19411e3b/250.png),250.png (https://dl.airtable.com/.attachments/91a467788cce1b8738e483427a09f99a/89dfce59/250.png)",
       "Height":3.8,
       "Weight":199,
@@ -6276,7 +6276,7 @@
    },
    {
       "Name":"Treecko",
-      "Description":"TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls.This POK�MON attacks by slamming foes with its thick tail.",
+      "Description":"TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POK�MON attacks by slamming foes with its thick tail.",
       "Sprites":"252.png (https://dl.airtable.com/.attachments/20134e861b949d277d4eae0d8842f2b1/61081813/252.png),252.png (https://dl.airtable.com/.attachments/98557e12eaf78505991c5d437f5461d3/b49131f4/252.png),252.png (https://dl.airtable.com/.attachments/45758a1503b12cbf302402a1a7d33a72/eaa7ec11/252.png),252.png (https://dl.airtable.com/.attachments/30e30b972d4791fd48befdbdd4532745/fd9a2a5e/252.png)",
       "Height":0.5,
       "Weight":5,
@@ -6301,7 +6301,7 @@
    },
    {
       "Name":"Grovyle",
-      "Description":"The leaves growing out of GROVYLE�s body are convenient for camouflaging it from enemies in the forest.This POK�MON is a master at climbing trees in jungles.",
+      "Description":"The leaves growing out of GROVYLE�s body are convenient for camouflaging it from enemies in the forest. This POK�MON is a master at climbing trees in jungles.",
       "Sprites":"253.png (https://dl.airtable.com/.attachments/5641af8da99a33180955b816d2bb6d00/3b0b9888/253.png),253.png (https://dl.airtable.com/.attachments/a50fe713bb081dba1890cdfcbc9c983d/7fd34ebf/253.png),253.png (https://dl.airtable.com/.attachments/dd9734f270d0f1b4b9df49e7b1b79162/c8702d2a/253.png),253.png (https://dl.airtable.com/.attachments/3b1e04ae86a3d43f5256096797112ad5/8427ec79/253.png)",
       "Height":0.9,
       "Weight":21.6,
@@ -6326,7 +6326,7 @@
    },
    {
       "Name":"Sceptile",
-      "Description":"The leaves growing on SCEPTILE�s body are very sharp edged. This POK�MON is very agile - it leaps all over thebranches of trees and jumps on its foe from above or behind.",
+      "Description":"The leaves growing on SCEPTILE�s body are very sharp edged. This POK�MON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "Sprites":"254.png (https://dl.airtable.com/.attachments/7d45d885f92d6f2c15b8c60629a9fc76/e42f2c3e/254.png),254.png (https://dl.airtable.com/.attachments/405d38acbf53c553c770acbe7ffcee7a/ca54c690/254.png),254.png (https://dl.airtable.com/.attachments/f6cbbf039eb0d2133704525f7fa29d1b/390efbaf/254.png),254.png (https://dl.airtable.com/.attachments/23386a9703ab8591cb3b2fea809d50ae/336148dd/254.png)",
       "Height":1.7,
       "Weight":52.2,
@@ -6351,7 +6351,7 @@
    },
    {
       "Name":"Torchic",
-      "Description":"TORCHIC sticks with its TRAINER, following behind with unsteady steps.This POK�MON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
+      "Description":"TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POK�MON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
       "Sprites":"255.png (https://dl.airtable.com/.attachments/a3b6a4bc8b5e50f17701ac94e0496dcf/c6d8a94a/255.png),255.png (https://dl.airtable.com/.attachments/83c0ff68e892c07128aeb967383019c8/f0f78855/255.png),255.png (https://dl.airtable.com/.attachments/4b502ef3f3e2607a405d2eaa6c30ea12/3c1f0423/255.png),255.png (https://dl.airtable.com/.attachments/827bc977ed9dd4645e42913974addf15/895dcdbd/255.png),255.png (https://dl.airtable.com/.attachments/18eb50e8d1540f45a732c75634db76b1/e989794a/255.png),255.png (https://dl.airtable.com/.attachments/79e70367c900dd95292ac4c2e4fc6c3b/0f4b52df/255.png),255.png (https://dl.airtable.com/.attachments/7049390f3facce8c1918f67d85de3975/97eda808/255.png),255.png (https://dl.airtable.com/.attachments/c9b8ecab4720e4fa31911a5818f223b9/04dcf5fd/255.png)",
       "Height":0.4,
       "Weight":2.5,
@@ -6376,7 +6376,7 @@
    },
    {
       "Name":"Combusken",
-      "Description":"COMBUSKEN toughens up its legs and thighs by running through fields and mountains.This POK�MON�s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
+      "Description":"COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POK�MON�s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
       "Sprites":"256.png (https://dl.airtable.com/.attachments/7a1a1f7062f350a75bcb269efe7c1b1f/35e2cb8d/256.png),256.png (https://dl.airtable.com/.attachments/b01cfec74e2cdde972cea6b1a4263d65/f1aea9b7/256.png),256.png (https://dl.airtable.com/.attachments/91e2d286496e3a861e09ebd180e58788/c465ae1e/256.png),256.png (https://dl.airtable.com/.attachments/4b873fe04c8b7c88ba58d51f7f70544e/23d044ad/256.png),256.png (https://dl.airtable.com/.attachments/a5dde2e59305605d0c79515298de2e30/533f76d6/256.png),256.png (https://dl.airtable.com/.attachments/97a9a69fd306dd7c08c006e1d016c560/aa368ecd/256.png),256.png (https://dl.airtable.com/.attachments/e7b1aad5440c5789620cbaeea5693b1a/fab6e9e2/256.png),256.png (https://dl.airtable.com/.attachments/28607579fa12764e61a70941d350f345/d506aa84/256.png)",
       "Height":0.9,
       "Weight":19.5,
@@ -6401,7 +6401,7 @@
    },
    {
       "Name":"Blaziken",
-      "Description":"In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously.The stronger the foe, the more intensely this POK�MON�s wrists burn.",
+      "Description":"In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POK�MON�s wrists burn.",
       "Sprites":"257.png (https://dl.airtable.com/.attachments/0f7a9a52a164189027abb7c1e1bff37c/a49c95cb/257.png),257.png (https://dl.airtable.com/.attachments/9d395dec6ab6a38c8f2f43e8498b120a/2549d6e5/257.png),257.png (https://dl.airtable.com/.attachments/f8a858b91ac47ed389ec519ab3d43d91/9e291550/257.png),257.png (https://dl.airtable.com/.attachments/711bf592fae289183dcefdf813f9d414/c28ad880/257.png),257.png (https://dl.airtable.com/.attachments/96c46d4f4002a2e1ee6374ea56dc95cd/3a66238f/257.png),257.png (https://dl.airtable.com/.attachments/6d47cb37b8b1baeedf4540912cc89d98/500a56e5/257.png),257.png (https://dl.airtable.com/.attachments/a5d51842a966df9c774411dba2aa5362/3486baa4/257.png),257.png (https://dl.airtable.com/.attachments/e3e3260dc1e7a892550326271e65edca/90b63317/257.png)",
       "Height":1.9,
       "Weight":52,
@@ -6426,7 +6426,7 @@
    },
    {
       "Name":"Mudkip",
-      "Description":"The fin on MUDKIP�s head acts as highly sensitive radar. Using this fin to sense movements of water and air, thisPOK�MON can determine what is taking place around it without using its eyes.",
+      "Description":"The fin on MUDKIP�s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POK�MON can determine what is taking place around it without using its eyes.",
       "Sprites":"258.png (https://dl.airtable.com/.attachments/5eab642dcf0e1380e6c90a6893f3de30/36330c4a/258.png),258.png (https://dl.airtable.com/.attachments/876e5d7539576afb0f8c81458cbcbba4/42e4e375/258.png),258.png (https://dl.airtable.com/.attachments/b45ca8b4d890b794473772d29c1b2bc1/bb34df2a/258.png),258.png (https://dl.airtable.com/.attachments/1a4ecec42c0508123db555c8e41c2b66/4333e28f/258.png)",
       "Height":0.4,
       "Weight":7.6,
@@ -6476,7 +6476,7 @@
    },
    {
       "Name":"Swampert",
-      "Description":"SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton.This POK�MON also has powerful vision that lets it see even in murky water.",
+      "Description":"SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK�MON also has powerful vision that lets it see even in murky water.",
       "Sprites":"260.png (https://dl.airtable.com/.attachments/2c71189271a32822c4c1d205f0dffe16/aa8c8690/260.png),260.png (https://dl.airtable.com/.attachments/e56a367fa1a83241c8b02fe1c90fae79/c5d18aae/260.png),260.png (https://dl.airtable.com/.attachments/0a69f8eb143bc66c286e0459b6958244/77d507eb/260.png),260.png (https://dl.airtable.com/.attachments/9804838e01309217042f5e6bc16a8076/b6b0ab6e/260.png)",
       "Height":1.5,
       "Weight":81.9,
@@ -6501,7 +6501,7 @@
    },
    {
       "Name":"Poochyena",
-      "Description":"At first sight, POOCHYENA takes a bite at anything that moves. This POK�MON chases after prey untilthe victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+      "Description":"At first sight, POOCHYENA takes a bite at anything that moves. This POK�MON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
       "Sprites":"261.png (https://dl.airtable.com/.attachments/5d21ee246dd9da859a09c510ed0746ef/4a3bfcdf/261.png),261.png (https://dl.airtable.com/.attachments/19642e255ea8237554fc7e9984ca42a8/edc277cb/261.png),261.png (https://dl.airtable.com/.attachments/31fd79f74d3477b948911ea65451b7bd/15d304d1/261.png),261.png (https://dl.airtable.com/.attachments/10ac6e31526412ffe15d9fee2dc3e35b/52bba695/261.png)",
       "Height":0.5,
       "Weight":13.6,
@@ -6526,7 +6526,7 @@
    },
    {
       "Name":"Mightyena",
-      "Description":"MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body.This POK�MON will bite savagely with its sharply pointed fangs.",
+      "Description":"MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POK�MON will bite savagely with its sharply pointed fangs.",
       "Sprites":"262.png (https://dl.airtable.com/.attachments/a119d14dfc53417eb16bb97ca49681e6/1758d319/262.png),262.png (https://dl.airtable.com/.attachments/5b91a321fe7faddb0a688ef07af1298e/f91c5e19/262.png),262.png (https://dl.airtable.com/.attachments/6281908c12560d3e170a68203295d457/bff0aaa0/262.png),262.png (https://dl.airtable.com/.attachments/c33ead1f5c74de94fea0b05c08532778/ed0349a7/262.png)",
       "Height":1,
       "Weight":37,
@@ -6601,7 +6601,7 @@
    },
    {
       "Name":"Wurmple",
-      "Description":"Using the spikes on its rear end,   WURMPLE peels the bark off trees and feeds on the sap that oozes out.This POK�MON�s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+      "Description":"Using the spikes on its rear end,   WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POK�MON�s feet are tipped with suction pads that allow it to cling to glass without slipping.",
       "Sprites":"265.png (https://dl.airtable.com/.attachments/c3681161bb24ef2f7cdd3e2b965f4fd2/2e5cc9fb/265.png),265.png (https://dl.airtable.com/.attachments/e5a602d6b7f9f017386b866e6a677949/5dc8c300/265.png),265.png (https://dl.airtable.com/.attachments/11b87213ba71296cb9e6d1ad3db8fd8a/48f235c2/265.png),265.png (https://dl.airtable.com/.attachments/ecb5bfc02942a126e32768abcbcdfa44/114bac9e/265.png)",
       "Height":0.3,
       "Weight":3.6,
@@ -6626,7 +6626,7 @@
    },
    {
       "Name":"Silcoon",
-      "Description":"SILCOON tethers itself to a tree branch using silk to keep from falling. There,  this POK�MON hangs quietly while itawaits evolution. It peers out of the silk cocoon through a small hole.",
+      "Description":"SILCOON tethers itself to a tree branch using silk to keep from falling. There,  this POK�MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
       "Sprites":"266.png (https://dl.airtable.com/.attachments/185c7378e7a3903cade667cb1b0d36b0/3d13bd51/266.png),266.png (https://dl.airtable.com/.attachments/e22fdfcfe08b9d1ea8cdac8b32306525/b2da069e/266.png),266.png (https://dl.airtable.com/.attachments/7dfd50bbb038c2dd908e0edfd80796aa/6b57d7f5/266.png),266.png (https://dl.airtable.com/.attachments/f367c8a883397df9ebd139b8f0caea1a/dbf6f7f7/266.png)",
       "Height":0.6,
       "Weight":10,
@@ -6651,7 +6651,7 @@
    },
    {
       "Name":"Beautifly",
-      "Description":"BEAUTIFLY�s favorite food is the sweet pollen of flowers. If you want to see this POK�MON, just leave a pottedflower by an open window. BEAUTIFLY is sure to come looking for pollen.",
+      "Description":"BEAUTIFLY�s favorite food is the sweet pollen of flowers. If you want to see this POK�MON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
       "Sprites":"267.png (https://dl.airtable.com/.attachments/a2d68e114ebc5cc84a106efdcd91c41a/b03b0924/267.png),267.png (https://dl.airtable.com/.attachments/0fbf4aa08071213b7456f8f2eaa9f8bf/cb63d42a/267.png),267.png (https://dl.airtable.com/.attachments/33d6938793dd903731295cc2f6737edc/3f1c31bf/267.png),267.png (https://dl.airtable.com/.attachments/54a5dc98ec731c0577b3110393c31f90/58988106/267.png),267.png (https://dl.airtable.com/.attachments/2c5b1c4cf5c5bd60f25903b640db22e1/c21b5eeb/267.png),267.png (https://dl.airtable.com/.attachments/97aa22c12ebe727c4284c4ad4d644ba5/ed163058/267.png),267.png (https://dl.airtable.com/.attachments/1db6fc61a214460ced34a5fce6bac817/e76d535d/267.png),267.png (https://dl.airtable.com/.attachments/a6bcafc4df1105f7f00018e1d1f3ecaf/7aaf313f/267.png)",
       "Height":1,
       "Weight":28.4,
@@ -6676,7 +6676,7 @@
    },
    {
       "Name":"Cascoon",
-      "Description":"CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silkgoes around its body, it hardens. This POK�MON prepares for its evolution inside the cocoon.",
+      "Description":"CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK�MON prepares for its evolution inside the cocoon.",
       "Sprites":"268.png (https://dl.airtable.com/.attachments/6bb24813c2b12e5fa28f872ce8f9cdbd/c2d04bc0/268.png),268.png (https://dl.airtable.com/.attachments/a5a3d780891457cf80374913b7884584/e2c210e8/268.png),268.png (https://dl.airtable.com/.attachments/a2fd1d51d9c8a07ed179d3835041b064/26f9b2e6/268.png),268.png (https://dl.airtable.com/.attachments/5a086d9ac6f40304829fa675f8f8fefa/a1752930/268.png)",
       "Height":0.7,
       "Weight":11.5,
@@ -6701,7 +6701,7 @@
    },
    {
       "Name":"Dustox",
-      "Description":"DUSTOX is instinctively drawn to light. Swarms of this POK�MON are attracted by the bright lights of cities, wherethey wreak havoc by stripping the leaves off roadside trees for food.",
+      "Description":"DUSTOX is instinctively drawn to light. Swarms of this POK�MON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
       "Sprites":"269.png (https://dl.airtable.com/.attachments/019efa12d2572dadf0b5c36c611a02a8/5c26751e/269.png),269.png (https://dl.airtable.com/.attachments/d809f6f95b6abe23b217373e56134ee4/e8fc1b72/269.png),269.png (https://dl.airtable.com/.attachments/4c77a1fef964dde1de4cc61d0954e9d4/62ee5fb9/269.png),269.png (https://dl.airtable.com/.attachments/c9f53f3b50f5fdeb501bff4219988941/9a04a0a6/269.png),269.png (https://dl.airtable.com/.attachments/0b5665d0cddfa65e82261f56dd2ac095/58743017/269.png),269.png (https://dl.airtable.com/.attachments/adc043624151a6f83fb2d397046bb953/a8a9bbbf/269.png),269.png (https://dl.airtable.com/.attachments/db3c5cf715bde182eb926fb2d0c61c54/e7671838/269.png),269.png (https://dl.airtable.com/.attachments/f8a24d0fe68128dddd687451ceb8cae2/df5b29cb/269.png)",
       "Height":1.2,
       "Weight":31.6,
@@ -6876,7 +6876,7 @@
    },
    {
       "Name":"Taillow",
-      "Description":"TAILLOW courageously stands its ground against foes, however strong they may be.This gutsy POK�MON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+      "Description":"TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POK�MON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
       "Sprites":"276.png (https://dl.airtable.com/.attachments/67141d33a306a9e06c0a761c010f79a0/99e2e669/276.png),276.png (https://dl.airtable.com/.attachments/cc71a2362d5fcb84d5fff0892f27a5e9/c9c47ba7/276.png),276.png (https://dl.airtable.com/.attachments/fb14e3038b2152abdeb4e09939282857/62d23a97/276.png),276.png (https://dl.airtable.com/.attachments/15d26b63dda2b19e7554d53d0027e631/dbc5ba65/276.png)",
       "Height":0.3,
       "Weight":2.3,
@@ -6901,7 +6901,7 @@
    },
    {
       "Name":"Swellow",
-      "Description":"SWELLOW flies high above our heads, making graceful arcs in the sky. This POK�MON dives at a steep angle assoon as it spots its prey. The hapless prey is tightly grasped by SWELLOW�s clawed feet, preventing escape.",
+      "Description":"SWELLOW flies high above our heads, making graceful arcs in the sky. This POK�MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW�s clawed feet, preventing escape.",
       "Sprites":"277.png (https://dl.airtable.com/.attachments/5e6a3dfb4613a8db444d14223b4ff22a/106f0660/277.png),277.png (https://dl.airtable.com/.attachments/a9ed0802681934f3101a4e5399061060/ce9f761a/277.png),277.png (https://dl.airtable.com/.attachments/555fa34790fcf3827d971e71b65ae553/8b684c31/277.png),277.png (https://dl.airtable.com/.attachments/93614ecedaa7837b96de406ab450495b/55b5ddf4/277.png)",
       "Height":0.7,
       "Weight":19.8,
@@ -7051,7 +7051,7 @@
    },
    {
       "Name":"Surskit",
-      "Description":"From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating.This POK�MON feeds on microscopic organisms in ponds and lakes.",
+      "Description":"From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POK�MON feeds on microscopic organisms in ponds and lakes.",
       "Sprites":"283.png (https://dl.airtable.com/.attachments/14134bd455c326e0a804811769f705b5/ae45c14f/283.png),283.png (https://dl.airtable.com/.attachments/24901d4a4b9d1445f81900a55c4d574a/d7156bbb/283.png),283.png (https://dl.airtable.com/.attachments/d1291a21c565897396f2553f9a5776b5/dff18622/283.png),283.png (https://dl.airtable.com/.attachments/ddb9e1c1e898fafa97e23f56806e3d68/54d190fe/283.png)",
       "Height":0.5,
       "Weight":1.7,
@@ -7076,7 +7076,7 @@
    },
    {
       "Name":"Masquerain",
-      "Description":"MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK�MON flaps its four wings tofreely fly in any direction - even sideways and backwards - as if it were a helicopter.",
+      "Description":"MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POK�MON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
       "Sprites":"284.png (https://dl.airtable.com/.attachments/55598b97560198cef484bac9e64231c8/d05f9b96/284.png),284.png (https://dl.airtable.com/.attachments/befe930606a8bfeaf6d56c5f6f91ca51/42361aea/284.png),284.png (https://dl.airtable.com/.attachments/b7b5ef117b1937dc3e4ed535ba712a3a/4e08913c/284.png),284.png (https://dl.airtable.com/.attachments/355ddfcb2fe7a463205368f5a1924445/d431f44b/284.png)",
       "Height":0.8,
       "Weight":3.6,
@@ -7101,7 +7101,7 @@
    },
    {
       "Name":"Shroomish",
-      "Description":"SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves.This POK�MON feeds on compost that is made up of fallen, rotted leaves.",
+      "Description":"SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POK�MON feeds on compost that is made up of fallen, rotted leaves.",
       "Sprites":"285.png (https://dl.airtable.com/.attachments/419195fdcb643a9c0af564595611eddc/38460085/285.png),285.png (https://dl.airtable.com/.attachments/e7754fd5025665153bc8ef492d805a92/9f6934ca/285.png),285.png (https://dl.airtable.com/.attachments/c80ce65ce314891cb09574cc36395404/9089dbaa/285.png),285.png (https://dl.airtable.com/.attachments/26eaa9f15dcb3d53a26a747954b176ba/efd1de17/285.png)",
       "Height":0.4,
       "Weight":4.5,
@@ -7126,7 +7126,7 @@
    },
    {
       "Name":"Breloom",
-      "Description":"BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms.This POK�MON�s fighting technique puts boxers to shame.",
+      "Description":"BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POK�MON�s fighting technique puts boxers to shame.",
       "Sprites":"286.png (https://dl.airtable.com/.attachments/1b4a9176fd0ffc2e1a70b326ddf7bbff/9ef40145/286.png),286.png (https://dl.airtable.com/.attachments/b2d866475bc03122b97cb0035055e4ec/e6636d60/286.png),286.png (https://dl.airtable.com/.attachments/64fde65fa814435d46208e23e63be632/f9440991/286.png),286.png (https://dl.airtable.com/.attachments/0979ce4ba56c4c706710321f1b4712d1/163c5bc4/286.png)",
       "Height":1.2,
       "Weight":39.2,
@@ -7176,7 +7176,7 @@
    },
    {
       "Name":"Vigoroth",
-      "Description":"VIGOROTH is always itching and agitated to go on a wild rampage. It simply can�t tolerate sitting still for even a minute.This POK�MON�s stress level rises if it can�t be moving constantly.",
+      "Description":"VIGOROTH is always itching and agitated to go on a wild rampage. It simply can�t tolerate sitting still for even a minute. This POK�MON�s stress level rises if it can�t be moving constantly.",
       "Sprites":"288.png (https://dl.airtable.com/.attachments/6120e079e7a312245ba4ad016c9b9dbd/b878735f/288.png),288.png (https://dl.airtable.com/.attachments/6242906fe8269be90d6c2ed3d6a5ea63/8ff478db/288.png),288.png (https://dl.airtable.com/.attachments/3b8c3331233b9a274e67daa51e23364c/68aa3c7d/288.png),288.png (https://dl.airtable.com/.attachments/51c08b30e22ce5d2e6fd4505269a4765/e5fd76bb/288.png)",
       "Height":1.4,
       "Weight":46.5,
@@ -7201,7 +7201,7 @@
    },
    {
       "Name":"Slaking",
-      "Description":"SLAKING spends all day lying down and lolling about. It eats grass growing within its reach.If it eats all the grass it can reach, this POK�MON reluctantly moves to another spot.",
+      "Description":"SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POK�MON reluctantly moves to another spot.",
       "Sprites":"289.png (https://dl.airtable.com/.attachments/c209cc8f5ff8a65e6d7fbf0af75a633e/546ccf66/289.png),289.png (https://dl.airtable.com/.attachments/af05b76656bd882c925e3b7e404f496e/59eda0f7/289.png),289.png (https://dl.airtable.com/.attachments/d03a65b201b815fbfbf0cc9a67493a98/4402b87a/289.png),289.png (https://dl.airtable.com/.attachments/1de5831519d44d2f16d82a7e9aa35f92/3e66dcbc/289.png)",
       "Height":2,
       "Weight":130.5,
@@ -7301,7 +7301,7 @@
    },
    {
       "Name":"Whismur",
-      "Description":"Normally, WHISMUR�s voice is very quiet - it is barely audible even if one is paying close attention.However, if this POK�MON senses danger, it starts crying at an earsplitting volume.",
+      "Description":"Normally, WHISMUR�s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POK�MON senses danger, it starts crying at an earsplitting volume.",
       "Sprites":"293.png (https://dl.airtable.com/.attachments/83afbf64d43b352cd4f67ea9152981b4/bf9c9b19/293.png),293.png (https://dl.airtable.com/.attachments/52d6846b9fc3437ec1abb5f6f9789d6f/c279dbfa/293.png),293.png (https://dl.airtable.com/.attachments/d5990e363d5afccec7df3b9c0ee4d0a2/6eb29fa4/293.png),293.png (https://dl.airtable.com/.attachments/91fab40523110aa1138419841f20e347/ae015fbb/293.png)",
       "Height":0.6,
       "Weight":16.3,
@@ -7326,7 +7326,7 @@
    },
    {
       "Name":"Loudred",
-      "Description":"LOUDRED�s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes.This POK�MON�s round ears serve as loudspeakers.",
+      "Description":"LOUDRED�s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POK�MON�s round ears serve as loudspeakers.",
       "Sprites":"294.png (https://dl.airtable.com/.attachments/79bd8b674a5f9f0be33275e23f7a81a9/de5c2e64/294.png),294.png (https://dl.airtable.com/.attachments/ed6315cb26e74c75737111fe1a2bd590/3d05082b/294.png),294.png (https://dl.airtable.com/.attachments/db6ab33184a99255f18dd562ba4006b2/214a5e8a/294.png),294.png (https://dl.airtable.com/.attachments/635406140a079a3dc121af35313468dd/2d1dfa6e/294.png)",
       "Height":1,
       "Weight":40.5,
@@ -7351,7 +7351,7 @@
    },
    {
       "Name":"Exploud",
-      "Description":"EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POK�MON violently inhales from theports on its body, it�s a sign that it is preparing to let loose a huge bellow.",
+      "Description":"EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POK�MON violently inhales from the ports on its body, it�s a sign that it is preparing to let loose a huge bellow.",
       "Sprites":"295.png (https://dl.airtable.com/.attachments/520bddf1be6c5e6fffd126b67fd13a57/e51a0a23/295.png),295.png (https://dl.airtable.com/.attachments/104ea4fc5d13f3ed4fad2154963e2aa4/15ac2aa6/295.png),295.png (https://dl.airtable.com/.attachments/95d7cd3ee6b0c6f4a7524aa0606f13a5/0691d914/295.png),295.png (https://dl.airtable.com/.attachments/b0adf3d3ac535bdfb8e46e0498856c7e/a440b979/295.png)",
       "Height":1.5,
       "Weight":84,
@@ -7376,7 +7376,7 @@
    },
    {
       "Name":"Makuhita",
-      "Description":"MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down.Every time it gets back up, this POK�MON stores more energy in its body for evolving.",
+      "Description":"MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POK�MON stores more energy in its body for evolving.",
       "Sprites":"296.png (https://dl.airtable.com/.attachments/a2a2a460c49697df9a4d7a770073b574/7a57b2be/296.png),296.png (https://dl.airtable.com/.attachments/85f914a009adbdd8bf192631da078c33/c270aee9/296.png),296.png (https://dl.airtable.com/.attachments/4b2ea14f7b28c075c43221d34e8bf8bc/f3a76fa7/296.png),296.png (https://dl.airtable.com/.attachments/08b2eb2547e94606987443965a69d56f/e8b22c95/296.png)",
       "Height":1,
       "Weight":86.4,
@@ -7401,7 +7401,7 @@
    },
    {
       "Name":"Hariyama",
-      "Description":"HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POK�MON�s powerful,openhanded, straight-arm punches could snap a telephone pole in two.",
+      "Description":"HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POK�MON�s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
       "Sprites":"297.png (https://dl.airtable.com/.attachments/31a7c65eb4652a586a84ea47d1fbe5bd/a52531a9/297.png),297.png (https://dl.airtable.com/.attachments/78d539f25934a7879b222655ee40178b/dc8640d4/297.png),297.png (https://dl.airtable.com/.attachments/7c88ee1ef5eb850ae50e456b3d95e856/220fba37/297.png),297.png (https://dl.airtable.com/.attachments/3d4d85f3cd4789051ebc5e278061fc3f/0a96e332/297.png)",
       "Height":2.3,
       "Weight":253.8,
@@ -7426,7 +7426,7 @@
    },
    {
       "Name":"Azurill",
-      "Description":"AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too.Using this unique action, one of these POK�MON managed to hurl itself a record 33 feet.",
+      "Description":"AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POK�MON managed to hurl itself a record 33 feet.",
       "Sprites":"298.png (https://dl.airtable.com/.attachments/9512db5e37c251e8e4b46e004c18039c/efb21b3e/298.png),298.png (https://dl.airtable.com/.attachments/e3400cc7cc3802275ebb92c8a860e4ea/7a4facd7/298.png),298.png (https://dl.airtable.com/.attachments/3430cbe5016809e2e76c58262682b468/d9e2f839/298.png),298.png (https://dl.airtable.com/.attachments/b3ebdf6eb0a5c540aacc9f8f4ded2aa6/9197fede/298.png)",
       "Height":0.2,
       "Weight":2,
@@ -7451,7 +7451,7 @@
    },
    {
       "Name":"Nosepass",
-      "Description":"NOSEPASS�s magnetic nose is always pointed to the north. If two of these POK�MON meet, they cannot turntheir faces to each other when they are close because their magnetic noses repel one another.",
+      "Description":"NOSEPASS�s magnetic nose is always pointed to the north. If two of these POK�MON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another.",
       "Sprites":"299.png (https://dl.airtable.com/.attachments/bc46a6f5924aa09342dd99c88cfeeac9/82ddabb7/299.png),299.png (https://dl.airtable.com/.attachments/716baca0a727e54067223208e8610a39/f74df70b/299.png),299.png (https://dl.airtable.com/.attachments/78d0b5628f2697c2af71d61694742544/c33f6043/299.png),299.png (https://dl.airtable.com/.attachments/dfb0dbef940936439b71c63818d14c88/71ea908d/299.png)",
       "Height":1,
       "Weight":97,
@@ -7501,7 +7501,7 @@
    },
    {
       "Name":"Delcatty",
-      "Description":"DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace.Because this POK�MON eats and sleeps whenever it decides, its daily routines are completely random.",
+      "Description":"DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POK�MON eats and sleeps whenever it decides, its daily routines are completely random.",
       "Sprites":"301.png (https://dl.airtable.com/.attachments/f09c028d18739645b125daec3e3ecda0/663018b7/301.png),301.png (https://dl.airtable.com/.attachments/d2cbe11165c13ca4e7b46a633aa40b22/46eb0aa3/301.png),301.png (https://dl.airtable.com/.attachments/4dba822596a4263e52a3fa5b09c8b028/03293099/301.png),301.png (https://dl.airtable.com/.attachments/a39eafebc6aa42a1e9bacea7477551b7/46ce024a/301.png)",
       "Height":1.1,
       "Weight":32.6,
@@ -7576,7 +7576,7 @@
    },
    {
       "Name":"Aron",
-      "Description":"This POK�MON has a body of steel. To make its body, ARON feeds on iron ore that it digs from mountains.Occasionally, it causes major trouble by eating bridges and rails.",
+      "Description":"This POK�MON has a body of steel. To make its body, ARON feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails.",
       "Sprites":"304.png (https://dl.airtable.com/.attachments/3a7af42832b9ec1ba3a8c7aef625adbc/35499300/304.png),304.png (https://dl.airtable.com/.attachments/a3cbca784268209344facadd2b12f8fb/5bdbb1e5/304.png),304.png (https://dl.airtable.com/.attachments/9e8f0fb52fcdf6622c8a48dc0d05df2e/5bfcf193/304.png),304.png (https://dl.airtable.com/.attachments/adb7d3d2cdc9caa3dac7afc4ecd45bf4/7a30e1de/304.png)",
       "Height":0.4,
       "Weight":60,
@@ -7601,7 +7601,7 @@
    },
    {
       "Name":"Lairon",
-      "Description":"LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated.This POK�MON makes its nest close to springs of delicious water.",
+      "Description":"LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POK�MON makes its nest close to springs of delicious water.",
       "Sprites":"305.png (https://dl.airtable.com/.attachments/91c268b5311b5e371b04ee22dd7276da/5661a472/305.png),305.png (https://dl.airtable.com/.attachments/d728caed4c76d501ca7ae5fe139c45eb/e3a8c59b/305.png),305.png (https://dl.airtable.com/.attachments/4f2d4752515c5595a632294aaab3a8c8/60fd8f09/305.png),305.png (https://dl.airtable.com/.attachments/e1624634a301e629647a3f7d86ef71ea/b7963935/305.png)",
       "Height":0.9,
       "Weight":120,
@@ -7626,7 +7626,7 @@
    },
    {
       "Name":"Aggron",
-      "Description":"AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment.This POK�MON vigilantly patrols its territory at all times.",
+      "Description":"AGGRON claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This POK�MON vigilantly patrols its territory at all times.",
       "Sprites":"306.png (https://dl.airtable.com/.attachments/76ee44c801d08f0a61385e434dc6672b/e02cccc1/306.png),306.png (https://dl.airtable.com/.attachments/1e9f4330aba3efccb6188a611da1033e/18db0687/306.png),306.png (https://dl.airtable.com/.attachments/c627d4fcc0aa64eb084b50a66539d50c/59830be2/306.png),306.png (https://dl.airtable.com/.attachments/9b45ef5367eadb59613ea21dd834aa79/b64c46d3/306.png)",
       "Height":2.1,
       "Weight":360,
@@ -7651,7 +7651,7 @@
    },
    {
       "Name":"Meditite",
-      "Description":"MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, thisPOK�MON always loses its concentration and focus. As a result, its training never ends.",
+      "Description":"MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POK�MON always loses its concentration and focus. As a result, its training never ends.",
       "Sprites":"307.png (https://dl.airtable.com/.attachments/7d2f3c8db2917d71f1c345cef748ae44/d2b214cf/307.png),307.png (https://dl.airtable.com/.attachments/9f45888f50a7a9f7fdc36f021f027f52/a110ff5f/307.png),307.png (https://dl.airtable.com/.attachments/5391624483feb4b42478f0925cf81c0f/5469a7bd/307.png),307.png (https://dl.airtable.com/.attachments/7e91e37e4c7005563a69621a9f6e4039/a1635e87/307.png),307.png (https://dl.airtable.com/.attachments/5940f44a3b0f9b9faea116145cabef23/63045b19/307.png),307.png (https://dl.airtable.com/.attachments/2198f6f96d76a60374f1f65587736a79/09ed0c10/307.png),307.png (https://dl.airtable.com/.attachments/59ced3a87682a70e4eb59bb7d2662d47/662c0093/307.png),307.png (https://dl.airtable.com/.attachments/aaa6a27c281415891224523f16ac09e5/5b7c6b57/307.png)",
       "Height":0.6,
       "Weight":11.2,
@@ -7676,7 +7676,7 @@
    },
    {
       "Name":"Medicham",
-      "Description":"It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense.This POK�MON hides its presence by merging itself with fields and mountains.",
+      "Description":"It is said that through meditation, MEDICHAM heightens energy inside its body and sharpens its sixth sense. This POK�MON hides its presence by merging itself with fields and mountains.",
       "Sprites":"308.png (https://dl.airtable.com/.attachments/e93a85ef321cdb8dc81493737dce3dd6/14a65c47/308.png),308.png (https://dl.airtable.com/.attachments/8092a5d856d16266107a856d3bf1f395/1270449b/308.png),308.png (https://dl.airtable.com/.attachments/bfee13829c50b56a26785a8e008ad379/3dd2ba08/308.png),308.png (https://dl.airtable.com/.attachments/6213e537878ad9ac29ed305685f8bcfd/87758dff/308.png),308.png (https://dl.airtable.com/.attachments/87a680d8dfc3eb634ab76337dc414725/de7f5d4d/308.png),308.png (https://dl.airtable.com/.attachments/c2becf8ad754c2f3c5414dd14afc783f/7085c3b3/308.png),308.png (https://dl.airtable.com/.attachments/ed96543ade462c32e7434324453fc1f8/243f3e5e/308.png),308.png (https://dl.airtable.com/.attachments/0e10d39d0abe4d4103a0618f66f89b61/4601f21e/308.png)",
       "Height":1.3,
       "Weight":31.5,
@@ -7751,7 +7751,7 @@
    },
    {
       "Name":"Plusle",
-      "Description":"PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, thisPOK�MON shorts out its body to create the crackling noises of sparks to show its joy.",
+      "Description":"PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POK�MON shorts out its body to create the crackling noises of sparks to show its joy.",
       "Sprites":"311.png (https://dl.airtable.com/.attachments/f1f8c4935d76dad51a20c1c4b29ef701/5be8f374/311.png),311.png (https://dl.airtable.com/.attachments/c774be3839a719fc57f0f1a4c526d073/692ff93f/311.png),311.png (https://dl.airtable.com/.attachments/5f1af60402a05ec04d5ffef1f9390da1/f34d594b/311.png),311.png (https://dl.airtable.com/.attachments/030131d1a9695b3fa5abac83c50ca2ea/5662412a/311.png)",
       "Height":0.4,
       "Weight":4.2,
@@ -7776,7 +7776,7 @@
    },
    {
       "Name":"Minun",
-      "Description":"MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in itsbody to create brilliant showers of sparks to cheer on its teammates.",
+      "Description":"MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
       "Sprites":"312.png (https://dl.airtable.com/.attachments/d4de47d159f3dc92f9f933d672da5525/3a7fa4bf/312.png),312.png (https://dl.airtable.com/.attachments/d968559320c8016ece0ef9b33a8446e7/1e64be8a/312.png),312.png (https://dl.airtable.com/.attachments/b08c61d6c293d52a0d892c4ff1d92619/a85324ee/312.png),312.png (https://dl.airtable.com/.attachments/ee22334d4cf9b0af2eb23d2179638e22/e44c96b1/312.png)",
       "Height":0.4,
       "Weight":4.2,
@@ -7801,7 +7801,7 @@
    },
    {
       "Name":"Volbeat",
-      "Description":"With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity andflashing of its light. This POK�MON is attracted by the sweet aroma of ILLUMISE.",
+      "Description":"With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POK�MON is attracted by the sweet aroma of ILLUMISE.",
       "Sprites":"313.png (https://dl.airtable.com/.attachments/c9e21e973fefedcc895d65850e38960c/01c2e16a/313.png),313.png (https://dl.airtable.com/.attachments/87a2630cafac506fd035a7a52d89e125/4779459c/313.png),313.png (https://dl.airtable.com/.attachments/38435e27277236262a94bb91994a415a/3d6640df/313.png),313.png (https://dl.airtable.com/.attachments/57ab4298bc1418602a0456b68976238f/15865ae4/313.png)",
       "Height":0.7,
       "Weight":17.7,
@@ -7826,7 +7826,7 @@
    },
    {
       "Name":"Illumise",
-      "Description":"ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POK�MONleads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+      "Description":"ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POK�MON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
       "Sprites":"314.png (https://dl.airtable.com/.attachments/162962b55470196fd6e05f7e64e2493f/d24c1568/314.png),314.png (https://dl.airtable.com/.attachments/5f4dbabe506599df1d394f6240a87a77/02743298/314.png),314.png (https://dl.airtable.com/.attachments/7d84578715cd22b4132b0eb061e88af1/7c7df77e/314.png),314.png (https://dl.airtable.com/.attachments/797de82bee0381feb6f593a812ffadc3/6899e184/314.png)",
       "Height":0.6,
       "Weight":17.7,
@@ -7876,7 +7876,7 @@
    },
    {
       "Name":"Gulpin",
-      "Description":"Virtually all of GULPIN�s body is its stomach. As a result, it can swallow something its own size.This POK�MON�s stomach contains a special fluid that digests anything.",
+      "Description":"Virtually all of GULPIN�s body is its stomach. As a result, it can swallow something its own size. This POK�MON�s stomach contains a special fluid that digests anything.",
       "Sprites":"316.png (https://dl.airtable.com/.attachments/96abe5f7760b65900afaefc1ddba7772/b84dc63d/316.png),316.png (https://dl.airtable.com/.attachments/a0c715eb6fe1c5caeb4426d37c4d1ace/d16bfd5d/316.png),316.png (https://dl.airtable.com/.attachments/330f0916f6794f6e712059f0424a8a2c/ae86a0c3/316.png),316.png (https://dl.airtable.com/.attachments/7ceefc88efe3a1d664e9a65e2d4d14fd/0aeddc43/316.png),316.png (https://dl.airtable.com/.attachments/824ed542f58c0b6f436cd0a687a77fff/68b513fe/316.png),316.png (https://dl.airtable.com/.attachments/81585e397956820afcbae527597552a0/78e806d4/316.png),316.png (https://dl.airtable.com/.attachments/7662c20d6cee0c212662281757297d10/0dd0a4eb/316.png),316.png (https://dl.airtable.com/.attachments/3cecb336e18e535cee7cce4228aa5f67/9918582e/316.png)",
       "Height":0.4,
       "Weight":10.3,
@@ -7926,7 +7926,7 @@
    },
    {
       "Name":"Carvanha",
-      "Description":"CARVANHA�s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls.Many boats have been attacked and sunk by this POK�MON.",
+      "Description":"CARVANHA�s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POK�MON.",
       "Sprites":"318.png (https://dl.airtable.com/.attachments/ede3c87ff7ff3ac4ed035da820ff63fc/db4c4cd0/318.png),318.png (https://dl.airtable.com/.attachments/7f5ee822f582047f79da6c575fc21818/107b80a2/318.png),318.png (https://dl.airtable.com/.attachments/40b4c166d8f8788556344cbad5415561/02d2aa22/318.png),318.png (https://dl.airtable.com/.attachments/a8a2ebcf65fd92d533db1ca4e4e60326/659278fb/318.png)",
       "Height":0.8,
       "Weight":20.8,
@@ -7951,7 +7951,7 @@
    },
    {
       "Name":"Sharpedo",
-      "Description":"Nicknamed �the bully of the sea,� SHARPEDO is widely feared. Its cruel fangs grow back immediatelyif they snap off. Just one of these POK�MON can thoroughly tear apart a supertanker.",
+      "Description":"Nicknamed �the bully of the sea,� SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POK�MON can thoroughly tear apart a supertanker.",
       "Sprites":"319.png (https://dl.airtable.com/.attachments/df17d5af0204440a9ec6814405fe3e35/d66d5763/319.png),319.png (https://dl.airtable.com/.attachments/ecf81b5555b63737e9f487825406c07a/eac09c62/319.png),319.png (https://dl.airtable.com/.attachments/3dab0190688bda8d5ee39640f7735e2b/be7d408a/319.png),319.png (https://dl.airtable.com/.attachments/ac742729e0a9a93d7e86bf5cdf393bd0/97c7160b/319.png)",
       "Height":1.8,
       "Weight":88.8,
@@ -8026,7 +8026,7 @@
    },
    {
       "Name":"Numel",
-      "Description":"NUMEL is extremely dull witted - it doesn�t notice being hit. However, it can�t stand hunger for even a second.This POK�MON�s body is a seething cauldron of boiling magma.",
+      "Description":"NUMEL is extremely dull witted - it doesn�t notice being hit. However, it can�t stand hunger for even a second. This POK�MON�s body is a seething cauldron of boiling magma.",
       "Sprites":"322.png (https://dl.airtable.com/.attachments/71f66e4ecde618845284fdb896cc696d/1e7c9984/322.png),322.png (https://dl.airtable.com/.attachments/1773fa771913aa2ef72a11b383bc8677/9eb62dc3/322.png),322.png (https://dl.airtable.com/.attachments/c9b06ee40005a25b5091b877b5ccd44f/fcfabf06/322.png),322.png (https://dl.airtable.com/.attachments/74553914f5ca7b5b528ddd78acf955c3/c92a69f6/322.png),322.png (https://dl.airtable.com/.attachments/db026503699459d166914bd93db18747/607d1b39/322.png),322.png (https://dl.airtable.com/.attachments/aa2071c06036655167e123bbe92978fc/31d16366/322.png),322.png (https://dl.airtable.com/.attachments/f67ad262cf03eff47277ba4f6c44bbea/b85b2dd8/322.png),322.png (https://dl.airtable.com/.attachments/63932bdc3edc76f1565a03d02784f473/7642f695/322.png)",
       "Height":0.7,
       "Weight":24,
@@ -8051,7 +8051,7 @@
    },
    {
       "Name":"Camerupt",
-      "Description":"CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body.Occasionally, the humps on this POK�MON�s back erupt, spewing the superheated magma.",
+      "Description":"CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POK�MON�s back erupt, spewing the superheated magma.",
       "Sprites":"323.png (https://dl.airtable.com/.attachments/8233d967ed8f03de538b85788ba5399b/c545bf11/323.png),323.png (https://dl.airtable.com/.attachments/f97dd45bbe1f18da9d30582772864d30/4d307e68/323.png),323.png (https://dl.airtable.com/.attachments/3500e9bc06fcbdc714af338327e8bb66/d763bffb/323.png),323.png (https://dl.airtable.com/.attachments/0c0be6079f3115b9f98167027ef6a50a/8b275127/323.png),323.png (https://dl.airtable.com/.attachments/5495436cf35dc619efc2775dc0bc571a/cc4385dd/323.png),323.png (https://dl.airtable.com/.attachments/aba167a24db7e582861261682f5b287d/fba3bcb6/323.png),323.png (https://dl.airtable.com/.attachments/cff9f34529dbc6c0b5c28bb39a0ba5db/70bb38e7/323.png),323.png (https://dl.airtable.com/.attachments/e4712a02e6f2bc3e29239d99fda77a88/70172cc3/323.png)",
       "Height":1.9,
       "Weight":220,
@@ -8101,7 +8101,7 @@
    },
    {
       "Name":"Spoink",
-      "Description":"SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POK�MONcannot afford to stop bouncing - if it stops, its heart will stop.",
+      "Description":"SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POK�MON cannot afford to stop bouncing - if it stops, its heart will stop.",
       "Sprites":"325.png (https://dl.airtable.com/.attachments/c099ce662f467ba4fb9abe66f5d17f7f/1abddbe1/325.png),325.png (https://dl.airtable.com/.attachments/12c7f4f08804b8c5425e16b0094e9c57/1e2cc5d6/325.png),325.png (https://dl.airtable.com/.attachments/86d6a85d13ee2927e166530b834d2381/47259832/325.png),325.png (https://dl.airtable.com/.attachments/83b3d8a98880bede70f1bde9fb42b900/1250080b/325.png)",
       "Height":0.7,
       "Weight":30.6,
@@ -8126,7 +8126,7 @@
    },
    {
       "Name":"Grumpig",
-      "Description":"GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe.When this POK�MON uses its special power, its snorting breath grows labored.",
+      "Description":"GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POK�MON uses its special power, its snorting breath grows labored.",
       "Sprites":"326.png (https://dl.airtable.com/.attachments/bf8781321c62ac8fc8409629788fe18a/7a5514dc/326.png),326.png (https://dl.airtable.com/.attachments/52d013fdaf4d292b3399e9dc7fde89f8/ee852b13/326.png),326.png (https://dl.airtable.com/.attachments/cea2482c9bc7924052985299c6840a8b/8dc71b9d/326.png),326.png (https://dl.airtable.com/.attachments/3bab4e9353d8cc869fd397f430220aef/e93fcbc5/326.png)",
       "Height":0.9,
       "Weight":71.5,
@@ -8151,7 +8151,7 @@
    },
    {
       "Name":"Spinda",
-      "Description":"All the SPINDA that exist in the world are said to have utterly unique spot patterns.The shaky, tottering steps of this POK�MON give it the appearance of dancing.",
+      "Description":"All the SPINDA that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this POK�MON give it the appearance of dancing.",
       "Sprites":"327.png (https://dl.airtable.com/.attachments/ceb73cd1a38ecb0e22ac89c42d55c2a7/b00073c6/327.png),327.png (https://dl.airtable.com/.attachments/843443fda0c45cef91c74349bafccfef/0f737f8f/327.png),327.png (https://dl.airtable.com/.attachments/b7b6e971360c4fca2cd17ae5b705ef2b/789e6525/327.png),327.png (https://dl.airtable.com/.attachments/1709c8e126c0cb92e353174b30ea5301/aad41001/327.png)",
       "Height":1.1,
       "Weight":5,
@@ -8251,7 +8251,7 @@
    },
    {
       "Name":"Cacnea",
-      "Description":"CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey.When prey comes near, this POK�MON shoots sharp thorns from its body to bring the victim down.",
+      "Description":"CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POK�MON shoots sharp thorns from its body to bring the victim down.",
       "Sprites":"331.png (https://dl.airtable.com/.attachments/73f82141fde20ac02b7d10a1fadd02fa/108fbba1/331.png),331.png (https://dl.airtable.com/.attachments/25c8d252721cbacaec0a014c238ef6ed/6e6a30c0/331.png),331.png (https://dl.airtable.com/.attachments/e7b2ad44205399b819d8be628bf83ff3/b9a2e191/331.png),331.png (https://dl.airtable.com/.attachments/539c8524bafbc1a121cbfd6ca047c803/76b43938/331.png)",
       "Height":0.4,
       "Weight":51.3,
@@ -8276,7 +8276,7 @@
    },
    {
       "Name":"Cacturne",
-      "Description":"During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun.This POK�MON becomes active at night when the temperature drops.",
+      "Description":"During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POK�MON becomes active at night when the temperature drops.",
       "Sprites":"332.png (https://dl.airtable.com/.attachments/714b9cca46cfbd56fab8347ee7909251/92344027/332.png),332.png (https://dl.airtable.com/.attachments/a479583b25b4675cccea017a2a231f33/5b2f08cc/332.png),332.png (https://dl.airtable.com/.attachments/778c4d1ac8264df21994aa981cfb9ea9/e73c118a/332.png),332.png (https://dl.airtable.com/.attachments/75674ed927d32db56f851063361ede20/08337000/332.png),332.png (https://dl.airtable.com/.attachments/759ac7256f67f96d9c5b0766a5405679/8b404b6e/332.png),332.png (https://dl.airtable.com/.attachments/6c67d46eddd7a479b042ffbb3be0df7e/3da3b175/332.png)",
       "Height":1.3,
       "Weight":77.4,
@@ -8301,7 +8301,7 @@
    },
    {
       "Name":"Swablu",
-      "Description":"SWABLU has light and fluffy wings that are like cottony clouds. This POK�MON is not frightened of people.It lands on the heads of people and sits there like a cotton-fluff hat.",
+      "Description":"SWABLU has light and fluffy wings that are like cottony clouds. This POK�MON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
       "Sprites":"333.png (https://dl.airtable.com/.attachments/ea543a710ec65def7e5ee6a6421a2f29/cc924c18/333.png),333.png (https://dl.airtable.com/.attachments/7ad3abd4d27305d1a9067281e1fda6e8/0990be52/333.png),333.png (https://dl.airtable.com/.attachments/7cf02113cddbee3a909604b59eb1fe6d/caa061bc/333.png),333.png (https://dl.airtable.com/.attachments/f4d5114416a14cbc6c2506ac35de4b70/b6a3f144/333.png)",
       "Height":0.4,
       "Weight":1.2,
@@ -8351,7 +8351,7 @@
    },
    {
       "Name":"Zangoose",
-      "Description":"Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE�s body.This POK�MON adroitly dodges attacks with incredible agility.",
+      "Description":"Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE�s body. This POK�MON adroitly dodges attacks with incredible agility.",
       "Sprites":"335.png (https://dl.airtable.com/.attachments/70fe6e6b3882f221706c1a0dac0bd691/df911e8c/335.png),335.png (https://dl.airtable.com/.attachments/442114eb1fbc70e71715360a5cb175e4/cd181ab5/335.png),335.png (https://dl.airtable.com/.attachments/484491af6d0732af257f5ec3927e76e0/b0af80aa/335.png),335.png (https://dl.airtable.com/.attachments/1a7932f3cae743ec87e487e67c0821a6/4d710a69/335.png)",
       "Height":1.3,
       "Weight":40.3,
@@ -8376,7 +8376,7 @@
    },
    {
       "Name":"Seviper",
-      "Description":"SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles.This POK�MON attacks using its sword- edged tail.",
+      "Description":"SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POK�MON attacks using its sword- edged tail.",
       "Sprites":"336.png (https://dl.airtable.com/.attachments/a3760a12d10c117b23f79fc6f8f46a41/48eaef82/336.png),336.png (https://dl.airtable.com/.attachments/84e9372518e28e0a397f8a1ab73dfc64/2bc15d1a/336.png),336.png (https://dl.airtable.com/.attachments/056bd42538b19acd9ce0bab05f72679c/05d00dbd/336.png),336.png (https://dl.airtable.com/.attachments/c2b06f4a83a74e0ee183965cf063ce20/1a8bf6c1/336.png)",
       "Height":2.7,
       "Weight":52.5,
@@ -8601,7 +8601,7 @@
    },
    {
       "Name":"Lileep",
-      "Description":"LILEEP became extinct approximately a hundred million years ago. This ancient POK�MON attaches itselfto a rock on the seafloor and catches approaching prey using tentacles  shaped like flower petals.",
+      "Description":"LILEEP became extinct approximately a hundred million years ago. This ancient POK�MON attaches itself to a rock on the seafloor and catches approaching prey using tentacles  shaped like flower petals.",
       "Sprites":"345.png (https://dl.airtable.com/.attachments/7b0af6f6fffe9d4775eda4e1a6226b14/999142fe/345.png),345.png (https://dl.airtable.com/.attachments/6fb34fcc23919e9d0542b4c778109085/b9428e2c/345.png),345.png (https://dl.airtable.com/.attachments/4a6830699a2df485fd2938d352b60d22/5a72ab1b/345.png),345.png (https://dl.airtable.com/.attachments/2e3a5ede08998dcda62fbe076d00e969/c4a408a1/345.png)",
       "Height":1,
       "Weight":23.8,
@@ -8626,7 +8626,7 @@
    },
    {
       "Name":"Cradily",
-      "Description":"CRADILY roams around the ocean floor in search of food. This POK�MON freely extends its tree trunk-like neck andcaptures unwary prey using its eight tentacles.",
+      "Description":"CRADILY roams around the ocean floor in search of food. This POK�MON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
       "Sprites":"346.png (https://dl.airtable.com/.attachments/2e139a547a47c06d2d2557a07a77135b/ecc5a6f3/346.png),346.png (https://dl.airtable.com/.attachments/fd33b131d107b5c4d40d8398623c81b6/6a027659/346.png),346.png (https://dl.airtable.com/.attachments/95aa7c7a6fecb8bd94d685d1979a468c/91ebc194/346.png),346.png (https://dl.airtable.com/.attachments/965746679678063caaf30bec46d78685/46f0f34b/346.png)",
       "Height":1.5,
       "Weight":60.4,
@@ -8651,7 +8651,7 @@
    },
    {
       "Name":"Anorith",
-      "Description":"ANORITH was regenerated from a prehistoric fossil. This primitive POK�MON once lived in warm seas.It grips its prey firmly between its two large claws.",
+      "Description":"ANORITH was regenerated from a prehistoric fossil. This primitive POK�MON once lived in warm seas. It grips its prey firmly between its two large claws.",
       "Sprites":"347.png (https://dl.airtable.com/.attachments/94ed579602caeb186400cf9289f820e3/6482dd17/347.png),347.png (https://dl.airtable.com/.attachments/8226f8d8787a92f840e4e3247c9dfb55/db55717d/347.png),347.png (https://dl.airtable.com/.attachments/2efdc2ddf0f5cf77aff9cfef7b1e4d72/22ab7be3/347.png),347.png (https://dl.airtable.com/.attachments/e7ea4e6d7a24943b776c8d6d79d59c5b/0605bc17/347.png)",
       "Height":0.7,
       "Weight":12.5,
@@ -8676,7 +8676,7 @@
    },
    {
       "Name":"Armaldo",
-      "Description":"ARMALDO�s tough armor makes all attacks bounce off. This POK�MON�s two enormous claws can be freely extendedor contracted. They have the power to punch right through a steel slab.",
+      "Description":"ARMALDO�s tough armor makes all attacks bounce off. This POK�MON�s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
       "Sprites":"348.png (https://dl.airtable.com/.attachments/a4eb85f7220a8c8e664bca6b33317a76/c78aa763/348.png),348.png (https://dl.airtable.com/.attachments/99380a8d2fc54b6c6076391f89c21f25/1ee3088e/348.png),348.png (https://dl.airtable.com/.attachments/2491279ae4cf53552ebc964908e1f8d7/3e697f0e/348.png),348.png (https://dl.airtable.com/.attachments/061919fa77a7d79c595c0c33de988a81/e9cac785/348.png)",
       "Height":1.5,
       "Weight":68.2,
@@ -8751,7 +8751,7 @@
    },
    {
       "Name":"Castform",
-      "Description":"CASTFORM�s appearance changes with the weather. This POK�MON gained the ability to usethe vast power of nature to protect its tiny body.",
+      "Description":"CASTFORM�s appearance changes with the weather. This POK�MON gained the ability to use the vast power of nature to protect its tiny body.",
       "Sprites":"351.png (https://dl.airtable.com/.attachments/501382825e3e77c53d034a48e1a20401/fe0198ca/351.png),351.png (https://dl.airtable.com/.attachments/941c2c131c86707e1bc13942a8b8aad3/027d4704/351.png),351.png (https://dl.airtable.com/.attachments/f60c4b71ecdc32c6efda28c0d7435689/aedf5d12/351.png),351.png (https://dl.airtable.com/.attachments/ac47475c887b2b8989d0483b426a422d/9fb0c5d8/351.png)",
       "Height":0.3,
       "Weight":0.8,
@@ -8776,7 +8776,7 @@
    },
    {
       "Name":"Kecleon",
-      "Description":"KECLEON is capable of changing its body colors at will to blend in with its surroundings.There is one exception - this POK�MON can�t change the zigzag pattern on its belly.",
+      "Description":"KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this POK�MON can�t change the zigzag pattern on its belly.",
       "Sprites":"352.png (https://dl.airtable.com/.attachments/a1ad2c8dbc692b5961b77015ed40505b/80a7b36a/352.png),352.png (https://dl.airtable.com/.attachments/ad0c161fb70a90eea370ad3e877efba7/eea12145/352.png),352.png (https://dl.airtable.com/.attachments/e92333d65f0ea029e329fe769722ab37/1e2c28d5/352.png),352.png (https://dl.airtable.com/.attachments/83bbe3fba014325c6ab262ff2f0cdc7e/ccc1a3b9/352.png)",
       "Height":1,
       "Weight":22,
@@ -8801,7 +8801,7 @@
    },
    {
       "Name":"Shuppet",
-      "Description":"SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings ofvengeance, this POK�MON will appear in a swarm and line up beneath the eaves of that person�s home.",
+      "Description":"SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POK�MON will appear in a swarm and line up beneath the eaves of that person�s home.",
       "Sprites":"353.png (https://dl.airtable.com/.attachments/ccf2d33eed6ca663f43ed816720ab178/9033789b/353.png),353.png (https://dl.airtable.com/.attachments/017fde4811be645fcce81232fe2f955a/5928c2e4/353.png),353.png (https://dl.airtable.com/.attachments/7f50d84d7d802a6cd2ca95287a05aa9c/ac78c4e9/353.png),353.png (https://dl.airtable.com/.attachments/4bd70e909693aed6bbaa29c99035fec4/a4f6bba1/353.png)",
       "Height":0.6,
       "Weight":2.3,
@@ -8826,7 +8826,7 @@
    },
    {
       "Name":"Banette",
-      "Description":"BANETTE generates energy for laying strong curses by sticking pins into its own body.This POK�MON was originally a pitiful plush doll that was thrown away.",
+      "Description":"BANETTE generates energy for laying strong curses by sticking pins into its own body. This POK�MON was originally a pitiful plush doll that was thrown away.",
       "Sprites":"354.png (https://dl.airtable.com/.attachments/ef9ad49000e4c09fa59a17ef142de43b/552f8137/354.png),354.png (https://dl.airtable.com/.attachments/74c624943125d3cd86be78060b3a83dc/abc6f23a/354.png),354.png (https://dl.airtable.com/.attachments/bedf9590771aeb32e0c4a658c554ec3c/62991cf4/354.png),354.png (https://dl.airtable.com/.attachments/57669184384178360741ae1842b66f23/ff63d45b/354.png)",
       "Height":1.1,
       "Weight":12.5,
@@ -9301,7 +9301,7 @@
    },
    {
       "Name":"Salamence",
-      "Description":"SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerfuldesire triggered a sudden mutation in this POK�MON�s cells, causing it to sprout its magnificent wings.",
+      "Description":"SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POK�MON�s cells, causing it to sprout its magnificent wings.",
       "Sprites":"373.png (https://dl.airtable.com/.attachments/6b36e96b0f185b10ffc297e17e31830f/3fafc3a5/373.png),373.png (https://dl.airtable.com/.attachments/d386f8bd2e45144f65b775e25d9d4fdd/53de1292/373.png),373.png (https://dl.airtable.com/.attachments/50b21a7c7f17d5e5ec471b1dc463ece4/6422a65d/373.png),373.png (https://dl.airtable.com/.attachments/30c52ae0b7b011c80f3dbbaa9cafef5c/250ba076/373.png)",
       "Height":1.5,
       "Weight":102.6,
@@ -9326,7 +9326,7 @@
    },
    {
       "Name":"Beldum",
-      "Description":"Instead of blood, a powerful magnetic force courses throughout BELDUM�s body. This POK�MON communicates withothers by sending controlled pulses of magnetism.",
+      "Description":"Instead of blood, a powerful magnetic force courses throughout BELDUM�s body. This POK�MON communicates with others by sending controlled pulses of magnetism.",
       "Sprites":"374.png (https://dl.airtable.com/.attachments/8d1fdfc6419843ba764293c0b708679e/bd41b284/374.png),374.png (https://dl.airtable.com/.attachments/0f39cf4937231862805219170c5c0db2/dd3dc8ec/374.png),374.png (https://dl.airtable.com/.attachments/9336d33fe50c410060cb0216c6cd1121/47d9b8b8/374.png),374.png (https://dl.airtable.com/.attachments/b1928b876cd0369c20073f630709ef4d/3efc6ef8/374.png)",
       "Height":0.6,
       "Weight":95.2,
@@ -9351,7 +9351,7 @@
    },
    {
       "Name":"Metang",
-      "Description":"When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system.By linking its brains magnetically, this POK�MON generates strong psychokinetic power.",
+      "Description":"When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POK�MON generates strong psychokinetic power.",
       "Sprites":"375.png (https://dl.airtable.com/.attachments/877bbe812cc4c4336e3ed5e89337f372/d9d9dfa6/375.png),375.png (https://dl.airtable.com/.attachments/80ebd76a1d5df9fe158914796b33f64f/8486a5d7/375.png),375.png (https://dl.airtable.com/.attachments/619ace0385c097a5daeb5e8cd114afee/a242521f/375.png),375.png (https://dl.airtable.com/.attachments/a269cab6062db80eaff6ec7a072097d5/c91a6923/375.png)",
       "Height":1.2,
       "Weight":202.5,
@@ -9376,7 +9376,7 @@
    },
    {
       "Name":"Metagross",
-      "Description":"METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations fasterthan a supercomputer. This POK�MON can float in the air by tucking in its four legs.",
+      "Description":"METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POK�MON can float in the air by tucking in its four legs.",
       "Sprites":"376.png (https://dl.airtable.com/.attachments/913c1e35244ab91fde56a700707276e8/e6eb6540/376.png),376.png (https://dl.airtable.com/.attachments/be9970affc227ecf3da7546aba45840a/24640280/376.png),376.png (https://dl.airtable.com/.attachments/0596ca92b3b1c1bc87e557fbd937ada2/525c1519/376.png),376.png (https://dl.airtable.com/.attachments/8dd1554ad9f8cdb96b7f537ce6fb54f9/cf8674ea/376.png)",
       "Height":1.6,
       "Weight":550,
@@ -9401,7 +9401,7 @@
    },
    {
       "Name":"Regirock",
-      "Description":"REGIROCK was sealed away by people long ago. If this POK�MON�s body is damaged in battle, it is said to seekout suitable rocks on its own to repair itself.",
+      "Description":"REGIROCK was sealed away by people long ago. If this POK�MON�s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
       "Sprites":"377.png (https://dl.airtable.com/.attachments/6dfb014319ee460757feceddb3737dd2/689c0acd/377.png),377.png (https://dl.airtable.com/.attachments/e509772d854faa90e69727522074aed5/1765ae9c/377.png),377.png (https://dl.airtable.com/.attachments/405687e4f80de106c8e36e34973edbdc/948c0aee/377.png),377.png (https://dl.airtable.com/.attachments/fd8e9cc442fec44250ac6fa51f1cf215/766e4e8f/377.png)",
       "Height":1.7,
       "Weight":230,
@@ -9426,7 +9426,7 @@
    },
    {
       "Name":"Regice",
-      "Description":"REGICE�s body was made during an ice age. The deep-frozen body can�t be melted, even by fire.This POK�MON controls frigid air of minus 328 degrees F.",
+      "Description":"REGICE�s body was made during an ice age. The deep-frozen body can�t be melted, even by fire. This POK�MON controls frigid air of minus 328 degrees F.",
       "Sprites":"378.png (https://dl.airtable.com/.attachments/4ee263922ada832baeb5bab98778d3a7/a3bcce67/378.png),378.png (https://dl.airtable.com/.attachments/a0f797de78e4ff59483e36d7113a9d97/f8437644/378.png),378.png (https://dl.airtable.com/.attachments/3613926bf7d39e9c6991f09e5a726f9a/51616797/378.png),378.png (https://dl.airtable.com/.attachments/9a176396830a5b23ad3414304299bb27/2e5e9479/378.png)",
       "Height":1.8,
       "Weight":175,
@@ -9451,7 +9451,7 @@
    },
    {
       "Name":"Registeel",
-      "Description":"REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow.No one has any idea what this POK�MON eats.",
+      "Description":"REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POK�MON eats.",
       "Sprites":"379.png (https://dl.airtable.com/.attachments/ff15cb0e8ad698fc0ff1992ad2bbfef8/59e69e9c/379.png),379.png (https://dl.airtable.com/.attachments/4bad60bb1da6f8f6fa8e9948db0b64a3/0e8f1d80/379.png),379.png (https://dl.airtable.com/.attachments/8ff9c86a5fad0ee7cce612d5a1080953/8a8883a3/379.png),379.png (https://dl.airtable.com/.attachments/1c4b4891a46d9c52c9c9e53c19806669/20117874/379.png)",
       "Height":1.9,
       "Weight":205,
@@ -9576,7 +9576,7 @@
    },
    {
       "Name":"Rayquaza",
-      "Description":"RAYQUAZA lived for hundreds of millions of years in the earth�s ozone layer,  never descending to the ground.This POK�MON appears to feed on water and particles in the atmosphere.",
+      "Description":"RAYQUAZA lived for hundreds of millions of years in the earth�s ozone layer,  never descending to the ground. This POK�MON appears to feed on water and particles in the atmosphere.",
       "Sprites":"384.png (https://dl.airtable.com/.attachments/f73bcd9a0ba0fea66c0d1e8689b956e6/47b385b5/384.png),384.png (https://dl.airtable.com/.attachments/a1610dcc7f46308d8ca54522c387338a/a337e278/384.png),384.png (https://dl.airtable.com/.attachments/a4c5ba3ba1ab15b0f2b63880a35f7a2c/177516dc/384.png),384.png (https://dl.airtable.com/.attachments/36902268c40824aed76a7c3280114c95/52968b79/384.png)",
       "Height":7,
       "Weight":206.5,
@@ -9626,7 +9626,7 @@
    },
    {
       "Name":"Deoxys-normal",
-      "Description":"The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in DEOXYS.The crystalline organ on this POK�MON�s chest appears to be its brain.",
+      "Description":"The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in DEOXYS. The crystalline organ on this POK�MON�s chest appears to be its brain.",
       "Sprites":"386.png (https://dl.airtable.com/.attachments/fc571d32a9da428f4953343fa367a807/f231bbbe/386.png),386.png (https://dl.airtable.com/.attachments/2c3c45d3beec55a2200a09dd700c5047/3634f6d3/386.png),386.png (https://dl.airtable.com/.attachments/d16438dec7607b8f0252a6f14c5b0480/a5ef853a/386.png),386.png (https://dl.airtable.com/.attachments/00adf43ddd2fdfc6ab62e83385dc82f4/5428e38b/386.png)",
       "Height":1.7,
       "Weight":60.8,
