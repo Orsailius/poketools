@@ -114,16 +114,18 @@ var pokemonTypes =
 
 window.onload = (event) =>
 {
-    var filterPokemonType = document.getElementById("filter-pokemon-type")
-    pokemonTypes.forEach(function(type)
-    {
-        var opt = document.createElement('option');
-        opt.value = type.name;
-        opt.innerHTML = type.name;
-        filterPokemonType.appendChild(opt);
-    });
+    createFilter();
 };
 
+buildTypeOptions = function()
+{
+    var options = "";
+    pokemonTypes.forEach(function(type)
+    {
+        options += `<option value="` + type.name +`">` + type.name + `</option>`;       
+    });
+    return options;
+}
 
 Tabulator.extendModule("format", "formatters", 
 {
@@ -139,21 +141,6 @@ Tabulator.extendModule("format", "formatters",
     },
 });
 
-function resists(data, filterParams)
-{     
-    return data["Half Damage From"].includes(filterParams.type) || 
-           data["No Damage From"].includes(filterParams.type);
-}
-
-function immuneTo(data, filterParams)
-{ 
-    return data["No Damage From"].includes(filterParams.type);
-}
-
-function weakTo(data, filterParams)
-{ 
-    return data["Double Damage From"].includes(filterParams.type);
-}
 
 //table.setFilter(customFilter, {height:3});
 
@@ -205,6 +192,8 @@ var table = new Tabulator("#example-table", {
    alert("Row " + row.getData().id + " Clicked!!!!");
 });*/
 
+var moveData = {}
+
 table.on("tableBuilt", function()
 {
     $.getJSON("pokemon.json", function( data ) 
@@ -223,6 +212,13 @@ table.on("tableBuilt", function()
             console.debug(error);
            //alert(error);
         });
+    });
+    $.getJSON("moves.json", function( data ) 
+    {      
+        data.forEach(x=>
+        {
+            moveData[x.Name] = x;            
+        })      
     });
 });
 
@@ -265,25 +261,127 @@ function fixDoubleDamageFrom(data)
     return data;
 }
 
+function resists(data, filterParams)
+{     
+    return data["Half Damage From"].includes(filterParams.type) || 
+           data["No Damage From"].includes(filterParams.type);
+}
+
+function immuneTo(data, filterParams)
+{ 
+    return data["No Damage From"].includes(filterParams.type);
+}
+
+function hasType(data, filterParams)
+{ 
+    return data["Types"].includes(filterParams.type);
+}
+
+function weakTo(data, filterParams)
+{ 
+    return data["Double Damage From"].includes(filterParams.type);
+}
+
+function isNotWeakTo(data, filterParams)
+{ 
+    return !data["Double Damage From"].includes(filterParams.type);
+}
+
+function hasDamagingMove(data, filterParams)
+{ 
+    var moves = data["Moves"].split(",");
+    for(var move of moves)
+    {
+        if(!moveData[move])
+        {
+            continue;
+        }
+        if(moveData[move].Type == filterParams.type)
+        {
+            if(moveData[move].Power != null && moveData[move].Power > 0)
+            {
+                return true;
+            }
+        }
+    }
+    return false;
+}
+
+var filterId = 0;
+var filters = 
+{
+    "Resists" : resists,
+    "Immune To": immuneTo,
+    "Weak To" : weakTo,
+    "Is Not Weak To" : isNotWeakTo,
+    "Has Damaging Move" : hasDamagingMove,
+    "Has Type" : hasType
+};
+
+function buildFilterOptions()
+{
+    var options = "";
+    Object.keys(filters).forEach(function(key)
+    {
+        options += `<option value="` + key +`">` +key + `</option>`;       
+    });
+    return options;
+}
+
 function updateFilter()
 {
-    var filterPokemonType = document.getElementById("filter-pokemon-type").value;  
-    var filterField = document.getElementById("filter-field").value; 
-    //console.log(filterField);
-    var filters = 
+    var filterList = [];
+    for(var i = 0;i < filterId;i++)
     {
-        "Resists" : resists,
-        "Immune To": immuneTo,
-        "Weak To" : weakTo
-    };
-    var filterType = filters[filterField];
-    //console.log(filterType);
-    var filterParams =
+        var filterFieldElement = document.getElementById("filter-field-"+i);
+        if(!filterFieldElement)
+        {
+            continue;
+        }
+        var filterPokemonType = document.getElementById("filter-pokemon-type-" + i).value;  
+        var filterField = filterFieldElement.value;      
+        var filter = filters[filterField];
+        var filterParams =
+        {
+            type: filterPokemonType
+        };
+        filterList.push({filter:filter, params:filterParams});
+    }
+    compose = (data,params)=>
     {
-        type: filterPokemonType
+        var ok = true;
+        filterList.forEach(x=>
+        {   
+            ok &= x.filter(data,x.params);
+        });
+        return ok;
     };
-    table.setFilter(filterType, filterParams);
-  }
+    table.setFilter(compose);
+}
 
-document.getElementById("filter-pokemon-type").addEventListener("change", updateFilter);
-document.getElementById("filter-field").addEventListener("change", updateFilter);
+function removeFilter(event)
+{
+    event.target.parentElement.remove();
+    updateFilter();
+}
+
+createFilter = function()
+{
+    var filterHTML = `
+      <label>Filter</label>
+      <select id="filter-field-` + filterId +`" onChange="updateFilter()">`
+      + buildFilterOptions() + `
+      </select> 
+
+      <label>Type</label>
+      <select id="filter-pokemon-type-` + filterId +`" onChange="updateFilter()">
+        ` + buildTypeOptions() +
+      `</select>  
+      <button id="filter-clear" onClick="removeFilter(event)">Remove Filter</button>
+    `;
+    filterId++;
+    var div = document.createElement("div");
+    div.innerHTML = filterHTML;
+    document.getElementById("filters").appendChild(div);
+    updateFilter();
+}

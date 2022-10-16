@@ -28,17 +28,11 @@
 </head>
 
 <body>
-  <div id="filters">
-    <select id="filter-field">
-      <option value="Resists">Resists</option>
-      <option value="Immune To">Immune To</option>
-      <option value="Weak To">Weak To</option>
-    </select> 
-  
-    <select id="filter-pokemon-type">
-
-    </select>  
-    <button id="filter-clear">Clear Filter</button>
+  <!--<button type="button" class="collapsible">Filters</button>-->
+  <div id="filters" class="table-controls">
+    <div>
+      <button onclick="createFilter()">Add a Filter</button>
+    </div>
   </div>
   <div id="example-table"></div>
   <!--   -->
