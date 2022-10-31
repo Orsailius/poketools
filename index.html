@@ -20,7 +20,9 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">-->
 
   <link href="https://unpkg.com/tabulator-tables@5.4.1/dist/css/tabulator_simple.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.4.1/dist/js/tabulator.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <script type="text/javascript" src="pokemon.json"></script>
   <link href="main.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-3.6.1.min.js" 
@@ -29,12 +31,20 @@
 
 <body>
   <!--<button type="button" class="collapsible">Filters</button>-->
-  <div id="filters" class="table-controls">
-    <div>
-      <button onclick="createFilter()">Add a Filter</button>
+  <header>
+    <nav>
+      <a href="javascript:switchToPokedex()">Pokedex</a> |||
+      <a href="javascript:switchToTeam()">Your Team</a>
+    </nav>
+  </header>
+  <div id="pageBody">
+    <div id="filters" class="table-controls">
+      <div>
+        <button onclick="createFilter()">Add a Filter</button>
+      </div>
     </div>
+    <div id="example-table"></div>
   </div>
-  <div id="example-table"></div>
   <!--   -->
   <script src="code.js"></script>
 </body>

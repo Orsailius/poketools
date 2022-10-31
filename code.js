@@ -111,10 +111,9 @@ var pokemonTypes =
 ]
 
 
-
 window.onload = (event) =>
 {
-    createFilter();
+    //createFilter();
 };
 
 buildTypeOptions = function()
@@ -135,12 +134,11 @@ Tabulator.extendModule("format", "formatters",
         var s = "<div>";
         types.forEach(function (t)
         {
-            s += "<a href='' class='pokemon-type pokemon-type-" + t.toLowerCase() + "'>" + t + "</a>";
+            s += "<a class='pokemon-type pokemon-type-" + t.toLowerCase() + "'>" + t + "</a>";
         });
         return s + "</div>"
     },
 });
-
 
 //table.setFilter(customFilter, {height:3});
 
@@ -162,65 +160,224 @@ createStatColumnHeader  = function(title, field)
         }};
 }
 
-//create Tabulator on DOM element with id "example-table"
-var table = new Tabulator("#example-table", {
-    height:805, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
-    layout:"fitColumns", //fit columns to width of table (optional)
- 	columns:[ //Define Table Columns
-	 	{title:"Name", field:"Name", width:150, frozen:true},
-	 	{title:"Types", field:"Types", formatter:"pokemonTypes"},
-        createStatColumnHeader("HP", "HP"),
-        createStatColumnHeader("Attack", "Attack"),
-        createStatColumnHeader("Defense", "Defense"),
-        createStatColumnHeader("Special Attack", "Special Attack"),
-        createStatColumnHeader("Special Defense", "Special Defense"),
-        createStatColumnHeader("Speed", "Speed"),
-        {title:"Base Stat Total", field: "BST", mutator:function(value, data)
-        {
-            return parseInt(data.HP) + 
-            parseInt(data.Attack) + 
-            parseInt(data.Defense) + 
-            parseInt(data["Special Attack"]) + 
-            parseInt(data["Special Defense"]) + 
-            parseInt(data.Speed);
-        }}
- 	]
-});
-
-//trigger an alert message when the row is clicked
-/*table.on("rowClick", function(e, row){ 
-   alert("Row " + row.getData().id + " Clicked!!!!");
-});*/
-
-var moveData = {}
-
-table.on("tableBuilt", function()
+function createTeamTypeTable()
 {
-    $.getJSON("pokemon.json", function( data ) 
-    {      
-        data = fixDoubleDamageFrom(data);
-        console.debug(data);
-        table.setData(data)
+    new Tabulator("#team-type-table", {
+        height:805, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+        layout:"fitColumns", //fit columns to width of table (optional)
+         columns:[ //Define Table Columns
+            {title:"Metric", field:"Metric", width:150, frozen:true},
+            {title:"Red Flag", field:"RedFlag"},
+            {title:"Warning", field:"Warning"},
+            {title:"Ok", field:"Ok"},
+            {title:"Good", field:"Good"},
+            {title:"Great", field:"Great"},
+         ]
+    });
+}
+
+var team = new Object();
+
+function createTeamTable()
+{
+    teamTable = new Tabulator("#team-table", {
+        height:805, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+        layout:"fitColumns", //fit columns to width of table (optional)
+         columns:[ //Define Table Columns
+             {title:"Name", field:"Name", width:150, frozen:true},
+             {title:"Types", field:"Types", formatter:"pokemonTypes"},
+             /*{title:"Ability", field: "Ability", editor:"true", mutator:function(value, data)
+             {
+                 return parseInt(data.HP) + 
+                 parseInt(data.Attack) + 
+                 parseInt(data.Defense) + 
+                 parseInt(data["Special Attack"]) + 
+                 parseInt(data["Special Defense"]) + 
+                 parseInt(data.Speed);
+             }},       */          
+         ]
+    });
+    //
+    teamTable.on("tableBuilt", function()
+    {
+        console.debug(team);
+        teamTable.setData(Object.values(team))
         .then(function()
         {
-            console.debug("Successfully Set Data");
+           // console.debug("Successfully Set Team Data");
             //alert("Success!");
         })
         .catch(function(error)
         {
-            console.debug("error");
+            console.debug("error setting team data");
             console.debug(error);
-           //alert(error);
         });
     });
-    $.getJSON("moves.json", function( data ) 
-    {      
-        data.forEach(x=>
+}
+
+
+switchToTeam = function()
+{
+    document.getElementById("pageBody").innerHTML = `<div id="team-table"></div>`;
+    createTeamTable();    
+}
+
+switchToPokedex = function()
+{
+    document.getElementById("pageBody").innerHTML = 
+    `<div id="filters" class="table-controls">
+    <div>
+      <button onclick="createFilter()">Add a Filter</button>
+    </div>
+    </div>
+    <div id="example-table"></div>`;
+    createPokedex();    
+}
+
+var moveData = {}
+var table;
+var pokemonData = new Array();
+
+addPokemonToTeam = function(pkmn)
+{
+    team[pkmn.Name] = pkmn;
+}
+
+removePokemonFromTeam = function(pkmn)
+{
+    delete team[pkmn.Name];
+}
+
+focusOnPokemon = function(data)
+{
+    console.debug("Firing Event for " + data.Name);
+    if(team.hasOwnProperty(data.Name))
+    {
+        Swal.fire({
+            title: data.Name,
+            text: 'Remove ' + data.Name + ' to Your Team?',
+            icon: 'question',
+            showCancelButton: true,
+            confirmButtonText: 'Kick!'
+        }).then((result)=>
         {
-            moveData[x.Name] = x;            
-        })      
+            if(result.isConfirmed)
+            {
+                removePokemonFromTeam(data);
+                Swal.fire
+                (
+                    'Success',
+                    data.Name + 'has been removed to your team',
+                    'success'
+                );
+            }
+        });
+    }
+    else
+    {
+        Swal.fire({
+            title: data.Name,
+            text: 'Add ' + data.Name + ' to Your Team?',
+            icon: 'question',
+            showCancelButton: true,
+            confirmButtonText: 'Yeah!'
+        }).then((result)=>
+        {
+            if(result.isConfirmed)
+            {
+                addPokemonToTeam(data);
+                Swal.fire
+                (
+                    'Success',
+                    data.Name + 'has been added to your team',
+                    'success'
+                );
+            }
+        });
+    }
+}
+
+function createPokedex()
+{
+    table = new Tabulator("#example-table", {
+        height:805, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+        layout:"fitColumns", //fit columns to width of table (optional)
+        rowClick:function(e, row)
+        {
+            focusOnPokemon(row.getData());
+        },
+        columns:[ //Define Table Columns
+            {title:"Name", field:"Name", width:150, frozen:true},
+            {title:"Types", field:"Types", width:175, formatter:"pokemonTypes"},
+            createStatColumnHeader("HP", "HP"),
+            createStatColumnHeader("Attack", "Attack"),
+            createStatColumnHeader("Defense", "Defense"),
+            createStatColumnHeader("Special Attack", "Special Attack"),
+            createStatColumnHeader("Special Defense", "Special Defense"),
+            createStatColumnHeader("Speed", "Speed"),
+            {title:"Base Stat Total", field: "BST", mutator:function(value, data)
+            {
+                return parseInt(data.HP) + 
+                parseInt(data.Attack) + 
+                parseInt(data.Defense) + 
+                parseInt(data["Special Attack"]) + 
+                parseInt(data["Special Defense"]) + 
+                parseInt(data.Speed);
+            }},         
+        ]
     });
-});
+
+    table.on("tableBuilt", function()
+    {
+        if(pokemonData.length == 0)
+        {
+            $.getJSON("pokemon.json", function( data ) 
+            {      
+                pokemonData = fixDoubleDamageFrom(data);
+                console.debug(data);
+                refreshPokedexTableData();
+            });
+            $.getJSON("moves.json", function( data ) 
+            {      
+                data.forEach(x=>
+                {
+                    moveData[x.Name] = x;            
+                })      
+            });
+        }
+        else
+        {
+            refreshPokedexTableData();
+        }
+    });
+
+    table.on("rowClick", function(e, row)
+    { 
+        focusOnPokemon(row.getData());
+    });
+}
+
+function refreshPokedexTableData()
+{
+    table.setData(pokemonData)
+    .then(function()
+    {
+        //console.debug("Successfully Set Data");
+        //alert("Success!");
+    })
+    .catch(function(error)
+    {
+        console.debug("error");
+        console.debug(error);
+    //alert(error);
+    });
+}
+//create Tabulator on DOM element with id "example-table"
+
+createPokedex();
+
+//trigger an alert message when the row is clicked
+
 
 function fixDoubleDamageFrom(data)
 {
