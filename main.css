@@ -19,6 +19,20 @@
     transition: opacity .4s;
 }
 
+.pokemon-type-for-move
+{
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.type-grid
+{
+    display: flex;
+    flex-wrap: wrap;
+    /*grid-template-columns: repeat(3, 1fr);*/
+}
+
 label {
     display: inline-block;
     max-width: 100%;
