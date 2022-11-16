@@ -1,9 +1,13 @@
 import {pokemonTypes} from './code/types.js';
+import {pokemonGames} from './code/games.js';
+import {pokemonFilters} from './code/filters.js';
+import {moveData} from './code/moves.js';
 
 
 window.onload = (event) =>
 {
     //createFilter();
+    window.switchToPokedex();
 };
 
 function buildTypeOptions()
@@ -12,6 +16,16 @@ function buildTypeOptions()
     pokemonTypes.forEach(function(type)
     {
         options += `<option value="` + type.name +`">` + type.name + `</option>`;       
+    });
+    return options;
+}
+
+function buildGameOptions()
+{
+    var options = "";
+    pokemonGames.forEach(function(gameName)
+    {
+        options += `<option value="` + gameName +`">` + gameName + `</option>`;       
     });
     return options;
 }
@@ -91,17 +105,22 @@ function createTeamTypeTable()
     });
     window.teamTypeTable.on("tableBuilt", function()
     {
-        window.teamTypeTable.setData(createTeamAnalytics())
-        .then(function()
-        {
-           // console.debug("Successfully Set Team Data");
-            //alert("Success!");
-        })
-        .catch(function(error)
-        {
-            console.debug("error setting team data");
-            console.debug(error);
-        });
+        refreshTeamAnalytics();
+    });
+}
+
+function refreshTeamAnalytics()
+{
+    window.teamTypeTable.setData(createTeamAnalytics())
+    .then(function()
+    {
+       // console.debug("Successfully Set Team Data");
+        //alert("Success!");
+    })
+    .catch(function(error)
+    {
+        console.debug("error setting team data");
+        console.debug(error);
     });
 }
 
@@ -340,42 +359,62 @@ function createTeamTable()
     //
     window.teamTable.on("tableBuilt", function()
     {
-        console.debug(team);
-        window.teamTable.setData(Object.values(team))
-        .then(function()
-        {
-           // console.debug("Successfully Set Team Data");
-            //alert("Success!");
-        })
-        .catch(function(error)
-        {
-            console.debug("error setting team data");
-            console.debug(error);
-        });
+        refreshTeamTable();
     });
 }
 
+function refreshTeamTable()
+{
+    console.debug(team);
+    window.teamTable.setData(Object.values(team))
+    .then(function()
+    {
+       // console.debug("Successfully Set Team Data");
+        //alert("Success!");
+    })
+    .catch(function(error)
+    {
+        console.debug("error setting team data");
+        console.debug(error);
+    });
+}
 
 window.switchToTeam = function switchToTeam()
 {
-    document.getElementById("pageBody").innerHTML = `<div id="team-table"></div><div id="team-type-table"></div>`;
-    createTeamTable();    
-    createTeamTypeTable();
+    if(document.getElementById("team").childElementCount == 0)
+    {
+        document.getElementById("team").innerHTML = `<div id="team-table"></div><div id="team-type-table"></div>`;
+        createTeamTable();    
+        createTeamTypeTable();
+    }
+    else
+    {
+        refreshTeamTable();
+        refreshTeamAnalytics();
+    }
+    document.getElementById("team").style.display = "block";
+    document.getElementById("pokedex").style.display = "none";
 }
 
 window.switchToPokedex = function switchToPokedex()
 {
-    document.getElementById("pageBody").innerHTML = 
-    `<div id="filters" class="table-controls">
-    <div>
-      <button onclick="createFilter()">Add a Filter</button>
-    </div>
-    </div>
-    <div id="example-table"></div>`;
-    createPokedex();    
+    if(document.getElementById("pokedex").childElementCount == 0)
+    {
+        document.getElementById("pokedex").innerHTML = 
+        `<div id="filters" class="table-controls">
+        <div>
+        <button id="createFilterButton" >Add a Filter</button>
+        <label id="pokemonFound" style="display:inline-block"> Found Pokemon</label>
+        </div>
+        </div>
+        <div id="example-table"></div>`;
+        document.getElementById("createFilterButton").addEventListener("click", (ev) => createFilter());
+        createPokedex();    
+    }
+    document.getElementById("pokedex").style.display = "block";        
+    document.getElementById("team").style.display = "none";
 }
 
-var moveData = {}
 var table;
 var pokemonData = new Array();
 
@@ -546,7 +585,12 @@ function createPokedex()
             {      
                 pokemonData = fixDoubleDamageFrom(data);
                 console.debug(data);
-                refreshPokedexTableData();
+                $.getJSON("scarletVioletExp.json", function( dataex ) 
+                {      
+                    console.debug(dataex);
+                    pokemonData = pokemonData.concat(fixDoubleDamageFrom(dataex));    
+                    refreshPokedexTableData();
+                });
             });
             $.getJSON("moves.json", function( data ) 
             {      
@@ -560,6 +604,11 @@ function createPokedex()
         {
             refreshPokedexTableData();
         }
+    });
+
+    table.on("dataFiltered", function(filters, rows)
+    {
+        document.getElementById("pokemonFound").innerText = "Pokemon Found: " + rows.length;
     });
 
     table.on("rowClick", function(e, row)
@@ -585,7 +634,7 @@ function refreshPokedexTableData()
 }
 //create Tabulator on DOM element with id "example-table"
 
-createPokedex();
+//createPokedex();
 
 //trigger an alert message when the row is clicked
 
@@ -629,67 +678,12 @@ function fixDoubleDamageFrom(data)
     return data;
 }
 
-function resists(data, filterParams)
-{     
-    return data["Half Damage From"].includes(filterParams.type) || 
-           data["No Damage From"].includes(filterParams.type);
-}
-
-function immuneTo(data, filterParams)
-{ 
-    return data["No Damage From"].includes(filterParams.type);
-}
-
-function hasType(data, filterParams)
-{ 
-    return data["Types"].includes(filterParams.type);
-}
-
-function weakTo(data, filterParams)
-{ 
-    return data["Double Damage From"].includes(filterParams.type);
-}
-
-function isNotWeakTo(data, filterParams)
-{ 
-    return !data["Double Damage From"].includes(filterParams.type);
-}
-
-function hasDamagingMove(data, filterParams)
-{ 
-    var moves = data["Moves"].split(",");
-    for(var move of moves)
-    {
-        if(!moveData[move])
-        {
-            continue;
-        }
-        if(moveData[move].Type == filterParams.type)
-        {
-            if(moveData[move].Power != null && moveData[move].Power > 0)
-            {
-                return true;
-            }
-        }
-    }
-    return false;
-}
-
 var filterId = 0;
-var filters = 
-{
-    "Resists" : resists,
-    "Immune To": immuneTo,
-    "Weak To" : weakTo,
-    "Is Not Weak To" : isNotWeakTo,
-    "Has Damaging Move" : hasDamagingMove,
-    "Has Type" : hasType
-};
 
 function buildFilterOptions()
 {
     var options = "";
-    Object.keys(filters).forEach(function(key)
+    Object.keys(pokemonFilters).forEach(function(key)
     {
         options += `<option value="` + key +`">` +key + `</option>`;       
     });
@@ -705,17 +699,33 @@ function updateFilter()
         if(!filterFieldElement)
         {
             continue;
-        }
-        var filterPokemonType = document.getElementById("filter-pokemon-type-" + i).value;  
-        var filterField = filterFieldElement.value;      
-        var filter = filters[filterField];
-        var filterParams =
+        }         
+        var filterParams = {};
+        var filterField = filterFieldElement.value;
+        var filter = pokemonFilters[filterField]; 
+        if(filter.params=="type")
         {
-            type: filterPokemonType
-        };
-        filterList.push({filter:filter, params:filterParams});
+            var filterPokemonType = document.getElementById("filter-pokemon-type-" + i).value;
+            filterParams.type = filterPokemonType;
+            //
+            document.getElementById("filter-pokemon-game-" + i).style.display = "none";
+            document.getElementById("filter-pokemon-game-label-" + i).style.display = "none";
+            document.getElementById("filter-pokemon-type-" + i).style.display = "inline-block";
+            document.getElementById("filter-pokemon-type-label-" + i).style.display = "inline-block";
+        }
+        else if(filter.params=="game")
+        {
+            var filterPokemonGame = document.getElementById("filter-pokemon-game-" + i).value;  
+            filterParams.game = filterPokemonGame;
+            document.getElementById("filter-pokemon-game-" + i).style.display = "inline-block";
+            document.getElementById("filter-pokemon-game-label-" + i).style.display = "inline-block";
+            document.getElementById("filter-pokemon-type-" + i).style.display = "none";
+            document.getElementById("filter-pokemon-type-label-" + i).style.display = "none";
+        }
+        var filterFunc = filter.filter;
+        filterList.push({filter:filterFunc, params:filterParams});
     }
-    compose = (data,params)=>
+    var compose = (data,params)=>
     {
         var ok = true;
         filterList.forEach(x=>
@@ -737,19 +747,30 @@ function createFilter()
 {
     var filterHTML = `
       <label>Filter</label>
-      <select id="filter-field-` + filterId +`" onChange="updateFilter()">`
+      <select id="filter-field-` + filterId +`">`
       + buildFilterOptions() + `
       </select> 
 
-      <label>Type</label>
-      <select id="filter-pokemon-type-` + filterId +`" onChange="updateFilter()">
+      <label id=filter-pokemon-type-label-` + filterId + `>Type</label>
+      <select id="filter-pokemon-type-` + filterId +`">
         ` + buildTypeOptions() +
       `</select>  
-      <button id="filter-clear" onClick="removeFilter(event)">Remove Filter</button>
-    `;
-    filterId++;
+
+      <label id=filter-pokemon-game-label-` + filterId + `>Game</label>
+      <select id="filter-pokemon-game-` + filterId +`">
+        ` + buildGameOptions() +
+      `</select>  
+      <button id="filter-clear-` + filterId + `" onClick="window.removeFilter">Remove Filter</button>
+    `;  
     var div = document.createElement("div");
     div.innerHTML = filterHTML;
     document.getElementById("filters").appendChild(div);
+    document.getElementById("filter-clear-" + filterId).addEventListener("click",(evt)=>removeFilter(evt));
+    document.getElementById("filter-pokemon-type-" + filterId).addEventListener("change",(evt)=>updateFilter());
+    document.getElementById("filter-pokemon-game-" + filterId).addEventListener("change",(evt)=>updateFilter());
+    document.getElementById("filter-field-" + filterId).addEventListener("change",(evt)=>updateFilter());
+    //
+    filterId++;
+    //
     updateFilter();
 }
