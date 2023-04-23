@@ -9,10 +9,10 @@ const usePokemonData = async function()
     {
         return pokemonData;
     }
-    const response = await fetch('/pokemon.json');
+    const response = await fetch('pokemon.json');
     const data = await response.json();
     pokemonData = fixDoubleDamageFrom(data);
-    const response2 = await fetch('/scarletVioletExp.json');
+    const response2 = await fetch('scarletVioletExp.json');
     const dataex = await response2.json();
     console.debug(dataex);
     pokemonData = pokemonData.concat(fixDoubleDamageFrom(dataex));    
