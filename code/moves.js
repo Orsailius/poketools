@@ -6,7 +6,7 @@ const useMoveData = async function()
     {
         return moveData;
     }
-    const response = await fetch('/moves.json');
+    const response = await fetch('moves.json');
     const data = await response.json();
     data.forEach(x=>
     {
