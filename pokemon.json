@@ -22,7 +22,8 @@
       "Half Damage Against":"Flying,Poison,Bug,Steel,Fire,Grass,Dragon,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Ground,Water,Grass,Electric,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Steel",
-      "No Damage From":""
+      "No Damage From":"",
+      "Emits":"Grass"
    },
    {
       "Name":"Ivysaur",
@@ -47,7 +48,8 @@
       "Half Damage Against":"Flying,Poison,Bug,Steel,Fire,Grass,Dragon,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Ground,Water,Grass,Electric,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Steel",
-      "No Damage From":""
+      "No Damage From":"",
+      "Emits":"Grass"
    },
    {
       "Name":"Venusaur",
@@ -72,7 +74,8 @@
       "Half Damage Against":"Flying,Poison,Bug,Steel,Fire,Grass,Dragon,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Ground,Water,Grass,Electric,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Steel",
-      "No Damage From":""
+      "No Damage From":"",
+      "Emits":"Grass"
    },
    {
       "Name":"Charmander",
@@ -147,7 +150,8 @@
       "Half Damage Against":"Rock,Fire,Water,Dragon,Rock,Steel,Electric",
       "Half Damage From":"Bug,Steel,Fire,Grass,Ice,Fairy,Fighting,Bug,Grass",
       "No Damage Against":"",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Fire"
    },
    {
       "Name":"Squirtle",
@@ -397,7 +401,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Pidgeotto",
@@ -422,7 +427,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Pidgeot",
@@ -447,7 +453,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Rattata",
@@ -522,7 +529,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Fearow",
@@ -547,7 +555,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Ekans",
@@ -1847,7 +1856,8 @@
       "Half Damage Against":"Fighting,Ground,Steel,Bug,Grass",
       "Half Damage From":"Normal,Flying,Poison,Fire,Poison,Rock",
       "No Damage Against":"Flying",
-      "No Damage From":"Electric"
+      "No Damage From":"Electric",
+      "Emits":"Rock"
    },
    {
       "Name":"Graveler",
@@ -1872,7 +1882,8 @@
       "Half Damage Against":"Fighting,Ground,Steel,Bug,Grass",
       "Half Damage From":"Normal,Flying,Poison,Fire,Poison,Rock",
       "No Damage Against":"Flying",
-      "No Damage From":"Electric"
+      "No Damage From":"Electric",
+      "Emits":"Rock"
    },
    {
       "Name":"Golem",
@@ -1897,7 +1908,8 @@
       "Half Damage Against":"Fighting,Ground,Steel,Bug,Grass",
       "Half Damage From":"Normal,Flying,Poison,Fire,Poison,Rock",
       "No Damage Against":"Flying",
-      "No Damage From":"Electric"
+      "No Damage From":"Electric",
+      "Emits":"Rock"
    },
    {
       "Name":"Ponyta",
@@ -2072,7 +2084,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Doduo",
@@ -2097,7 +2110,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Dodrio",
@@ -2122,7 +2136,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Seel",
@@ -2297,7 +2312,8 @@
       "Half Damage Against":"Dark,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Poison,Bug,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Normal,Steel",
-      "No Damage From":"Normal,Fighting"
+      "No Damage From":"Normal,Fighting",
+      "Emits":"Ghost"
    },
    {
       "Name":"Haunter",
@@ -2322,7 +2338,8 @@
       "Half Damage Against":"Dark,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Poison,Bug,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Normal,Steel",
-      "No Damage From":"Normal,Fighting"
+      "No Damage From":"Normal,Fighting",
+      "Emits":"Ghost"
    },
    {
       "Name":"Gengar",
@@ -2347,7 +2364,8 @@
       "Half Damage Against":"Dark,Poison,Ground,Rock,Ghost",
       "Half Damage From":"Poison,Bug,Fighting,Poison,Bug,Grass,Fairy",
       "No Damage Against":"Normal,Steel",
-      "No Damage From":"Normal,Fighting"
+      "No Damage From":"Normal,Fighting",
+      "Emits":"Ghost"
    },
    {
       "Name":"Onix",
@@ -2372,7 +2390,8 @@
       "Half Damage Against":"Fighting,Ground,Steel,Bug,Grass",
       "Half Damage From":"Normal,Flying,Poison,Fire,Poison,Rock",
       "No Damage Against":"Flying",
-      "No Damage From":"Electric"
+      "No Damage From":"Electric",
+      "Emits":"Rock"
    },
    {
       "Name":"Drowzee",
@@ -3072,7 +3091,8 @@
       "Half Damage Against":"Fighting,Flying,Poison,Ghost,Steel,Fire,Fairy,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Ground,Grass,Fighting,Bug,Grass",
       "No Damage Against":"",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Bug"
    },
    {
       "Name":"Jynx",
@@ -3597,7 +3617,8 @@
       "Half Damage Against":"Steel,Fire,Water,Ice,Rock,Steel,Electric",
       "Half Damage From":"Ice,Fighting,Bug,Grass",
       "No Damage Against":"",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Ice"
    },
    {
       "Name":"Zapdos",
@@ -3622,7 +3643,8 @@
       "Half Damage Against":"Grass,Electric,Dragon,Rock,Steel,Electric",
       "Half Damage From":"Flying,Steel,Electric,Fighting,Bug,Grass",
       "No Damage Against":"Ground",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Zapdos"
    },
    {
       "Name":"Moltres",
@@ -3647,7 +3669,8 @@
       "Half Damage Against":"Rock,Fire,Water,Dragon,Rock,Steel,Electric",
       "Half Damage From":"Bug,Steel,Fire,Grass,Ice,Fairy,Fighting,Bug,Grass",
       "No Damage Against":"",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Moltres"
    },
    {
       "Name":"Dratini",
@@ -3722,7 +3745,8 @@
       "Half Damage Against":"Steel,Rock,Steel,Electric",
       "Half Damage From":"Fire,Water,Grass,Electric,Fighting,Bug,Grass",
       "No Damage Against":"Fairy",
-      "No Damage From":"Ground"
+      "No Damage From":"Ground",
+      "Emits":"Dragon"
    },
    {
       "Name":"Mewtwo",
@@ -4072,7 +4096,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Noctowl",
@@ -4097,7 +4122,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Ledyba",
@@ -5197,7 +5223,8 @@
       "Half Damage Against":"Steel,Fire,Water,Electric,Bug,Grass",
       "Half Damage From":"Normal,Flying,Rock,Bug,Steel,Grass,Psychic,Ice,Dragon,Fairy,Poison,Rock",
       "No Damage Against":"Flying",
-      "No Damage From":"Poison,Electric"
+      "No Damage From":"Poison,Electric",
+      "Emits":"Steel"
    },
    {
       "Name":"Snubbull",
@@ -6897,7 +6924,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Swellow",
@@ -6922,7 +6950,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Wingull",
@@ -8322,7 +8351,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Altaria",
@@ -9897,7 +9927,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Staravia",
@@ -9922,7 +9953,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Staraptor",
@@ -9947,7 +9979,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Bidoof",
@@ -11022,7 +11055,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Spiritomb",
@@ -12972,7 +13006,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Tranquill",
@@ -12997,7 +13032,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Unfezant",
@@ -13022,7 +13058,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Blitzle",
@@ -15672,7 +15709,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Braviary",
@@ -15697,7 +15735,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Vullaby",
@@ -16522,7 +16561,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Fletchinder",
@@ -18272,7 +18312,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Trumbeak",
@@ -18297,7 +18338,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Toucannon",
@@ -18322,7 +18364,8 @@
       "Half Damage Against":"Rock,Steel,Rock,Steel,Electric",
       "Half Damage From":"Fighting,Bug,Grass",
       "No Damage Against":"Ghost",
-      "No Damage From":"Ghost,Ground"
+      "No Damage From":"Ghost,Ground",
+      "Emits":"Flying"
    },
    {
       "Name":"Yungoos",

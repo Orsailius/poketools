@@ -27,5 +27,6 @@ export var pokemonGames =
     "Sword",
     "Shield",
     "Scarlet",
-    "Violet"
+    "Violet",
+    "Infinite Fusion"
 ]

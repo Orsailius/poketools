@@ -1,4 +1,5 @@
-import {moveData} from './moves.js';
+import useMoveData from './moves.js';
+import infiniteFusionList from './infiniteFusionList.js';
 
 export var pokemonFilters = 
 {
@@ -11,17 +12,40 @@ export var pokemonFilters =
     "In Game": {filter:presentInGame, params:"game"},
 };
 
-function presentInGame(data,filterParams)
+export function presentInGame(data,filterParams)
 {
-    var games = data["Games"].split(",");
-    for(var game of games)
+    const isInGame = (gameToCheck)=>
     {
-        if(game == filterParams.game)
+        var games = data["Games"].split(",");    
+        for(var game of games)
+        {
+            if(game == gameToCheck)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    if(filterParams.game == "Infinite Fusion")
+    {
+        if(data.Name.indexOf("(Mega)") != -1)
+        {
+            return false;
+        }
+        if(isInGame("Red") || isInGame("Gold"))
         {
             return true;
+        }       
+        for(var record of infiniteFusionList)
+        {
+            if(record.indexOf(data["Name"]) != -1)
+            {
+                return true;
+            }
         }
+        return false;
     }
-    return false;
+    return isInGame(filterParams.game);
 }
 
 function resists(data, filterParams)
@@ -53,6 +77,7 @@ function isNotWeakTo(data, filterParams)
 function hasDamagingMove(data, filterParams)
 { 
     var moves = data["Moves"].split(",");
+    const moveData = useMoveData();
     for(var move of moves)
     {
         if(!moveData[move])

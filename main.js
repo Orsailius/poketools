@@ -1,7 +1,9 @@
 import {pokemonTypes} from './code/types.js';
 import {pokemonGames} from './code/games.js';
 import {pokemonFilters} from './code/filters.js';
-import {moveData} from './code/moves.js';
+import useMoveData from './code/moves.js';
+import usePokemonData from './code/pokemon.js';
+import { createFusionData } from './code/pokemon.js';
 
 
 window.onload = (event) =>
@@ -201,42 +203,38 @@ function groupSuperEffective(superEffective, superCount, type)
     }
 }
 
+function createAnalyicsObject(metric)
+{
+   var object = 
+    {
+        Metric: metric,
+        RedFlag:[],
+        Warning:[],
+        Ok:[],
+        Good:[],
+        Great:[],
+    };
+    return object;
+}
+
+function isWeakTo()
+{
+    
+}
+
 function createTeamAnalytics()
 {  
-    var resist = 
-    {
-        Metric: "Take Half From",
-        RedFlag:[],
-        Warning:[],
-        Ok:[],
-        Good:[],
-        Great:[],
-    };
-    var weakTo = 
-    {
-        Metric: "Take Double From",
-        RedFlag:[],
-        Warning:[],
-        Ok:[],
-        Good:[],
-        Great:[],
-    };
-    var superEffective = 
-    {
-        Metric: "Can Hit Super",
-        RedFlag:[],
-        Warning:[],
-        Ok:[],
-        Good:[],
-        Great:[],
-    };
+    var resist = createAnalyicsObject("Take Half From");
+    var weakTo = createAnalyicsObject("Take Double From");     
+    var superEffective = createAnalyicsObject("Can Hit Super");
+
     pokemonTypes.forEach(type=>
     {    
         var resistCount = 0;
         var weakCount = 0;
         var hitSuper = 0;
         Object.values(team).forEach(p=>
-        {
+        {        
             var myTypes = p.Types.split(",");       
             if(myTypes.length == 1)
             {
@@ -341,6 +339,11 @@ function moveClick(e,cell)
     showMoveSelector(cell.getData(), cell.getColumn().getField());
 }
 
+function teamFocusClick(e,cell)
+{
+    focusOnPokemon(cell.getData());
+}
+
 function createTeamTable()
 {
     window.teamTable = new Tabulator("#team-table", {
@@ -348,12 +351,26 @@ function createTeamTable()
         layout:"fitColumns", //fit columns to width of table (optional)
         index:"Name",
         columns:[ //Define Table Columns
-            {title:"Name", field:"Name", width:150, frozen:true},
+            {title:"Name", field:"Name", width:150, frozen:true, cellClick: teamFocusClick},
             {title:"Types", field:"Types", formatter:"pokemonTypes"},
             {title:"Move 1", field:"Move1", formatter: moveChoiceFormatter, cellClick: moveClick},
             {title:"Move 2", field:"Move2", formatter: moveChoiceFormatter, cellClick: moveClick},
             {title:"Move 3", field:"Move3", formatter: moveChoiceFormatter, cellClick: moveClick},
             {title:"Move 4", field:"Move4", formatter: moveChoiceFormatter, cellClick: moveClick},
+            {title:"Attacker Type", field:"Attacker Type", mutator:function(value, data)
+            {
+                const attack = parseInt(data.Attack);
+                const spAttack = parseInt(data["Special Attack"]);
+                if(attack - spAttack > 25)
+                {
+                    return "Physical";
+                }
+                if(spAttack - attack > 25)
+                {
+                    return "Special";
+                }
+                return "Mixed";
+            }},         
          ]
     });
     //
@@ -365,6 +382,10 @@ function createTeamTable()
 
 function refreshTeamTable()
 {
+    if(window.teamTable == null)
+    {
+        return;
+    }
     console.debug(team);
     window.teamTable.setData(Object.values(team))
     .then(function()
@@ -415,11 +436,32 @@ window.switchToPokedex = function switchToPokedex()
     document.getElementById("team").style.display = "none";
 }
 
-var table;
-var pokemonData = new Array();
 
-function createMoveTable(data, column)
+/*window.switchToFusionSearch = function switchToFusionSearch()
 {
+    if(document.getElementById("fusionSearch").childElementCount == 0)
+    {
+        document.getElementById("fusionSearch").innerHTML = 
+        `<div id="filters" class="table-controls">
+            <div>
+                <button id="createFilterButton" >Add a Filter</button>
+                <label id="pokemonFound" style="display:inline-block"> Found Pokemon</label>
+            </div>
+        </div>
+        <div id="fusion-table"></div>`;
+        document.getElementById("createFilterButton").addEventListener("click", (ev) => createFilter());
+        createPokedex();    
+    }
+    document.getElementById("pokedex").style.display = "block";        
+    document.getElementById("team").style.display = "none";
+}*/
+
+var table;
+
+async function createMoveTable(data, column)
+{
+    const moveData = await useMoveData();
+
     window.moveTable = new Tabulator("#move-table", {
         height:605, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
         layout:"fitColumns", //fit columns to width of table (optional)
@@ -432,12 +474,13 @@ function createMoveTable(data, column)
          ]
     });
     //
-    window.moveTable.on("tableBuilt", function()
+    window.moveTable.on("tableBuilt", async function()
     {
         var moves = data["Moves"].split(",");
-        var pkmnMoves = new Array();
+        var pkmnMoves = new Array();       
         for(var move of moves)
         {
+            console.log(move);
             if(!moveData[move])
             {
                 continue;
@@ -514,6 +557,7 @@ function focusOnPokemon(data)
             if(result.isConfirmed)
             {
                 removePokemonFromTeam(data);
+                refreshTeamTable();
                 Swal.fire
                 (
                     'Success',
@@ -528,6 +572,7 @@ function focusOnPokemon(data)
         Swal.fire({
             title: data.Name,
             text: 'Add ' + data.Name + ' to Your Team?',
+            html: "<button onClick=\"switchToFusion(\'" + data.Name + "\')\"> Search for Fusion </button>",
             icon: 'question',
             showCancelButton: true,
             confirmButtonText: 'Yeah!'
@@ -547,8 +592,27 @@ function focusOnPokemon(data)
     }
 }
 
-function createPokedex()
+window.switchToFusion = async function(pokemonName)
 {
+    const pokemon = (await usePokemonData()).find(x=>x.Name == pokemonName);
+    const fusions = createFusionData(pokemon, table.getData(true));
+    table.setData(fusions);
+    const cancelButton = document.getElementById("cancelFusion");
+    cancelButton.style.display = "block";
+    cancelButton.addEventListener("click", (evt)=>
+    {
+        refreshPokedexTableData();
+        cancelButton.style.display = "none";
+    });
+    console.log(fusions[0]);
+    Swal.clickCancel();
+}
+
+async function createPokedex()
+{
+    await usePokemonData();
+    await useMoveData();
+
     table = new Tabulator("#example-table", {
         height:805, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
         layout:"fitColumns", //fit columns to width of table (optional)
@@ -578,32 +642,8 @@ function createPokedex()
     });
 
     table.on("tableBuilt", function()
-    {
-        if(pokemonData.length == 0)
-        {
-            $.getJSON("pokemon.json", function( data ) 
-            {      
-                pokemonData = fixDoubleDamageFrom(data);
-                console.debug(data);
-                $.getJSON("scarletVioletExp.json", function( dataex ) 
-                {      
-                    console.debug(dataex);
-                    pokemonData = pokemonData.concat(fixDoubleDamageFrom(dataex));    
-                    refreshPokedexTableData();
-                });
-            });
-            $.getJSON("moves.json", function( data ) 
-            {      
-                data.forEach(x=>
-                {
-                    moveData[x.Name] = x;            
-                })      
-            });
-        }
-        else
-        {
-            refreshPokedexTableData();
-        }
+    { 
+        refreshPokedexTableData();
     });
 
     table.on("dataFiltered", function(filters, rows)
@@ -617,9 +657,10 @@ function createPokedex()
     });
 }
 
-function refreshPokedexTableData()
+async function refreshPokedexTableData()
 {
-    table.setData(pokemonData)
+    const pokemon = await usePokemonData();
+    table.setData(pokemon)
     .then(function()
     {
         //console.debug("Successfully Set Data");
@@ -639,44 +680,7 @@ function refreshPokedexTableData()
 //trigger an alert message when the row is clicked
 
 
-function fixDoubleDamageFrom(data)
-{
-    data.forEach(e => 
-    {
-        e["Double Damage From"] = "";
-        pokemonTypes.forEach(type=>
-        {
-            var myTypes = e.Types.split(",");
-            var multiple = 1;
-            myTypes.forEach(mt=>
-            {
-                var typeObject = pokemonTypes.find(x=>x.name == mt);
-                if(typeObject == undefined)
-                {
-                    console.log("No Type Found:" + mt)
-                    return;
-                }
-                if(typeObject.weakTo.includes(type.name))
-                {
-                    multiple *= 2;
-                }
-                if(typeObject.resists.includes(type.name))
-                {
-                    multiple *= 0.5;
-                }
-                if(typeObject.immuneTo.includes(type.name))
-                {
-                    multiple *= 0;
-                }
-            });
-            if(multiple > 1)
-            {
-                e["Double Damage From"] += "," + type.name;
-            }
-        });
-    });
-    return data;
-}
+
 
 var filterId = 0;
 
